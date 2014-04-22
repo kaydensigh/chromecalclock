@@ -1,0 +1,1301 @@
+{
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Funafuti": {
+    "message": "ஃபுனாஃபுடி"
+  },
+  "tz_Fiji": {
+    "message": "பிஜி"
+  },
+  "tz_Auckland": {
+    "message": "ஆக்லாந்து"
+  },
+  "tz_Tarawa": {
+    "message": "Tarawa"
+  },
+  "tz_Majuro": {
+    "message": "Majuro"
+  },
+  "tz_Efate": {
+    "message": "ஈஃபேட்"
+  },
+  "tz_Norfolk": {
+    "message": "நோர்போக்"
+  },
+  "tz_Kwajalein": {
+    "message": "க்வஜாலைன்"
+  },
+  "tz_Nauru": {
+    "message": "நவூரு"
+  },
+  "tz_Wake": {
+    "message": "வேக்"
+  },
+  "tz_Kosrae": {
+    "message": "கோஸ்ரே"
+  },
+  "tz_Noumea": {
+    "message": "நவுமியா"
+  },
+  "tz_Guadalcanal": {
+    "message": "தேதிகள்"
+  },
+  "tz_Pohnpei": {
+    "message": "Pohnpei"
+  },
+  "tz_Chuuk": {
+    "message": "Chuuk"
+  },
+  "tz_Port_Moresby": {
+    "message": "போர்த் மாரெஸ்பீ"
+  },
+  "tz_Saipan": {
+    "message": "சைப்பான்"
+  },
+  "tz_Guam": {
+    "message": "குவாம்"
+  },
+  "tz_Palau": {
+    "message": "பலாவு"
+  },
+  "tz_Galapagos": {
+    "message": "Galapagos"
+  },
+  "tz_Easter": {
+    "message": "இயேசு நாதர் உயிர்த்தெழுந்த நாள்"
+  },
+  "tz_Pitcairn": {
+    "message": "பிட்கன்"
+  },
+  "tz_Gambier": {
+    "message": "சென்னை"
+  },
+  "tz_Marquesas": {
+    "message": "மார்குயிஸ்"
+  },
+  "tz_Tahiti": {
+    "message": "Tahiti"
+  },
+  "tz_Kiritimati": {
+    "message": "க்ரிமடி"
+  },
+  "tz_Honolulu": {
+    "message": "ஹொனலுலு"
+  },
+  "tz_Rarotonga": {
+    "message": "ரரோடோங்கா"
+  },
+  "tz_Johnston": {
+    "message": "ஜான்ஸ்டன்"
+  },
+  "tz_Niue": {
+    "message": "நியுவே"
+  },
+  "tz_Enderbury": {
+    "message": "எண்டர்பரி"
+  },
+  "tz_Pago_Pago": {
+    "message": "பாகோ பாகோ"
+  },
+  "tz_Fakaofo": {
+    "message": "ஃபகாஃபோ"
+  },
+  "tz_Apia": {
+    "message": "அப்பிய"
+  },
+  "tz_Tongatapu": {
+    "message": "இருள் கவிந்த"
+  },
+  "tz_Wallis": {
+    "message": "வாலிஸ்"
+  },
+  "tz_Chatham": {
+    "message": "சத்தாம்"
+  },
+  "tz_Midway": {
+    "message": "வழியில்"
+  },
+  "tz_Pacific": {
+    "message": "அமைதியான"
+  },
+  "tz_Christmas": {
+    "message": "கிறிஸ்து பிறந்த திருநாள்"
+  },
+  "tz_Cocos": {
+    "message": "கோகோஸ்"
+  },
+  "tz_Chagos": {
+    "message": "சாகோசு"
+  },
+  "tz_Maldives": {
+    "message": "மாலைதீவு"
+  },
+  "tz_Kerguelen": {
+    "message": "கெர்குலியன்"
+  },
+  "tz_Mauritius": {
+    "message": "மொரிஷியஸ்"
+  },
+  "tz_Mahe": {
+    "message": "மாஹே"
+  },
+  "tz_Reunion": {
+    "message": "மறு இணக்கம்"
+  },
+  "tz_Antananarivo": {
+    "message": "அண்டனானரீவோ"
+  },
+  "tz_Comoro": {
+    "message": "கொமரோ"
+  },
+  "tz_Mayotte": {
+    "message": "மயோட்டே"
+  },
+  "tz_Indian": {
+    "message": "இந்திய"
+  },
+  "tz_Samara": {
+    "message": "சமர"
+  },
+  "tz_Moscow": {
+    "message": "மாஸ்கோ"
+  },
+  "tz_Volgograd": {
+    "message": "வோல்கக்ர்யாட்"
+  },
+  "tz_Zaporozhye": {
+    "message": "ஜாப்போரொழிதியே"
+  },
+  "tz_Simferopol": {
+    "message": "சீம்பெரோபோல்"
+  },
+  "tz_Kiev": {
+    "message": "கீவ்"
+  },
+  "tz_Istanbul": {
+    "message": "இஸ்தான்புல்"
+  },
+  "tz_Chisinau": {
+    "message": "மொல்டோவா"
+  },
+  "tz_Minsk": {
+    "message": "மின்ஸ்க்"
+  },
+  "tz_Bucharest": {
+    "message": "புக்கரெஸ்ட்"
+  },
+  "tz_Vilnius": {
+    "message": "லித்துவேனியா"
+  },
+  "tz_Helsinki": {
+    "message": "ஹெல்சின்கி"
+  },
+  "tz_Tallinn": {
+    "message": "ட்யாலிந்"
+  },
+  "tz_Riga": {
+    "message": "ரீகா"
+  },
+  "tz_Athens": {
+    "message": "ஏதென்ஸ்"
+  },
+  "tz_Sofia": {
+    "message": "சோபியா"
+  },
+  "tz_Uzhgorod": {
+    "message": "ஊழ்கோறோத்"
+  },
+  "tz_Skopje": {
+    "message": "ஸ்கொப்ஜெ"
+  },
+  "tz_Kaliningrad": {
+    "message": "கலினின்கிராட்"
+  },
+  "tz_Warsaw": {
+    "message": "வார்சா"
+  },
+  "tz_Belgrade": {
+    "message": "பெல்கிரேடில்"
+  },
+  "tz_Mariehamn": {
+    "message": "மறிேம்ன்"
+  },
+  "tz_Tirane": {
+    "message": "திரானே"
+  },
+  "tz_Podgorica": {
+    "message": "மொண்டெனேகுரோ"
+  },
+  "tz_Budapest": {
+    "message": "புடாபெஸ்ட்"
+  },
+  "tz_Sarajevo": {
+    "message": "ஸாரஜேயேவொ"
+  },
+  "tz_Bratislava": {
+    "message": "ப்ரேடிஸ்லாவ"
+  },
+  "tz_Stockholm": {
+    "message": "ஸ்டாக்ஹோம்"
+  },
+  "tz_Vienna": {
+    "message": "வியன்னா"
+  },
+  "tz_Zagreb": {
+    "message": "ஜக்ரெப்"
+  },
+  "tz_Malta": {
+    "message": "மால்டா"
+  },
+  "tz_Prague": {
+    "message": "ப்ரா"
+  },
+  "tz_Ljubljana": {
+    "message": "லியூப்லியந"
+  },
+  "tz_Berlin": {
+    "message": "பெர்லின்"
+  },
+  "tz_Copenhagen": {
+    "message": "கோபன்ஹேகனில்"
+  },
+  "tz_Rome": {
+    "message": "ரோம்"
+  },
+  "tz_San_Marino": {
+    "message": "சான் மரீனோ"
+  },
+  "tz_Vatican": {
+    "message": "ரோம் நகரில் உள்ள போப் அவர்களின் மாளிகை"
+  },
+  "tz_Oslo": {
+    "message": "ஒஸ்லோ"
+  },
+  "tz_Vaduz": {
+    "message": "வாடுஸ்"
+  },
+  "tz_Busingen": {
+    "message": "பஸிங்கென்"
+  },
+  "tz_Zurich": {
+    "message": "சூரிச்"
+  },
+  "tz_Monaco": {
+    "message": "மொனாக்கோ"
+  },
+  "tz_Luxembourg": {
+    "message": "லக்சம்பர்க்"
+  },
+  "tz_Amsterdam": {
+    "message": "ஆம்ஸ்டர்டாம்"
+  },
+  "tz_Brussels": {
+    "message": "பிரஸ்ஸல்ஸ்"
+  },
+  "tz_Paris": {
+    "message": "பாரிஸ்"
+  },
+  "tz_Andorra": {
+    "message": "அன்டோரா"
+  },
+  "tz_London": {
+    "message": "லண்டன்"
+  },
+  "tz_Jersey": {
+    "message": "ஜெர்சி"
+  },
+  "tz_Guernsey": {
+    "message": "குயெர்ன்சி"
+  },
+  "tz_Isle_of_Man": {
+    "message": "ஐல் ஆஃப் மேன்"
+  },
+  "tz_Gibraltar": {
+    "message": "ஜிப்ரால்டர்"
+  },
+  "tz_Madrid": {
+    "message": "மாட்ரிட்"
+  },
+  "tz_Dublin": {
+    "message": "டப்ளின்"
+  },
+  "tz_Lisbon": {
+    "message": "லிஸ்பன்"
+  },
+  "tz_Europe": {
+    "message": "ஐரோப்பா"
+  },
+  "tz_Brisbane": {
+    "message": "பிரிஸ்பேன்"
+  },
+  "tz_Lord_Howe": {
+    "message": "லார்ட் ஹொ"
+  },
+  "tz_Sydney": {
+    "message": "சிட்னி"
+  },
+  "tz_Lindeman": {
+    "message": "Lindeman"
+  },
+  "tz_Hobart": {
+    "message": "ஹோபார்ட்"
+  },
+  "tz_Melbourne": {
+    "message": "மெல்போர்ன்"
+  },
+  "tz_Currie": {
+    "message": "கர்ரி"
+  },
+  "tz_Broken_Hill": {
+    "message": "உடைந்த ஹில்"
+  },
+  "tz_Adelaide": {
+    "message": "அடிலெய்ட்"
+  },
+  "tz_Darwin": {
+    "message": "டார்வின்"
+  },
+  "tz_Eucla": {
+    "message": "Eucla"
+  },
+  "tz_Perth": {
+    "message": "பெர்த்"
+  },
+  "tz_Australia": {
+    "message": "ஆஸ்திரேலியா"
+  },
+  "tz_St_Helena": {
+    "message": "செயின்ட் ஹெலினா"
+  },
+  "tz_Faroe": {
+    "message": "பரோயே"
+  },
+  "tz_Canary": {
+    "message": "கேனரி"
+  },
+  "tz_Madeira": {
+    "message": "வ"
+  },
+  "tz_Reykjavik": {
+    "message": "ரிகியவிக்"
+  },
+  "tz_Cape_Verde": {
+    "message": "கேப் வேர்ட்"
+  },
+  "tz_Azores": {
+    "message": "அசோர்ஸ்"
+  },
+  "tz_South_Georgia": {
+    "message": "தெற்கு ஜார்ஜியா"
+  },
+  "tz_Stanley": {
+    "message": "ஸ்டான்லி"
+  },
+  "tz_Bermuda": {
+    "message": "பெர்முடா"
+  },
+  "tz_Anadyr": {
+    "message": "Anadyr"
+  },
+  "tz_Atlantic": {
+    "message": "அட்லாண்டிக்"
+  },
+  "tz_Kamchatka": {
+    "message": "காம்சட்கா"
+  },
+  "tz_Magadan": {
+    "message": "Magadan"
+  },
+  "tz_Ust__Nera": {
+    "message": "Ust-நேரா"
+  },
+  "tz_Sakhalin": {
+    "message": "சாக்ஹலின்"
+  },
+  "tz_Jayapura": {
+    "message": "ஜயபுற"
+  },
+  "tz_Khandyga": {
+    "message": "Khandyga"
+  },
+  "tz_Tokyo": {
+    "message": "டோக்கியோ"
+  },
+  "tz_Yakutsk": {
+    "message": "பர்ம்"
+  },
+  "tz_Vladivostok": {
+    "message": "விளாடி"
+  },
+  "tz_Seoul": {
+    "message": "சியோல்"
+  },
+  "tz_Harbin": {
+    "message": "ஹார்பின்"
+  },
+  "tz_Pyongyang": {
+    "message": "பியோங்யாங்"
+  },
+  "tz_Dili": {
+    "message": "Dili"
+  },
+  "tz_Taipei": {
+    "message": "தைப்பே"
+  },
+  "tz_Shanghai": {
+    "message": "ஷாங்காய்"
+  },
+  "tz_Manila": {
+    "message": "மணிலா"
+  },
+  "tz_Makassar": {
+    "message": "செமரங்"
+  },
+  "tz_Brunei": {
+    "message": "புருனே"
+  },
+  "tz_Choibalsan": {
+    "message": "சோய்பால்சான்"
+  },
+  "tz_Macau": {
+    "message": "மகாவ்"
+  },
+  "tz_Hong_Kong": {
+    "message": "ஹாங்காங்"
+  },
+  "tz_Kuching": {
+    "message": "குசிங்"
+  },
+  "tz_Pontianak": {
+    "message": "போந்டியானக்"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "உளான்பாத்தர்"
+  },
+  "tz_Jakarta": {
+    "message": "ஜகார்த்தா"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "ஹோ சி மின்"
+  },
+  "tz_Chongqing": {
+    "message": "சோங்கிங்"
+  },
+  "tz_Phnom_Penh": {
+    "message": "புனோம்"
+  },
+  "tz_Irkutsk": {
+    "message": "இர்குட்ஸ்க்"
+  },
+  "tz_Singapore": {
+    "message": "சிங்கப்பூர்"
+  },
+  "tz_Vientiane": {
+    "message": "வியஞ்சான்"
+  },
+  "tz_Bangkok": {
+    "message": "பாங்காக்"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "கோலாலம்பூர்"
+  },
+  "tz_Rangoon": {
+    "message": "ரங்கூன்"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "க்ராஸ்நாயர்ஸ்க்"
+  },
+  "tz_Hovd": {
+    "message": "ஹோவ்த்"
+  },
+  "tz_Dhaka": {
+    "message": "டாக்கா"
+  },
+  "tz_Thimphu": {
+    "message": "திம்பு"
+  },
+  "tz_Kolkata": {
+    "message": "கொல்கத்தா"
+  },
+  "tz_Urumqi": {
+    "message": "உரும்கியில்"
+  },
+  "tz_Novokuznetsk": {
+    "message": "நோவோக்குஜ்ன்ேட்ஸ்க்"
+  },
+  "tz_Novosibirsk": {
+    "message": "நோவஸிபிர்ஸ்க்"
+  },
+  "tz_Kathmandu": {
+    "message": "கட்மாண்டு"
+  },
+  "tz_Colombo": {
+    "message": "கொழும்பு"
+  },
+  "tz_Almaty": {
+    "message": "அள்மாடி"
+  },
+  "tz_Kashgar": {
+    "message": "காஷ்கருக்கு"
+  },
+  "tz_Bishkek": {
+    "message": "பிஷ்கெக்"
+  },
+  "tz_Omsk": {
+    "message": "ஓம்ஸ்க்"
+  },
+  "tz_Tashkent": {
+    "message": "தாஷ்கண்ட்"
+  },
+  "tz_Kabul": {
+    "message": "காபூலில்"
+  },
+  "tz_Dushanbe": {
+    "message": "தஜிகிஸ்தான்"
+  },
+  "tz_Karachi": {
+    "message": "கராச்சி"
+  },
+  "tz_Samarkand": {
+    "message": "நாவல்"
+  },
+  "tz_Qyzylorda": {
+    "message": "Qyzylorda"
+  },
+  "tz_Yekaterinburg": {
+    "message": "யேகாடெரின்பர்க்"
+  },
+  "tz_Muscat": {
+    "message": "மஸ்க்யாட்"
+  },
+  "tz_Ashgabat": {
+    "message": "அசுகாபாத்"
+  },
+  "tz_Aqtobe": {
+    "message": "அக்டோப்"
+  },
+  "tz_Dubai": {
+    "message": "துபாய்"
+  },
+  "tz_Qatar": {
+    "message": "கத்தார்"
+  },
+  "tz_Tehran": {
+    "message": "தெஹ்ரான்"
+  },
+  "tz_Oral": {
+    "message": "ஓரல்"
+  },
+  "tz_Bahrain": {
+    "message": "பஹ்ரைன்"
+  },
+  "tz_Aqtau": {
+    "message": "அக்தவ்"
+  },
+  "tz_Baku": {
+    "message": "பாக்கு"
+  },
+  "tz_Kuwait": {
+    "message": "குவைத்"
+  },
+  "tz_Riyadh": {
+    "message": "ரியாத்"
+  },
+  "tz_Aden": {
+    "message": "ஏடன்"
+  },
+  "tz_Tbilisi": {
+    "message": "ட்பைலீஸீ"
+  },
+  "tz_Yerevan": {
+    "message": "யெரெவந்"
+  },
+  "tz_Baghdad": {
+    "message": "பாக்தாத்தில்"
+  },
+  "tz_Damascus": {
+    "message": "டமாஸ்கஸ்"
+  },
+  "tz_Amman": {
+    "message": "அம்மன்"
+  },
+  "tz_Beirut": {
+    "message": "பெய்ரூட்"
+  },
+  "tz_Hebron": {
+    "message": "எப்ரோனிலே"
+  },
+  "tz_Jerusalem": {
+    "message": "ஜெருசலேம்"
+  },
+  "tz_Gaza": {
+    "message": "காசா"
+  },
+  "tz_Nicosia": {
+    "message": "நிகோசியா"
+  },
+  "tz_Asia": {
+    "message": "ஆசியா"
+  },
+  "tz_Longyearbyen": {
+    "message": "லொங்கியெர்பியேன்"
+  },
+  "tz_Arctic": {
+    "message": "ஆர்க்டிக்"
+  },
+  "tz_McMurdo": {
+    "message": "மெக்மர்டோ"
+  },
+  "tz_Macquarie": {
+    "message": "Macquarie"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Casey": {
+    "message": "கேசி"
+  },
+  "tz_Vostok": {
+    "message": "வோஸ்டாக்"
+  },
+  "tz_Davis": {
+    "message": "டேவிஸ்"
+  },
+  "tz_Syowa": {
+    "message": "ஸ்யோவா"
+  },
+  "tz_Mawson": {
+    "message": "மவுசன்"
+  },
+  "tz_Troll": {
+    "message": "கவலையின்றி பாடு"
+  },
+  "tz_Palmer": {
+    "message": "புனித பயணம் சென்று திரும்பியவர்"
+  },
+  "tz_Rothera": {
+    "message": "ரோதேரா"
+  },
+  "tz_Antarctica": {
+    "message": "அண்ட்டார்க்ட்டுக்கா கண்டம்"
+  },
+  "tz_Scoresbysund": {
+    "message": "ஸ்கோர்ஸ்பைஸுண்ட்"
+  },
+  "tz_Danmarkshavn": {
+    "message": "டென்மார்க்ஷாவ்ன்"
+  },
+  "tz_Recife": {
+    "message": "ர்ஸைஃபே"
+  },
+  "tz_Noronha": {
+    "message": "இந்தோனேசியா"
+  },
+  "tz_Maceio": {
+    "message": "மாசேஓ"
+  },
+  "tz_Fortaleza": {
+    "message": "கேப்"
+  },
+  "tz_Bahia": {
+    "message": "பாஹியா"
+  },
+  "tz_Sao_Paulo": {
+    "message": "ஸ்ம் பாலொ"
+  },
+  "tz_Belem": {
+    "message": "பெலேம்"
+  },
+  "tz_Araguaina": {
+    "message": "அரகுவாய்னா"
+  },
+  "tz_Godthab": {
+    "message": "கோத்தப்"
+  },
+  "tz_Cayenne": {
+    "message": "கெய்ன்"
+  },
+  "tz_St_Johns": {
+    "message": "செயின்ட் ஜான்ஸ்"
+  },
+  "tz_Campo_Grande": {
+    "message": "கிரான்டே"
+  },
+  "tz_Santarem": {
+    "message": "சந்தரெம்"
+  },
+  "tz_Paramaribo": {
+    "message": "ப்யாரேமரிபொ"
+  },
+  "tz_Cuiaba": {
+    "message": "குய்யப"
+  },
+  "tz_Montevideo": {
+    "message": "வீடியோ"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "பிளாங்க்-Sablon"
+  },
+  "tz_Miquelon": {
+    "message": "மிக்யூலன்"
+  },
+  "tz_Asuncion": {
+    "message": "பராகுவே"
+  },
+  "tz_Guyana": {
+    "message": "கயானா"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "அர்ஜென்டீனா / ஏர்ஸ்"
+  },
+  "tz_Barbados": {
+    "message": "பார்படாஸ்"
+  },
+  "tz_Glace_Bay": {
+    "message": "சமையலறை பே"
+  },
+  "tz_Manaus": {
+    "message": "மனஸ்"
+  },
+  "tz_Goose_Bay": {
+    "message": "Goose Bay"
+  },
+  "tz_Boa_Vista": {
+    "message": "போவா"
+  },
+  "tz_St_Lucia": {
+    "message": "செயின்ட் லூசியா"
+  },
+  "tz_Martinique": {
+    "message": "மார்டீனிக்"
+  },
+  "tz_St_Vincent": {
+    "message": "செயின்ட் வின்சென்ட்"
+  },
+  "tz_Dominica": {
+    "message": "டொமினிக்கா"
+  },
+  "tz_Port_of_Spain": {
+    "message": "போர்ட் ஆஃப் ஸ்பெயின்"
+  },
+  "tz_Guadeloupe": {
+    "message": "குவாதலூப்பே"
+  },
+  "tz_Grenada": {
+    "message": "கிரெனடா"
+  },
+  "tz_Antigua": {
+    "message": "ஆன்டிகுவா"
+  },
+  "tz_Montserrat": {
+    "message": "மொன்செராட்"
+  },
+  "tz_St_Kitts": {
+    "message": "செயின்ட் கிட்ஸ்"
+  },
+  "tz_St_Barthelemy": {
+    "message": "St Barthelemy"
+  },
+  "tz_Lower_Princes": {
+    "message": "லோயர் பிரின்சஸ்"
+  },
+  "tz_Anguilla": {
+    "message": "அங்கியுலா"
+  },
+  "tz_Marigot": {
+    "message": "Marigot"
+  },
+  "tz_Halifax": {
+    "message": "ஆடவா"
+  },
+  "tz_Porto_Velho": {
+    "message": "வெல்ஹோ"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "அர்ஜென்டீனா / கார்டோப"
+  },
+  "tz_Tortola": {
+    "message": "டோர்டோலாவினை"
+  },
+  "tz_Moncton": {
+    "message": "மோன்க்டொன்"
+  },
+  "tz_St_Thomas": {
+    "message": "ஸ்ட் தாமஸ்"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "அர்ஜென்டீனா / துக்குமன்"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "அர்ஜென்டீனா / ஜுஜுய்"
+  },
+  "tz_Argentina___Salta": {
+    "message": "அர்ஜென்டீனா / சல்தா"
+  },
+  "tz_Pangnirtung": {
+    "message": "Pangnirtung"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "அர்ஜென்டீனா / Catamarca"
+  },
+  "tz_Puerto_Rico": {
+    "message": "புவேர்ட்டோ ரிக்கோ"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "அர்ஜென்டீனா / சன் லஸ்"
+  },
+  "tz_Caracas": {
+    "message": "கராகஸ்"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "அர்ஜென்டீனா / ரையஜ"
+  },
+  "tz_Rio_Branco": {
+    "message": "பிரான்கோ"
+  },
+  "tz_La_Paz": {
+    "message": "லா பாஸ்"
+  },
+  "tz_Kralendijk": {
+    "message": "Kralendijk"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "அர்ஜென்டீனா / உஷ்ுையா"
+  },
+  "tz_Iqaluit": {
+    "message": "இகல்யூயிட்"
+  },
+  "tz_Thule": {
+    "message": "துலே"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "அர்ஜென்டீனா / சான் ஜுவான்"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "அர்ஜென்டீனா / மெண்டோசா"
+  },
+  "tz_Curacao": {
+    "message": "குறக்ககோ"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "அர்ஜென்டீனா / ரியோ GALLEGOS"
+  },
+  "tz_Eirunepe": {
+    "message": "Eirunepe"
+  },
+  "tz_Santo_Domingo": {
+    "message": "கையேந்"
+  },
+  "tz_Aruba": {
+    "message": "அரூப"
+  },
+  "tz_Santiago": {
+    "message": "சாண்டியாகோ"
+  },
+  "tz_Grand_Turk": {
+    "message": "துர்க்"
+  },
+  "tz_Port__au__Prince": {
+    "message": "Port-au-Prince"
+  },
+  "tz_New_York": {
+    "message": "நியூயார்க்"
+  },
+  "tz_Bogota": {
+    "message": "பொகடா"
+  },
+  "tz_Jamaica": {
+    "message": "ஜமைக்கா"
+  },
+  "tz_Lima": {
+    "message": "லிமா"
+  },
+  "tz_Toronto": {
+    "message": "டொராண்டோ"
+  },
+  "tz_Nassau": {
+    "message": "ந்யாஸ்யாய"
+  },
+  "tz_Guayaquil": {
+    "message": "க்வாயேகில்"
+  },
+  "tz_Panama": {
+    "message": "பனாமா"
+  },
+  "tz_Cayman": {
+    "message": "கேமன்"
+  },
+  "tz_Havana": {
+    "message": "ஹவானா"
+  },
+  "tz_Detroit": {
+    "message": "டெட்ராய்ட்"
+  },
+  "tz_Costa_Rica": {
+    "message": "கோஸ்டா ரிகா"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "கென்டக்கி / Monticello"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "இந்தியானா / Vevay"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "கென்டக்கி / லூயிஸ்வில்"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "இந்தியானா / இண்டியானாபோலிஸ்"
+  },
+  "tz_Managua": {
+    "message": "நிக்கராகுவா"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "இந்தியானா / Marengo"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "இந்தியானா / Winamac"
+  },
+  "tz_Indiana___Knox": {
+    "message": "இந்தியானா / நாக்ஸ்"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "இந்தியானா / நகரம் சொல்லுங்கள்"
+  },
+  "tz_Cancun": {
+    "message": "கான்கன்"
+  },
+  "tz_Tegucigalpa": {
+    "message": "டெக்யூஸிக்யால்ப"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "இந்தியானா / வின்சென்னஸ்"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "இந்தியானா / பீட்டர்ஸ்பர்க்"
+  },
+  "tz_Chicago": {
+    "message": "சிகாகோ"
+  },
+  "tz_Menominee": {
+    "message": "menominee"
+  },
+  "tz_Nipigon": {
+    "message": "Nipigon"
+  },
+  "tz_Belize": {
+    "message": "பெலிஸ்"
+  },
+  "tz_El_Salvador": {
+    "message": "எல் சல்வடோர்"
+  },
+  "tz_Thunder_Bay": {
+    "message": "பாய்"
+  },
+  "tz_Merida": {
+    "message": "மர்ரிட"
+  },
+  "tz_Guatemala": {
+    "message": "குவாத்தமாலா"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "ராங்கின் நுழைவாயில்"
+  },
+  "tz_Rainy_River": {
+    "message": "மழை நதி"
+  },
+  "tz_Resolute": {
+    "message": "திடமான"
+  },
+  "tz_Winnipeg": {
+    "message": "வின்னிபெக்"
+  },
+  "tz_Mexico_City": {
+    "message": "மெக்ஸிக்கோ சிட்டி"
+  },
+  "tz_Matamoros": {
+    "message": "மதமோரோஸ்"
+  },
+  "tz_Monterrey": {
+    "message": "மான்டெர்ரி"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "வடக்கு டகோட்டா / மையம்"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "வடக்கு டகோட்டா / நியூ சேலம்"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "வடக்கு டகோட்டா / யூஏஈ திர்ஹாம்"
+  },
+  "tz_Regina": {
+    "message": "அரசி"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_Denver": {
+    "message": "டென்வர்"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "கேம்பிரிட்ஜ் பே"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "பாஹியா பெண்டெராஸ்"
+  },
+  "tz_Chihuahua": {
+    "message": "சிவாவா"
+  },
+  "tz_Mazatlan": {
+    "message": "மஜத்லன்"
+  },
+  "tz_Swift_Current": {
+    "message": "தற்போதைய ஸ்விஃப்ட்"
+  },
+  "tz_Hermosillo": {
+    "message": "ஹெர்மோசில்லோ"
+  },
+  "tz_Phoenix": {
+    "message": "பீனிக்ஸ்"
+  },
+  "tz_Edmonton": {
+    "message": "எட்மன்டன்"
+  },
+  "tz_Yellowknife": {
+    "message": "எழிலோவ்க்ணிபே"
+  },
+  "tz_Santa_Isabel": {
+    "message": "சாண்டா இசபெல்"
+  },
+  "tz_Boise": {
+    "message": "பாய்ஸீ"
+  },
+  "tz_Creston": {
+    "message": "க்ரெஸ்டந்"
+  },
+  "tz_Tijuana": {
+    "message": "டிவாந"
+  },
+  "tz_Los_Angeles": {
+    "message": "லாஸ் ஏஞ்சல்ஸ்"
+  },
+  "tz_Dawson_Creek": {
+    "message": "டாவ்ஸந் க்ரீக்"
+  },
+  "tz_Vancouver": {
+    "message": "வான்கூவர்"
+  },
+  "tz_Metlakatla": {
+    "message": "Metlakatla"
+  },
+  "tz_Inuvik": {
+    "message": "Inuvik"
+  },
+  "tz_Juneau": {
+    "message": "ஜூனோ"
+  },
+  "tz_Whitehorse": {
+    "message": "வைட்ஹார்ஸ்"
+  },
+  "tz_Sitka": {
+    "message": "இதிலுள்ள"
+  },
+  "tz_Dawson": {
+    "message": "டாசன்"
+  },
+  "tz_Yakutat": {
+    "message": "Yakutat"
+  },
+  "tz_Anchorage": {
+    "message": "நங்கூரம் பாய்ச்சுமிடம்"
+  },
+  "tz_Nome": {
+    "message": "Nome"
+  },
+  "tz_Adak": {
+    "message": "Adak"
+  },
+  "tz_America": {
+    "message": "அமெரிக்கா"
+  },
+  "tz_Mogadishu": {
+    "message": "சோமாலியா"
+  },
+  "tz_Djibouti": {
+    "message": "ஜிபூட்டி"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "தார் எஸ் ஸலாம்"
+  },
+  "tz_Addis_Ababa": {
+    "message": "அடிஸ் அபாபா"
+  },
+  "tz_Asmara": {
+    "message": "அஸ்மார"
+  },
+  "tz_Nairobi": {
+    "message": "நைரோபி"
+  },
+  "tz_Blantyre": {
+    "message": "ப்ல்யாந்டை"
+  },
+  "tz_Maputo": {
+    "message": "மாபடோ"
+  },
+  "tz_Khartoum": {
+    "message": "கார்டூம்"
+  },
+  "tz_Kampala": {
+    "message": "கம்பாலா"
+  },
+  "tz_Juba": {
+    "message": "Juba"
+  },
+  "tz_Cairo": {
+    "message": "கெய்ரோ"
+  },
+  "tz_Mbabane": {
+    "message": "அம்பபான்"
+  },
+  "tz_Harare": {
+    "message": "ஹராரே"
+  },
+  "tz_Kigali": {
+    "message": "கிகாலி"
+  },
+  "tz_Bujumbura": {
+    "message": "புசும்புரா"
+  },
+  "tz_Lusaka": {
+    "message": "ல்யூஸாகா"
+  },
+  "tz_Johannesburg": {
+    "message": "ஜோகன்னஸ்பர்க்"
+  },
+  "tz_Maseru": {
+    "message": "மேஸெரூ"
+  },
+  "tz_Gaborone": {
+    "message": "கபோரோன்"
+  },
+  "tz_Lubumbashi": {
+    "message": "ஜெர்மனி"
+  },
+  "tz_Bangui": {
+    "message": ": பாங்கி"
+  },
+  "tz_Windhoek": {
+    "message": "விந்ட்ஹோக்"
+  },
+  "tz_Brazzaville": {
+    "message": "ப்ரஜாவீல்"
+  },
+  "tz_Kinshasa": {
+    "message": "கின்ஷாசா"
+  },
+  "tz_Ndjamena": {
+    "message": "சாட்"
+  },
+  "tz_Luanda": {
+    "message": "லுவாண்டா"
+  },
+  "tz_Tunis": {
+    "message": "ட்யூநிஸ்"
+  },
+  "tz_Tripoli": {
+    "message": "திரிப்போலியில்"
+  },
+  "tz_Douala": {
+    "message": "கமரூன்"
+  },
+  "tz_Malabo": {
+    "message": "மாளபோ"
+  },
+  "tz_Libreville": {
+    "message": "லிப்ரெவில்"
+  },
+  "tz_Sao_Tome": {
+    "message": "சாவோ டோமி"
+  },
+  "tz_Lagos": {
+    "message": "லாகோஸ்"
+  },
+  "tz_Algiers": {
+    "message": "ஆல்ஜியர்ஸ்"
+  },
+  "tz_Porto__Novo": {
+    "message": "நோவோ"
+  },
+  "tz_Niamey": {
+    "message": "நியாமி"
+  },
+  "tz_Lome": {
+    "message": "லமீ"
+  },
+  "tz_Accra": {
+    "message": "அக்ர"
+  },
+  "tz_Abidjan": {
+    "message": "ஐவோரி"
+  },
+  "tz_Ouagadougou": {
+    "message": "வாகடூகு"
+  },
+  "tz_Ceuta": {
+    "message": "சீடா"
+  },
+  "tz_Casablanca": {
+    "message": "மொரோக்கோ"
+  },
+  "tz_Bamako": {
+    "message": "பமாக்கோ"
+  },
+  "tz_Monrovia": {
+    "message": "மந்ரோவீய"
+  },
+  "tz_El_Aaiun": {
+    "message": "எல் ஆயுன்"
+  },
+  "tz_Conakry": {
+    "message": "பெருநகரம்: கொனாக்ரி"
+  },
+  "tz_Freetown": {
+    "message": "சியேரா"
+  },
+  "tz_Bissau": {
+    "message": "பிசாவு"
+  },
+  "tz_Nouakchott": {
+    "message": "நவாக்சோட்"
+  },
+  "tz_Banjul": {
+    "message": "கம்பியா"
+  },
+  "tz_Dakar": {
+    "message": "தக்கார்"
+  },
+  "tz_Africa": {
+    "message": "ஆப்ரிக்கா"
+  },
+  "ui_addTimezone": {
+    "message": "சேர்"
+  },
+  "ui_extraTimezones": {
+    "message": "கூடுதல் நேர மண்டலங்களை"
+  },
+  "ui_autoHide": {
+    "message": "தானாக மறை"
+  },
+  "ui_alwaysOnTop": {
+    "message": "எப்போதும் மேலாக"
+  },
+  "manifest_description": {
+    "message": "ஒரு வசதியான காலண்டர் மற்றும் கடிகாரம் விட்ஜெட்டை."
+  },
+  "manifest_name": {
+    "message": "நாள்காட்டி கடிகாரம்"
+  }
+}

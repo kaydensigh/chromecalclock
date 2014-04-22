@@ -1,0 +1,301 @@
+/* main window
+********************************************************/
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: "Trebuchet MS", sans-serif;
+}
+.draggable {
+  -webkit-app-region: drag;
+  height: 100%;
+  width: 100%;
+}
+.calendarDiv {
+  float: left;
+  height: 200px;
+  width: 220px;
+}
+#input {
+  display: none;
+}
+
+/* settings
+********************************************************/
+#settingsCog {
+  -webkit-app-region: no-drag;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+img {
+  opacity: 0.2;
+}
+img:hover {
+  opacity: 1.0;
+}
+img:active {
+  opacity: 0.7;
+}
+#settingsOverlay {
+  -webkit-app-region: no-drag;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 100%;
+  z-index: 1001;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#settingsDiv {
+  -webkit-app-region: no-drag;
+  float: left;
+  margin: 20px 20px 20px 40px;
+  height: 140px;
+  width: 300px;
+  z-index: 1002;
+  background-color: white;
+  opacity: 1.0;
+  
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.settingsItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.settingsSpacer {
+  border-bottom: lightgrey 1px solid;
+}
+#timezoneRegions, .timezoneCities {
+  width: 110px;
+}
+.removeTimezoneDiv {
+  margin: 80px 60px 0 60px;
+  height: 40px;
+  width: 40px;
+  float: left;
+  background-color: white;
+}
+.removeTimezone {
+  margin: 5px;
+  height: 30px;
+  width: 30px;
+  opacity: 0.5;
+}
+
+/* clock
+********************************************************/
+.clockDiv {
+  float: left;
+  height: 200px;
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.city {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.clockLarge .city {
+  display: none;
+}
+.clockLarge svg {
+  margin-top: 5px;
+  height: 150px;
+  width: 150px;
+}
+.clockSmall svg {
+  height: 120px;
+  width: 120px;
+}
+.time {
+  -webkit-app-region: no-drag;
+  margin: 2px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+}
+.clockSmall .time {
+  font-size: 16px;
+}
+.date {
+  color: #888;
+}
+.clockLarge .date {
+  display: none;
+}
+svg {
+  fill: #fff;
+  stroke: #000;
+  stroke-linecap: round;
+}
+.hour_ticks {
+  stroke: #888;
+  stroke-width: 1px;
+}
+.minute_ticks {
+  stroke: #888;
+  stroke-width: 0.5px;
+}
+.hour_hand {
+  stroke: #555;
+  stroke-width: 2px;
+}
+.minute_hand {
+  stroke: #555;
+  stroke-width: 1.5px;
+}
+.second_hand {
+  stroke: #666;
+  stroke-width: 0.5px;
+}
+.hub {
+  stroke: #555;
+  stroke-width: 3px;
+}
+
+/* datepicker_calendar
+********************************************************/
+.datepicker_calendar {
+	position: absolute;
+	font-size: 12px;
+	color: #333;
+	line-height: normal;
+	width: 189px;
+	height: 170px;
+	padding: 15px 10px 15px 10px;
+}
+
+/* header
+********************************************************/
+.datepicker_calendar .header {
+	position: relative;
+	height: 20px;
+	margin-bottom: 5px;
+}
+.datepicker_calendar .header .title {
+	text-align: center;
+	margin: 0 18px 0 18px;
+}
+.datepicker_calendar .header .titleText {
+  -webkit-app-region: no-drag;
+	font-size: 16px;
+  font-weight: bold;
+}
+.datepicker_calendar .header .previous,
+.datepicker_calendar .header .next {
+  -webkit-app-region: no-drag;
+	position: absolute;
+	cursor: pointer;
+	text-indent: -40px;
+	overflow: hidden;
+	top: 2px;
+	
+	width: 0;
+	height: 0;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+}
+.datepicker_calendar .header .previous {
+	left: 4px;
+	border-right: 5px solid black;
+}
+.datepicker_calendar .header .next {
+	right: 4px;
+	border-left: 5px solid black;
+}
+.datepicker_calendar .header .closeButton {
+	display: none;
+}
+
+/* body
+********************************************************/
+.datepicker_calendar .body {
+	position: relative;
+	top: 0px;
+	left: 2px;
+	width: 189px;
+	height: 138px;
+	overflow: hidden;
+}
+
+/* days-grid
+********************************************************/
+.datepicker_calendar .days .day {
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 16px;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+	overflow: hidden;
+	width: 21px;
+	height: 16px;
+	margin: 2px 3px 2px 3px;
+}
+.datepicker_calendar .days .titles {
+	height: 17px;
+	border-bottom: 1px solid #e0e0e0;
+	font-size: 10px;
+}
+.datepicker_calendar .days .title {
+  font-weight: normal;
+  text-shadow: none;
+	width: 27px;
+	margin: 2px 0 2px 0;
+}
+
+/* days-colors
+********************************************************/
+.datepicker_calendar .days .otherMonth {
+	color: #aaa;
+  text-shadow: none;
+}
+
+/* months-grid
+********************************************************/
+.datepicker_calendar .months .month {
+  -webkit-app-region: no-drag;
+	float: left;
+	cursor: pointer;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+	width: 57px;
+	overflow: hidden;
+	height: 30px;
+	margin: 2px 3px 2px 3px;
+	font-size: 14px;
+}
+
+/* years-grid
+********************************************************/
+.datepicker_calendar .years .year {
+  -webkit-app-region: no-drag;
+	float: left;
+	cursor: pointer;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 26px;
+	width: 35px;
+	overflow: hidden;
+	height: 26px;
+	margin: 4px 1px 4px 1px;
+}
+
+/* global
+********************************************************/
+.datepicker_calendar .today {
+  background: #cdf;
+  font-weight: bold;
+}
+.datepicker_calendar .unavailable {
+	background: none !important;
+	color: #fbb !important;
+	cursor: default !important;
+}

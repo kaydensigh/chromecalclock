@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      svg {
+        margin-top: 5px;
+        height: 150px;
+        width: 150px;
+        fill: #fff;
+        stroke: #000;
+        stroke-linecap: round;
+      }
+      .hour_ticks {
+        stroke: #888;
+        stroke-width: 2px;
+      }
+      .hour_hand {
+        stroke: #555;
+        stroke-width: 4px;
+      }
+      .minute_hand {
+        stroke: #555;
+        stroke-width: 3px;
+      }
+      .second_hand {
+        stroke: #666;
+        stroke-width: 1px;
+      }
+      .hub {
+        stroke: #555;
+        stroke-width: 6px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <svg viewBox="-50 -50 100 100">
+      <g class="pointers" transform="rotate(180, 0, 0)">
+        <line class="hour_hand" x1="0" y1="0" x2="0" y2="20" transform="rotate(86, 0, 0)"/>
+        <line class="minute_hand" x1="0" y1="0" x2="0" y2="30" transform="rotate(315, 0, 0)"/>
+        <line class="second_hand" x1="0" y1="-7" x2="0" y2="35" transform="rotate(204, 0, 0)"/>
+        <line class="hub" x1="0" y1="0" x2="0" y2="0" />
+      </g>
+      <g class="hour_ticks">
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(0, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(30, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(60, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(90, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(120, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(150, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(180, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(210, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(240, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(270, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(300, 0, 0)" />
+        <line x1="0" y1="37" x2="0" y2="41" transform="rotate(330, 0, 0)" />
+      </g>
+    </svg>
+  </body>
+</html>

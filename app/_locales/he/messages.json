@@ -1,0 +1,1301 @@
+{
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Funafuti": {
+    "message": "פונפוטי"
+  },
+  "tz_Fiji": {
+    "message": "פיג'י"
+  },
+  "tz_Tarawa": {
+    "message": "טאראווה"
+  },
+  "tz_Auckland": {
+    "message": "אוקלנד"
+  },
+  "tz_Majuro": {
+    "message": "מאג'ורו"
+  },
+  "tz_Efate": {
+    "message": "אפטה"
+  },
+  "tz_Norfolk": {
+    "message": "נורפולק"
+  },
+  "tz_Kwajalein": {
+    "message": "קוואג'ליין"
+  },
+  "tz_Nauru": {
+    "message": "נאורו"
+  },
+  "tz_Wake": {
+    "message": "שובל"
+  },
+  "tz_Noumea": {
+    "message": "נומאה"
+  },
+  "tz_Kosrae": {
+    "message": "קוסריי"
+  },
+  "tz_Guadalcanal": {
+    "message": "גוודלקנל"
+  },
+  "tz_Pohnpei": {
+    "message": "פוהנפיי"
+  },
+  "tz_Chuuk": {
+    "message": "צ'וק"
+  },
+  "tz_Port_Moresby": {
+    "message": "פורט מורסבי"
+  },
+  "tz_Saipan": {
+    "message": "סאיפאן"
+  },
+  "tz_Guam": {
+    "message": "גואה"
+  },
+  "tz_Palau": {
+    "message": "פלאו"
+  },
+  "tz_Galapagos": {
+    "message": "גלפגוס"
+  },
+  "tz_Easter": {
+    "message": "פסחא"
+  },
+  "tz_Pitcairn": {
+    "message": "פיטקרן"
+  },
+  "tz_Marquesas": {
+    "message": "מרקיז"
+  },
+  "tz_Gambier": {
+    "message": "Gambier"
+  },
+  "tz_Tahiti": {
+    "message": "טהיטי"
+  },
+  "tz_Kiritimati": {
+    "message": "קיריטימטי"
+  },
+  "tz_Honolulu": {
+    "message": "הונולולו"
+  },
+  "tz_Johnston": {
+    "message": "ג'ונסטון"
+  },
+  "tz_Rarotonga": {
+    "message": "רארוטונגה"
+  },
+  "tz_Niue": {
+    "message": "ניואה"
+  },
+  "tz_Pago_Pago": {
+    "message": "פאגו פאגו"
+  },
+  "tz_Fakaofo": {
+    "message": "פקאופו"
+  },
+  "tz_Enderbury": {
+    "message": "אנדרברי"
+  },
+  "tz_Apia": {
+    "message": "אפייה"
+  },
+  "tz_Tongatapu": {
+    "message": "טונגטאפו"
+  },
+  "tz_Wallis": {
+    "message": "ארהב"
+  },
+  "tz_Midway": {
+    "message": "בחץ הדרך"
+  },
+  "tz_Chatham": {
+    "message": "Chatham"
+  },
+  "tz_Pacific": {
+    "message": "פסיפיק"
+  },
+  "tz_Christmas": {
+    "message": "חג המולד"
+  },
+  "tz_Cocos": {
+    "message": "קוקוס"
+  },
+  "tz_Maldives": {
+    "message": "האיים המלדיביים"
+  },
+  "tz_Chagos": {
+    "message": "צ'אגוס"
+  },
+  "tz_Kerguelen": {
+    "message": "קרגואלן"
+  },
+  "tz_Mauritius": {
+    "message": "מאוריציוס"
+  },
+  "tz_Mahe": {
+    "message": "Mahe"
+  },
+  "tz_Reunion": {
+    "message": "פגישת מחזור"
+  },
+  "tz_Antananarivo": {
+    "message": "אנטננריבו"
+  },
+  "tz_Mayotte": {
+    "message": "מאיוט"
+  },
+  "tz_Comoro": {
+    "message": "קומורו"
+  },
+  "tz_Indian": {
+    "message": "הודי"
+  },
+  "tz_Samara": {
+    "message": "כנפית"
+  },
+  "tz_Volgograd": {
+    "message": "וולגוגרד"
+  },
+  "tz_Moscow": {
+    "message": "מוסקבה"
+  },
+  "tz_Zaporozhye": {
+    "message": "זפורוז'יה"
+  },
+  "tz_Simferopol": {
+    "message": "סימפרופול"
+  },
+  "tz_Kiev": {
+    "message": "קייב"
+  },
+  "tz_Chisinau": {
+    "message": "קישינב"
+  },
+  "tz_Istanbul": {
+    "message": "איסטנבול"
+  },
+  "tz_Minsk": {
+    "message": "מינסק"
+  },
+  "tz_Bucharest": {
+    "message": "בוקרשט"
+  },
+  "tz_Vilnius": {
+    "message": "וילנה"
+  },
+  "tz_Helsinki": {
+    "message": "הלסינקי"
+  },
+  "tz_Tallinn": {
+    "message": "טאלין"
+  },
+  "tz_Riga": {
+    "message": "ריגה"
+  },
+  "tz_Athens": {
+    "message": "אתונה"
+  },
+  "tz_Sofia": {
+    "message": "סופיה"
+  },
+  "tz_Skopje": {
+    "message": "סקופיה"
+  },
+  "tz_Uzhgorod": {
+    "message": "Uzhgorod"
+  },
+  "tz_Kaliningrad": {
+    "message": "קלינינגרד"
+  },
+  "tz_Warsaw": {
+    "message": "ורשה"
+  },
+  "tz_Belgrade": {
+    "message": "בלגרד"
+  },
+  "tz_Mariehamn": {
+    "message": "Mariehamn"
+  },
+  "tz_Tirane": {
+    "message": "טירנה"
+  },
+  "tz_Podgorica": {
+    "message": "פודגוריצה"
+  },
+  "tz_Sarajevo": {
+    "message": "סרייבו"
+  },
+  "tz_Budapest": {
+    "message": "בודפשט"
+  },
+  "tz_Bratislava": {
+    "message": "ברטיסלבה"
+  },
+  "tz_Stockholm": {
+    "message": "שטוקהולם"
+  },
+  "tz_Vienna": {
+    "message": "וינה"
+  },
+  "tz_Zagreb": {
+    "message": "זאגרב"
+  },
+  "tz_Ljubljana": {
+    "message": "לובליאנה"
+  },
+  "tz_Prague": {
+    "message": "פראג"
+  },
+  "tz_Malta": {
+    "message": "מלטה"
+  },
+  "tz_Rome": {
+    "message": "רומא"
+  },
+  "tz_San_Marino": {
+    "message": "סן מרינו"
+  },
+  "tz_Vatican": {
+    "message": "הוותיקן"
+  },
+  "tz_Oslo": {
+    "message": "אוסלו"
+  },
+  "tz_Vaduz": {
+    "message": "ואדוז"
+  },
+  "tz_Busingen": {
+    "message": "Busingen"
+  },
+  "tz_Zurich": {
+    "message": "ציריך"
+  },
+  "tz_Monaco": {
+    "message": "מונקו"
+  },
+  "tz_Luxembourg": {
+    "message": "לוקסמבורג"
+  },
+  "tz_Amsterdam": {
+    "message": "אמסטרדם"
+  },
+  "tz_Paris": {
+    "message": "פריז"
+  },
+  "tz_Brussels": {
+    "message": "בריסל"
+  },
+  "tz_Andorra": {
+    "message": "אנדורה"
+  },
+  "tz_London": {
+    "message": "לונדון"
+  },
+  "tz_Jersey": {
+    "message": "סריג"
+  },
+  "tz_Guernsey": {
+    "message": "גרנזי"
+  },
+  "tz_Isle_of_Man": {
+    "message": "האי מאן"
+  },
+  "tz_Madrid": {
+    "message": "מדריד"
+  },
+  "tz_Gibraltar": {
+    "message": "גיברלטר"
+  },
+  "tz_Dublin": {
+    "message": "דבלין"
+  },
+  "tz_Lisbon": {
+    "message": "ליסבון"
+  },
+  "tz_Europe": {
+    "message": "אירופה"
+  },
+  "tz_Lord_Howe": {
+    "message": "לורד האו"
+  },
+  "tz_Brisbane": {
+    "message": "בריסביין"
+  },
+  "tz_Sydney": {
+    "message": "סידני"
+  },
+  "tz_Lindeman": {
+    "message": "לינדמן"
+  },
+  "tz_Hobart": {
+    "message": "הובארט"
+  },
+  "tz_Melbourne": {
+    "message": "מלבורן"
+  },
+  "tz_Currie": {
+    "message": "קורי"
+  },
+  "tz_Broken_Hill": {
+    "message": "ברוקן היל"
+  },
+  "tz_Adelaide": {
+    "message": "אדלייד"
+  },
+  "tz_Darwin": {
+    "message": "דרווין"
+  },
+  "tz_Eucla": {
+    "message": "Eucla"
+  },
+  "tz_Perth": {
+    "message": "פרת'"
+  },
+  "tz_Australia": {
+    "message": "אוסטרליה"
+  },
+  "tz_St_Helena": {
+    "message": "סנט הלנה"
+  },
+  "tz_Faroe": {
+    "message": "פארו"
+  },
+  "tz_Canary": {
+    "message": "כנרית"
+  },
+  "tz_Madeira": {
+    "message": "מדיירה"
+  },
+  "tz_Reykjavik": {
+    "message": "רייקיאוויק"
+  },
+  "tz_Cape_Verde": {
+    "message": "קייפ ורדה"
+  },
+  "tz_Azores": {
+    "message": "איים האזוריים"
+  },
+  "tz_South_Georgia": {
+    "message": "ג'ורג'יה הדרומית"
+  },
+  "tz_Stanley": {
+    "message": "סטנלי"
+  },
+  "tz_Bermuda": {
+    "message": "ברמודה"
+  },
+  "tz_Atlantic": {
+    "message": "האוקיינוס ​​האטלנטי"
+  },
+  "tz_Anadyr": {
+    "message": "אנאדיר"
+  },
+  "tz_Magadan": {
+    "message": "מגדן"
+  },
+  "tz_Kamchatka": {
+    "message": "קמצ'טקה"
+  },
+  "tz_Ust__Nera": {
+    "message": "Ust-Nera"
+  },
+  "tz_Sakhalin": {
+    "message": "סחלין"
+  },
+  "tz_Tokyo": {
+    "message": "טוקיו"
+  },
+  "tz_Jayapura": {
+    "message": "ג'יאפורה"
+  },
+  "tz_Vladivostok": {
+    "message": "ולדיווסטוק"
+  },
+  "tz_Khandyga": {
+    "message": "Khandyga"
+  },
+  "tz_Yakutsk": {
+    "message": "יקוטסק"
+  },
+  "tz_Seoul": {
+    "message": "סיאול"
+  },
+  "tz_Harbin": {
+    "message": "חרבין"
+  },
+  "tz_Pyongyang": {
+    "message": "פיונגיאנג"
+  },
+  "tz_Dili": {
+    "message": "דילי"
+  },
+  "tz_Shanghai": {
+    "message": "שנחאי"
+  },
+  "tz_Taipei": {
+    "message": "טייפה"
+  },
+  "tz_Manila": {
+    "message": "מנילה"
+  },
+  "tz_Makassar": {
+    "message": "קאסאר"
+  },
+  "tz_Brunei": {
+    "message": "ברוניי"
+  },
+  "tz_Choibalsan": {
+    "message": "צ'ויבלסן"
+  },
+  "tz_Hong_Kong": {
+    "message": "הונג קונג"
+  },
+  "tz_Macau": {
+    "message": "מקאו"
+  },
+  "tz_Kuching": {
+    "message": "קוצ'ינג"
+  },
+  "tz_Pontianak": {
+    "message": "פונטיאנק"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "אולן בטור"
+  },
+  "tz_Jakarta": {
+    "message": "ג'קרטה"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "הו צ'י מין"
+  },
+  "tz_Chongqing": {
+    "message": "צ'ונגצ'ינג"
+  },
+  "tz_Phnom_Penh": {
+    "message": "פנום פן"
+  },
+  "tz_Singapore": {
+    "message": "סינגפור"
+  },
+  "tz_Irkutsk": {
+    "message": "אירקוצק"
+  },
+  "tz_Vientiane": {
+    "message": "ויינטיאן"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "קואלה לומפור"
+  },
+  "tz_Bangkok": {
+    "message": "בנגקוק"
+  },
+  "tz_Rangoon": {
+    "message": "רנגון"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "קרסנויארסק"
+  },
+  "tz_Hovd": {
+    "message": "Hovd"
+  },
+  "tz_Dhaka": {
+    "message": "דאקה"
+  },
+  "tz_Thimphu": {
+    "message": "טימפו"
+  },
+  "tz_Kolkata": {
+    "message": "כלכותה"
+  },
+  "tz_Urumqi": {
+    "message": "אורומצ'י"
+  },
+  "tz_Kathmandu": {
+    "message": "קטמנדו"
+  },
+  "tz_Novokuznetsk": {
+    "message": "נובוקוזנצק"
+  },
+  "tz_Novosibirsk": {
+    "message": "נובוסיבירסק"
+  },
+  "tz_Colombo": {
+    "message": "קולומבו"
+  },
+  "tz_Almaty": {
+    "message": "Almaty"
+  },
+  "tz_Kashgar": {
+    "message": "קשגר"
+  },
+  "tz_Bishkek": {
+    "message": "בישקק"
+  },
+  "tz_Omsk": {
+    "message": "אומסק"
+  },
+  "tz_Tashkent": {
+    "message": "טשקנט"
+  },
+  "tz_Dushanbe": {
+    "message": "דושנבה"
+  },
+  "tz_Kabul": {
+    "message": "קאבול"
+  },
+  "tz_Karachi": {
+    "message": "קראצ'י"
+  },
+  "tz_Qyzylorda": {
+    "message": "קיזילורדה"
+  },
+  "tz_Samarkand": {
+    "message": "סמרקנד"
+  },
+  "tz_Yekaterinburg": {
+    "message": "יקטרינבורג"
+  },
+  "tz_Muscat": {
+    "message": "מוסקט"
+  },
+  "tz_Ashgabat": {
+    "message": "אשגאבט"
+  },
+  "tz_Aqtobe": {
+    "message": "אקטובה"
+  },
+  "tz_Dubai": {
+    "message": "דובאי"
+  },
+  "tz_Qatar": {
+    "message": "קטאר"
+  },
+  "tz_Tehran": {
+    "message": "טהרן"
+  },
+  "tz_Oral": {
+    "message": "דרך הפה"
+  },
+  "tz_Bahrain": {
+    "message": "בחריין"
+  },
+  "tz_Aqtau": {
+    "message": "אקטאו"
+  },
+  "tz_Baku": {
+    "message": "באקו"
+  },
+  "tz_Kuwait": {
+    "message": "כווית"
+  },
+  "tz_Riyadh": {
+    "message": "ריאד"
+  },
+  "tz_Aden": {
+    "message": "עדן"
+  },
+  "tz_Tbilisi": {
+    "message": "טביליסי"
+  },
+  "tz_Yerevan": {
+    "message": "ירוואן"
+  },
+  "tz_Baghdad": {
+    "message": "בגדד"
+  },
+  "tz_Amman": {
+    "message": "עמאן"
+  },
+  "tz_Damascus": {
+    "message": "דמשק"
+  },
+  "tz_Beirut": {
+    "message": "ביירות"
+  },
+  "tz_Jerusalem": {
+    "message": "ירושלים"
+  },
+  "tz_Gaza": {
+    "message": "עזה"
+  },
+  "tz_Hebron": {
+    "message": "חברון"
+  },
+  "tz_Asia": {
+    "message": "אסיה"
+  },
+  "tz_Nicosia": {
+    "message": "ניקוסיה"
+  },
+  "tz_Longyearbyen": {
+    "message": "Longyearbyen"
+  },
+  "tz_Arctic": {
+    "message": "ארקטי"
+  },
+  "tz_McMurdo": {
+    "message": "מקמורדו"
+  },
+  "tz_Macquarie": {
+    "message": "Macquarie"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Casey": {
+    "message": "קייסי"
+  },
+  "tz_Vostok": {
+    "message": "Vostok"
+  },
+  "tz_Davis": {
+    "message": "דייויס"
+  },
+  "tz_Syowa": {
+    "message": "סיווה"
+  },
+  "tz_Mawson": {
+    "message": "מוסון"
+  },
+  "tz_Troll": {
+    "message": "לדוג בחכה"
+  },
+  "tz_Palmer": {
+    "message": "עולה רגל"
+  },
+  "tz_Rothera": {
+    "message": "רות'רה"
+  },
+  "tz_Antarctica": {
+    "message": "אנטארקטיקה"
+  },
+  "tz_Danmarkshavn": {
+    "message": "דאנמרקסהאבן"
+  },
+  "tz_Scoresbysund": {
+    "message": "סקורסבייסונד"
+  },
+  "tz_Noronha": {
+    "message": "נורוניה"
+  },
+  "tz_Recife": {
+    "message": "רסיפה"
+  },
+  "tz_Maceio": {
+    "message": "מסיו"
+  },
+  "tz_Fortaleza": {
+    "message": "פורטלזה"
+  },
+  "tz_Bahia": {
+    "message": "באהיה"
+  },
+  "tz_Sao_Paulo": {
+    "message": "סאו פאולו"
+  },
+  "tz_Araguaina": {
+    "message": "ארגוואינה"
+  },
+  "tz_Belem": {
+    "message": "Belem"
+  },
+  "tz_Godthab": {
+    "message": "גודת'אב"
+  },
+  "tz_Cayenne": {
+    "message": "פלפלת"
+  },
+  "tz_St_Johns": {
+    "message": "St Johns"
+  },
+  "tz_Santarem": {
+    "message": "Santarem"
+  },
+  "tz_Campo_Grande": {
+    "message": "קמפו גרנדה"
+  },
+  "tz_Paramaribo": {
+    "message": "פרמריבו"
+  },
+  "tz_Cuiaba": {
+    "message": "קויאבה"
+  },
+  "tz_Montevideo": {
+    "message": "מונטווידאו"
+  },
+  "tz_Miquelon": {
+    "message": "מיקלון"
+  },
+  "tz_Asuncion": {
+    "message": "אסונסיון"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "בלאן-סבלון"
+  },
+  "tz_Guyana": {
+    "message": "גיאנה"
+  },
+  "tz_Barbados": {
+    "message": "ברבדוס"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "ארגנטינה / בואנוס איירס"
+  },
+  "tz_Glace_Bay": {
+    "message": "גלייס ביי"
+  },
+  "tz_Manaus": {
+    "message": "מנאוס"
+  },
+  "tz_Goose_Bay": {
+    "message": "גוס ביי"
+  },
+  "tz_Boa_Vista": {
+    "message": "בואה ויסטה"
+  },
+  "tz_St_Lucia": {
+    "message": "סנט לוסיה"
+  },
+  "tz_Martinique": {
+    "message": "מרטיניק"
+  },
+  "tz_St_Vincent": {
+    "message": "סנט וינסנט"
+  },
+  "tz_Dominica": {
+    "message": "דומיניקה"
+  },
+  "tz_Port_of_Spain": {
+    "message": "פורט אוף ספיין"
+  },
+  "tz_Grenada": {
+    "message": "גרנדה"
+  },
+  "tz_Guadeloupe": {
+    "message": "גוואדלופ"
+  },
+  "tz_Antigua": {
+    "message": "אנטיגואה"
+  },
+  "tz_Montserrat": {
+    "message": "מונטסראט"
+  },
+  "tz_St_Kitts": {
+    "message": "סנט קיטס"
+  },
+  "tz_St_Barthelemy": {
+    "message": "סנט ברתלמי"
+  },
+  "tz_Lower_Princes": {
+    "message": "נסיכים תחתון"
+  },
+  "tz_Anguilla": {
+    "message": "אנגווילה"
+  },
+  "tz_Marigot": {
+    "message": "Marigot"
+  },
+  "tz_Porto_Velho": {
+    "message": "פורטו וליו"
+  },
+  "tz_Halifax": {
+    "message": "הליפקס"
+  },
+  "tz_Tortola": {
+    "message": "טורטולה"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "ארגנטינה / קורדובה"
+  },
+  "tz_St_Thomas": {
+    "message": "St Thomas"
+  },
+  "tz_Moncton": {
+    "message": "מונקטון"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "ארגנטינה / טוקומן"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "ארגנטינה / חוחוי"
+  },
+  "tz_Argentina___Salta": {
+    "message": "ארגנטינה / סלטה"
+  },
+  "tz_Pangnirtung": {
+    "message": "פנגנירטונג"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "ארגנטינה / קטמרקה"
+  },
+  "tz_Puerto_Rico": {
+    "message": "פורטו ריקו"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "ארגנטינה / סן לואיס"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "ארגנטינה / לה ריוחה"
+  },
+  "tz_Caracas": {
+    "message": "קראקס"
+  },
+  "tz_Rio_Branco": {
+    "message": "ריו ברנקו"
+  },
+  "tz_La_Paz": {
+    "message": "לה פאס"
+  },
+  "tz_Kralendijk": {
+    "message": "Kralendijk"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "ארגנטינה / אושואיה"
+  },
+  "tz_Iqaluit": {
+    "message": "איקאלויט"
+  },
+  "tz_Thule": {
+    "message": "Thule"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "ארגנטינה / סן חואן"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "ארגנטינה / מנדוזה"
+  },
+  "tz_Curacao": {
+    "message": "קורסאו"
+  },
+  "tz_Eirunepe": {
+    "message": "אירונפה"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "ארגנטינה / ריו גאייגוס"
+  },
+  "tz_Santo_Domingo": {
+    "message": "סנטו דומינגו"
+  },
+  "tz_Aruba": {
+    "message": "ארובה"
+  },
+  "tz_Santiago": {
+    "message": "סנטיאגו"
+  },
+  "tz_Grand_Turk": {
+    "message": "טורקו"
+  },
+  "tz_Port__au__Prince": {
+    "message": "פורט או פרינס"
+  },
+  "tz_Bogota": {
+    "message": "בוגוטה"
+  },
+  "tz_New_York": {
+    "message": "ניו יורק"
+  },
+  "tz_Jamaica": {
+    "message": "ג'מייקה"
+  },
+  "tz_Lima": {
+    "message": "לימה"
+  },
+  "tz_Nassau": {
+    "message": "נסאו"
+  },
+  "tz_Toronto": {
+    "message": "טורונטו"
+  },
+  "tz_Panama": {
+    "message": "פנמה"
+  },
+  "tz_Guayaquil": {
+    "message": "גואיאקיל"
+  },
+  "tz_Cayman": {
+    "message": "קיימן"
+  },
+  "tz_Havana": {
+    "message": "הוואנה"
+  },
+  "tz_Detroit": {
+    "message": "דטרויט"
+  },
+  "tz_Costa_Rica": {
+    "message": "קוסטה ריקה"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "אינדיאנה / Vevay"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "קנטאקי / מונטיסלו"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "קנטאקי / לואיוויל"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "אינדיאנה / אינדיאנפוליס"
+  },
+  "tz_Managua": {
+    "message": "מנגואה"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "אינדיאנה / מרנג"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "אינדיאנה / Winamac"
+  },
+  "tz_Indiana___Knox": {
+    "message": "אינדיאנה / נוקס"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "אינדיאנה / תגיד לי העיר"
+  },
+  "tz_Cancun": {
+    "message": "קנקון"
+  },
+  "tz_Tegucigalpa": {
+    "message": "טגוסיגלפה"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "אינדיאנה / פטרסבורג"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "אינדיאנה / ונס"
+  },
+  "tz_Menominee": {
+    "message": "מנומיני"
+  },
+  "tz_Chicago": {
+    "message": "שיקגו"
+  },
+  "tz_Belize": {
+    "message": "בליז"
+  },
+  "tz_Nipigon": {
+    "message": "ניפיגון"
+  },
+  "tz_El_Salvador": {
+    "message": "אל סלבדור"
+  },
+  "tz_Thunder_Bay": {
+    "message": "רעם מפרץ"
+  },
+  "tz_Merida": {
+    "message": "מרידה"
+  },
+  "tz_Guatemala": {
+    "message": "גואטמלה"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "רנקין אינלט"
+  },
+  "tz_Rainy_River": {
+    "message": "נהר גשום"
+  },
+  "tz_Resolute": {
+    "message": "תקיף"
+  },
+  "tz_Winnipeg": {
+    "message": "וויניפג"
+  },
+  "tz_Matamoros": {
+    "message": "מטמורוס"
+  },
+  "tz_Mexico_City": {
+    "message": "מקסיקו סיטי"
+  },
+  "tz_Monterrey": {
+    "message": "מונטריי"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "צפון דקוטה / מרכז"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "צפון דקוטה / ניו סאלם"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "צפון דקוטה / ביול"
+  },
+  "tz_Denver": {
+    "message": "דנבר"
+  },
+  "tz_Regina": {
+    "message": "רגינה"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "ביי קיימברידג'"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "באהיה בנדרס"
+  },
+  "tz_Chihuahua": {
+    "message": "צ'יוואווה"
+  },
+  "tz_Swift_Current": {
+    "message": "Swift Current"
+  },
+  "tz_Mazatlan": {
+    "message": "מזטלן"
+  },
+  "tz_Phoenix": {
+    "message": "פניקס"
+  },
+  "tz_Hermosillo": {
+    "message": "Hermosillo"
+  },
+  "tz_Edmonton": {
+    "message": "אדמונטון"
+  },
+  "tz_Yellowknife": {
+    "message": "ילונייף"
+  },
+  "tz_Santa_Isabel": {
+    "message": "Santa Isabel"
+  },
+  "tz_Boise": {
+    "message": "בואז"
+  },
+  "tz_Creston": {
+    "message": "קרסטון"
+  },
+  "tz_Tijuana": {
+    "message": "טיחואנה"
+  },
+  "tz_Los_Angeles": {
+    "message": "לוס אנג'לס"
+  },
+  "tz_Dawson_Creek": {
+    "message": "דוסון קריק"
+  },
+  "tz_Metlakatla": {
+    "message": "Metlakatla"
+  },
+  "tz_Vancouver": {
+    "message": "ונקובר"
+  },
+  "tz_Inuvik": {
+    "message": "Inuvik"
+  },
+  "tz_Juneau": {
+    "message": "ונו"
+  },
+  "tz_Whitehorse": {
+    "message": "Whitehorse"
+  },
+  "tz_Sitka": {
+    "message": "סיטקה"
+  },
+  "tz_Dawson": {
+    "message": "דוסון"
+  },
+  "tz_Yakutat": {
+    "message": "Yakutat"
+  },
+  "tz_Anchorage": {
+    "message": "מעגן"
+  },
+  "tz_Nome": {
+    "message": "נום"
+  },
+  "tz_Adak": {
+    "message": "Adak"
+  },
+  "tz_America": {
+    "message": "אמריקה"
+  },
+  "tz_Djibouti": {
+    "message": "ג'יבוטי"
+  },
+  "tz_Mogadishu": {
+    "message": "מוגדישו"
+  },
+  "tz_Asmara": {
+    "message": "אסמרה"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "דאר א סלאם"
+  },
+  "tz_Addis_Ababa": {
+    "message": "אדיס אבבה"
+  },
+  "tz_Nairobi": {
+    "message": "ניירובי"
+  },
+  "tz_Blantyre": {
+    "message": "Blantyre"
+  },
+  "tz_Maputo": {
+    "message": "מפוטו"
+  },
+  "tz_Khartoum": {
+    "message": "חרטום"
+  },
+  "tz_Kampala": {
+    "message": "קמפלה"
+  },
+  "tz_Juba": {
+    "message": "ג'ובה"
+  },
+  "tz_Cairo": {
+    "message": "קהיר"
+  },
+  "tz_Mbabane": {
+    "message": "מבבנה"
+  },
+  "tz_Harare": {
+    "message": "הרארה"
+  },
+  "tz_Kigali": {
+    "message": "קיגאלי"
+  },
+  "tz_Bujumbura": {
+    "message": "בוג'ומבורה"
+  },
+  "tz_Lusaka": {
+    "message": "לוסקה"
+  },
+  "tz_Johannesburg": {
+    "message": "יוהנסבורג"
+  },
+  "tz_Maseru": {
+    "message": "מסרו"
+  },
+  "tz_Gaborone": {
+    "message": "גאבורון"
+  },
+  "tz_Lubumbashi": {
+    "message": "לובומבאשי"
+  },
+  "tz_Bangui": {
+    "message": "נגי"
+  },
+  "tz_Windhoek": {
+    "message": "וינדהוק"
+  },
+  "tz_Kinshasa": {
+    "message": "קינשאסה"
+  },
+  "tz_Brazzaville": {
+    "message": "ברזוויל"
+  },
+  "tz_Ndjamena": {
+    "message": "נג'מנה"
+  },
+  "tz_Tripoli": {
+    "message": "טריפולי"
+  },
+  "tz_Luanda": {
+    "message": "לואנדה"
+  },
+  "tz_Tunis": {
+    "message": "תוניס"
+  },
+  "tz_Douala": {
+    "message": "דואלה"
+  },
+  "tz_Malabo": {
+    "message": "מלאבו"
+  },
+  "tz_Libreville": {
+    "message": "ליברוויל"
+  },
+  "tz_Lagos": {
+    "message": "לאגוס"
+  },
+  "tz_Sao_Tome": {
+    "message": "סאו טומה"
+  },
+  "tz_Algiers": {
+    "message": "אלג'יר"
+  },
+  "tz_Porto__Novo": {
+    "message": "פורטו נובו"
+  },
+  "tz_Lome": {
+    "message": "לומה"
+  },
+  "tz_Niamey": {
+    "message": "ניאמיי"
+  },
+  "tz_Accra": {
+    "message": "אקרה"
+  },
+  "tz_Ouagadougou": {
+    "message": "ואגאדוגו"
+  },
+  "tz_Abidjan": {
+    "message": "אבידג'אן"
+  },
+  "tz_Ceuta": {
+    "message": "סאוטה"
+  },
+  "tz_Casablanca": {
+    "message": "קזבלנקה"
+  },
+  "tz_Bamako": {
+    "message": "במקו"
+  },
+  "tz_Monrovia": {
+    "message": "מונרוביה"
+  },
+  "tz_El_Aaiun": {
+    "message": "אל העיון"
+  },
+  "tz_Freetown": {
+    "message": "פריטאון"
+  },
+  "tz_Conakry": {
+    "message": "קונאקרי"
+  },
+  "tz_Bissau": {
+    "message": "ביסאו"
+  },
+  "tz_Nouakchott": {
+    "message": "נואקשוט"
+  },
+  "tz_Banjul": {
+    "message": "בנג'ול"
+  },
+  "tz_Dakar": {
+    "message": "דקר"
+  },
+  "tz_Africa": {
+    "message": "אפריקה"
+  },
+  "ui_addTimezone": {
+    "message": "להוסיף"
+  },
+  "ui_extraTimezones": {
+    "message": "אזורי זמן נוספים"
+  },
+  "ui_autoHide": {
+    "message": "הסתר באופן אוטומטי"
+  },
+  "ui_alwaysOnTop": {
+    "message": "תמיד על העליונה"
+  },
+  "manifest_name": {
+    "message": "שעון לוח שנה"
+  },
+  "manifest_description": {
+    "message": "יישומון לוח שנה והשעון נוח."
+  },
+  "tz_Berlin": {
+    "message": "ברלין"
+  },
+  "tz_Copenhagen": {
+    "message": "קופנהגן"
+  }
+}

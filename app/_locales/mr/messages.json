@@ -1,0 +1,1301 @@
+{
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Funafuti": {
+    "message": "फूनाफुती"
+  },
+  "tz_Fiji": {
+    "message": "फिजी"
+  },
+  "tz_Auckland": {
+    "message": "ऑकलँड"
+  },
+  "tz_Norfolk": {
+    "message": "नॉरफोक"
+  },
+  "tz_Nauru": {
+    "message": "नारू"
+  },
+  "tz_Tarawa": {
+    "message": "तारावा"
+  },
+  "tz_Majuro": {
+    "message": "मजुरो"
+  },
+  "tz_Efate": {
+    "message": "एफेटे"
+  },
+  "tz_Kwajalein": {
+    "message": "क्वाजालेईन"
+  },
+  "tz_Wake": {
+    "message": "वेक"
+  },
+  "tz_Noumea": {
+    "message": "नौमेआ"
+  },
+  "tz_Kosrae": {
+    "message": "कॉस्रे"
+  },
+  "tz_Guadalcanal": {
+    "message": "ग्वाडालकॅनल"
+  },
+  "tz_Palau": {
+    "message": "पलाऊ"
+  },
+  "tz_Pohnpei": {
+    "message": "Pohnpei"
+  },
+  "tz_Galapagos": {
+    "message": "गालापागोस"
+  },
+  "tz_Port_Moresby": {
+    "message": "पोर्ट मॉरेस्बी"
+  },
+  "tz_Chuuk": {
+    "message": "Chuuk"
+  },
+  "tz_Guam": {
+    "message": "गुआम"
+  },
+  "tz_Saipan": {
+    "message": "सैपन"
+  },
+  "tz_Easter": {
+    "message": "ख्रिस्ताच्या पुनरूत्थाचा सण"
+  },
+  "tz_Pitcairn": {
+    "message": "पिट्कैर्न"
+  },
+  "tz_Marquesas": {
+    "message": "मार्क्वेसाज"
+  },
+  "tz_Gambier": {
+    "message": "कात"
+  },
+  "tz_Tahiti": {
+    "message": "ताहिती"
+  },
+  "tz_Kiritimati": {
+    "message": "किरिटिमती"
+  },
+  "tz_Honolulu": {
+    "message": "होनोलुलु"
+  },
+  "tz_Rarotonga": {
+    "message": "राराटऑंगा"
+  },
+  "tz_Niue": {
+    "message": "नीयू"
+  },
+  "tz_Johnston": {
+    "message": "जॉनस्टोन"
+  },
+  "tz_Fakaofo": {
+    "message": "फाकाओफो"
+  },
+  "tz_Wallis": {
+    "message": "वालिस"
+  },
+  "tz_Pago_Pago": {
+    "message": "पॅगो पॅगो"
+  },
+  "tz_Enderbury": {
+    "message": "एंडरबरी"
+  },
+  "tz_Tongatapu": {
+    "message": "टोंग़ाटापू"
+  },
+  "tz_Apia": {
+    "message": "एपिया"
+  },
+  "tz_Chatham": {
+    "message": "चॅथम"
+  },
+  "tz_Chagos": {
+    "message": "चागोस"
+  },
+  "tz_Midway": {
+    "message": "मिडवे"
+  },
+  "tz_Pacific": {
+    "message": "शांत"
+  },
+  "tz_Christmas": {
+    "message": "नाताळ"
+  },
+  "tz_Cocos": {
+    "message": "कोकोस"
+  },
+  "tz_Maldives": {
+    "message": "मालदीव"
+  },
+  "tz_Kerguelen": {
+    "message": "कर्ग्युलेन"
+  },
+  "tz_Mauritius": {
+    "message": "मॉरिशस"
+  },
+  "tz_Mahe": {
+    "message": "माहे"
+  },
+  "tz_Antananarivo": {
+    "message": "अंटानानॅरिवो"
+  },
+  "tz_Reunion": {
+    "message": "पुनर्मीलन"
+  },
+  "tz_Mayotte": {
+    "message": "मयोट्टे"
+  },
+  "tz_Comoro": {
+    "message": "कोमोरो"
+  },
+  "tz_Indian": {
+    "message": "भारतीय"
+  },
+  "tz_Samara": {
+    "message": "समारा"
+  },
+  "tz_Kiev": {
+    "message": "किव्ह"
+  },
+  "tz_Volgograd": {
+    "message": "Volgograd"
+  },
+  "tz_Moscow": {
+    "message": "मॉस्को"
+  },
+  "tz_Bucharest": {
+    "message": "बुखारेस्ट"
+  },
+  "tz_Istanbul": {
+    "message": "इस्तंबुल"
+  },
+  "tz_Zaporozhye": {
+    "message": "Zaporozhye"
+  },
+  "tz_Chisinau": {
+    "message": "चिसिनौ"
+  },
+  "tz_Simferopol": {
+    "message": "Simferopol"
+  },
+  "tz_Minsk": {
+    "message": "मिंस्क"
+  },
+  "tz_Vilnius": {
+    "message": "विल्नियस"
+  },
+  "tz_Helsinki": {
+    "message": "हेल्सिंक"
+  },
+  "tz_Tallinn": {
+    "message": "टॉलिन"
+  },
+  "tz_Riga": {
+    "message": "रीगा"
+  },
+  "tz_Athens": {
+    "message": "अथेंन्स"
+  },
+  "tz_Warsaw": {
+    "message": "वॉर्सा"
+  },
+  "tz_Sofia": {
+    "message": "सोफिया"
+  },
+  "tz_Uzhgorod": {
+    "message": "Uzhgorod"
+  },
+  "tz_Skopje": {
+    "message": "स्कोप्जे"
+  },
+  "tz_Kaliningrad": {
+    "message": "कलिनिनग्राड"
+  },
+  "tz_Belgrade": {
+    "message": "बेलग्रेड"
+  },
+  "tz_Mariehamn": {
+    "message": "मरिएहंन"
+  },
+  "tz_Bratislava": {
+    "message": "ब्राटीस्लावा"
+  },
+  "tz_Budapest": {
+    "message": "बुडापेस्ट"
+  },
+  "tz_Tirane": {
+    "message": "टिरेन"
+  },
+  "tz_Podgorica": {
+    "message": "ते Podgorica"
+  },
+  "tz_Sarajevo": {
+    "message": "सारजेयेवो"
+  },
+  "tz_Stockholm": {
+    "message": "स्टॉकहोम"
+  },
+  "tz_Vienna": {
+    "message": "व्हिएन्ना"
+  },
+  "tz_Zagreb": {
+    "message": "ज़ाग्रेब"
+  },
+  "tz_Ljubljana": {
+    "message": "जुबलजाना"
+  },
+  "tz_Malta": {
+    "message": "माल्टा"
+  },
+  "tz_Prague": {
+    "message": "प्राग"
+  },
+  "tz_Berlin": {
+    "message": "बर्लिन"
+  },
+  "tz_Rome": {
+    "message": "रोम"
+  },
+  "tz_Vatican": {
+    "message": "पोपची सत्ता"
+  },
+  "tz_Copenhagen": {
+    "message": "कोपेंहगेन"
+  },
+  "tz_Monaco": {
+    "message": "मोनाको"
+  },
+  "tz_San_Marino": {
+    "message": "सॅन मारीनो"
+  },
+  "tz_Luxembourg": {
+    "message": "लक्झेंम्बर्ग"
+  },
+  "tz_Oslo": {
+    "message": "ऑस्लो"
+  },
+  "tz_Vaduz": {
+    "message": "व्हादुझ"
+  },
+  "tz_Busingen": {
+    "message": "Busingen"
+  },
+  "tz_Zurich": {
+    "message": "झुरिच"
+  },
+  "tz_Amsterdam": {
+    "message": "अमस्टरडॅम"
+  },
+  "tz_Paris": {
+    "message": "पॅरिस"
+  },
+  "tz_Andorra": {
+    "message": "अंडोरा"
+  },
+  "tz_Brussels": {
+    "message": "ब्रुसेल्स"
+  },
+  "tz_Madrid": {
+    "message": "माद्रीद"
+  },
+  "tz_Isle_of_Man": {
+    "message": "आइल ऑफ मॅन"
+  },
+  "tz_London": {
+    "message": "लंडन"
+  },
+  "tz_Gibraltar": {
+    "message": "जिब्राल्टर"
+  },
+  "tz_Guernsey": {
+    "message": "खलाशाचे घट्ट विणीचे लोकरी कुडते"
+  },
+  "tz_Dublin": {
+    "message": "डब्लिन"
+  },
+  "tz_Jersey": {
+    "message": "अंगाला घट्ट बसणारा स्त्रियांचा स्वेटर किंवा शर्ट"
+  },
+  "tz_Lindeman": {
+    "message": "Lindeman"
+  },
+  "tz_Lisbon": {
+    "message": "लिस्बन"
+  },
+  "tz_Europe": {
+    "message": "युरोप"
+  },
+  "tz_Lord_Howe": {
+    "message": "लॉर्ड हो"
+  },
+  "tz_Brisbane": {
+    "message": "ब्रिस्बेन"
+  },
+  "tz_Sydney": {
+    "message": "सिडनी"
+  },
+  "tz_Hobart": {
+    "message": "हॉबर्ट"
+  },
+  "tz_Melbourne": {
+    "message": "मेलबर्न"
+  },
+  "tz_Currie": {
+    "message": "Currie"
+  },
+  "tz_Adelaide": {
+    "message": "एडलेड"
+  },
+  "tz_Darwin": {
+    "message": "डार्विन"
+  },
+  "tz_Broken_Hill": {
+    "message": "ब्रोकन हिल"
+  },
+  "tz_Eucla": {
+    "message": "Eucla"
+  },
+  "tz_Australia": {
+    "message": "ऑस्ट्रेलिया"
+  },
+  "tz_St_Helena": {
+    "message": "सँट हेलेना"
+  },
+  "tz_Madeira": {
+    "message": "Madeira"
+  },
+  "tz_Perth": {
+    "message": "पर्थ"
+  },
+  "tz_Faroe": {
+    "message": "फेरो"
+  },
+  "tz_Canary": {
+    "message": "फिक्कट पिवळा रंग"
+  },
+  "tz_Cape_Verde": {
+    "message": "केप वर्ड"
+  },
+  "tz_Reykjavik": {
+    "message": "रिकियविक"
+  },
+  "tz_South_Georgia": {
+    "message": "दक्षिण जॉर्जिया"
+  },
+  "tz_Azores": {
+    "message": "अझोरेस"
+  },
+  "tz_Stanley": {
+    "message": "स्टॅन्ले"
+  },
+  "tz_Bermuda": {
+    "message": "बरमुडा"
+  },
+  "tz_Sakhalin": {
+    "message": "Sakhalin"
+  },
+  "tz_Anadyr": {
+    "message": "Anadyr"
+  },
+  "tz_Atlantic": {
+    "message": "अटलांटिक"
+  },
+  "tz_Kamchatka": {
+    "message": "Kamchatka"
+  },
+  "tz_Magadan": {
+    "message": "मगदान"
+  },
+  "tz_Jayapura": {
+    "message": "जयपुरा"
+  },
+  "tz_Vladivostok": {
+    "message": "व्लॅडिवॉस्टॉक"
+  },
+  "tz_Ust__Nera": {
+    "message": "Ust-Nera"
+  },
+  "tz_Tokyo": {
+    "message": "टोकियो"
+  },
+  "tz_Khandyga": {
+    "message": "Khandyga"
+  },
+  "tz_Seoul": {
+    "message": "सोल"
+  },
+  "tz_Harbin": {
+    "message": "हर्बिन"
+  },
+  "tz_Pyongyang": {
+    "message": "प्योंगयांग"
+  },
+  "tz_Dili": {
+    "message": "डिली"
+  },
+  "tz_Manila": {
+    "message": "मनिला"
+  },
+  "tz_Yakutsk": {
+    "message": "यकुटस्क"
+  },
+  "tz_Taipei": {
+    "message": "तैपेई"
+  },
+  "tz_Shanghai": {
+    "message": "(व्यापारी जहाजावर) जबरदस्तीने खलाशी म्हणून नेणे"
+  },
+  "tz_Choibalsan": {
+    "message": "चोइबाल्सन"
+  },
+  "tz_Kuching": {
+    "message": "कुचिंग"
+  },
+  "tz_Makassar": {
+    "message": "माकास्सार"
+  },
+  "tz_Pontianak": {
+    "message": "Pontianak"
+  },
+  "tz_Brunei": {
+    "message": "ब्रूनेई"
+  },
+  "tz_Jakarta": {
+    "message": "जकार्ता"
+  },
+  "tz_Hong_Kong": {
+    "message": "हाँगकाँग"
+  },
+  "tz_Macau": {
+    "message": "मॅकौ"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "उलानबातर"
+  },
+  "tz_Chongqing": {
+    "message": "चॉग्किंग"
+  },
+  "tz_Phnom_Penh": {
+    "message": "नॉम पेन्ह"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "हो चि मिन्ह"
+  },
+  "tz_Irkutsk": {
+    "message": "इरकुस्क"
+  },
+  "tz_Rangoon": {
+    "message": "रंगून"
+  },
+  "tz_Singapore": {
+    "message": "सिंगापुर"
+  },
+  "tz_Vientiane": {
+    "message": "वियेन्षेन"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "क्वाललंपुर"
+  },
+  "tz_Bangkok": {
+    "message": "बँकॉक"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "क्रास्नोयार्स्क"
+  },
+  "tz_Hovd": {
+    "message": "हौद"
+  },
+  "tz_Dhaka": {
+    "message": "ढाका"
+  },
+  "tz_Novokuznetsk": {
+    "message": "नॉउोकुझनेत्स्क"
+  },
+  "tz_Thimphu": {
+    "message": "थिंपू"
+  },
+  "tz_Kolkata": {
+    "message": "कोलकता"
+  },
+  "tz_Urumqi": {
+    "message": "उरुंक़ी"
+  },
+  "tz_Kathmandu": {
+    "message": "काठमांडु"
+  },
+  "tz_Novosibirsk": {
+    "message": "नोवसिबिर्स्क"
+  },
+  "tz_Colombo": {
+    "message": "कोलंम्बो"
+  },
+  "tz_Almaty": {
+    "message": "अल्माटी"
+  },
+  "tz_Kashgar": {
+    "message": "Kashgar"
+  },
+  "tz_Bishkek": {
+    "message": "बिश्केक"
+  },
+  "tz_Dushanbe": {
+    "message": "दुशान्बे"
+  },
+  "tz_Karachi": {
+    "message": "कराची"
+  },
+  "tz_Omsk": {
+    "message": "ओम्स्क"
+  },
+  "tz_Kabul": {
+    "message": "काबुल"
+  },
+  "tz_Samarkand": {
+    "message": "समरकंद"
+  },
+  "tz_Qyzylorda": {
+    "message": "Qyzylorda"
+  },
+  "tz_Tashkent": {
+    "message": "ताश्केंत"
+  },
+  "tz_Ashgabat": {
+    "message": "अश्गाबात"
+  },
+  "tz_Yekaterinburg": {
+    "message": "येक्तेरिनबर्ग"
+  },
+  "tz_Qatar": {
+    "message": "कतर"
+  },
+  "tz_Dubai": {
+    "message": "दुबई"
+  },
+  "tz_Muscat": {
+    "message": "मस्कॅट"
+  },
+  "tz_Aqtobe": {
+    "message": "अक्टोबे"
+  },
+  "tz_Oral": {
+    "message": "तोंडी"
+  },
+  "tz_Tehran": {
+    "message": "तेहरान"
+  },
+  "tz_Bahrain": {
+    "message": "बहरीन"
+  },
+  "tz_Aqtau": {
+    "message": "अक्टाउ"
+  },
+  "tz_Baku": {
+    "message": "बाकू"
+  },
+  "tz_Yerevan": {
+    "message": "येरेवान"
+  },
+  "tz_Baghdad": {
+    "message": "बगदाद"
+  },
+  "tz_Kuwait": {
+    "message": "कुवेत"
+  },
+  "tz_Damascus": {
+    "message": "दमस्कुस"
+  },
+  "tz_Riyadh": {
+    "message": "रियाध"
+  },
+  "tz_Aden": {
+    "message": "एडन"
+  },
+  "tz_Tbilisi": {
+    "message": "टबाइलीसी"
+  },
+  "tz_Beirut": {
+    "message": "बैरुत"
+  },
+  "tz_Jerusalem": {
+    "message": "जेरुसलेम"
+  },
+  "tz_Amman": {
+    "message": "अम्मान"
+  },
+  "tz_Hebron": {
+    "message": "हेब्रोन"
+  },
+  "tz_Gaza": {
+    "message": "गाझा"
+  },
+  "tz_Nicosia": {
+    "message": "निकोशिया"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Asia": {
+    "message": "आशिया"
+  },
+  "tz_Longyearbyen": {
+    "message": "Longyearbyen"
+  },
+  "tz_Arctic": {
+    "message": "ध्रुवाजवळच्या थंड प्रदेशाविषयीचा"
+  },
+  "tz_McMurdo": {
+    "message": "मॅक्मुरडो"
+  },
+  "tz_Casey": {
+    "message": "कॅसे"
+  },
+  "tz_Vostok": {
+    "message": "वोस्टोक"
+  },
+  "tz_Macquarie": {
+    "message": "मॅक्युअरि"
+  },
+  "tz_Davis": {
+    "message": "डेविस"
+  },
+  "tz_Mawson": {
+    "message": "मॉसन"
+  },
+  "tz_Syowa": {
+    "message": "स्योवा"
+  },
+  "tz_Troll": {
+    "message": "मजेत गाणे म्हणणे"
+  },
+  "tz_Palmer": {
+    "message": "पवित्र देशाचा (येशूच्या जन्मभूमीचा) यात्रेकरु"
+  },
+  "tz_Rothera": {
+    "message": "रोथेरा"
+  },
+  "tz_Recife": {
+    "message": "र्साइफे"
+  },
+  "tz_Danmarkshavn": {
+    "message": "डेन्मार्कशाव्ह्न"
+  },
+  "tz_Noronha": {
+    "message": "नोरोन्हा"
+  },
+  "tz_Maceio": {
+    "message": "मॅशिओ"
+  },
+  "tz_Fortaleza": {
+    "message": "फोर्टलेझा"
+  },
+  "tz_Bahia": {
+    "message": "बाहीया"
+  },
+  "tz_Sao_Paulo": {
+    "message": "साओ पावलो"
+  },
+  "tz_Cayenne": {
+    "message": "केयेने"
+  },
+  "tz_Araguaina": {
+    "message": "अरागुआइना"
+  },
+  "tz_Belem": {
+    "message": "बेलेम"
+  },
+  "tz_Godthab": {
+    "message": "गॉडथॅब"
+  },
+  "tz_Antarctica": {
+    "message": "अंटार्क्टिका"
+  },
+  "tz_Campo_Grande": {
+    "message": "कॅम्पो ग्रेंड"
+  },
+  "tz_St_Johns": {
+    "message": "स्ट्रीट जोन्स"
+  },
+  "tz_Scoresbysund": {
+    "message": "स्कोअर्स्बायसंड"
+  },
+  "tz_Paramaribo": {
+    "message": "पारामारिबो"
+  },
+  "tz_Santarem": {
+    "message": "Santarem"
+  },
+  "tz_Montevideo": {
+    "message": "मोंटिव्हिडीवो"
+  },
+  "tz_Cuiaba": {
+    "message": "कइअबा"
+  },
+  "tz_Miquelon": {
+    "message": "मिक्वेलोन"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "ब्लंक-Sablon,"
+  },
+  "tz_Asuncion": {
+    "message": "असुंकिओन"
+  },
+  "tz_Guyana": {
+    "message": "गयाना"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "अर्जेटिना / अर्जेटिना"
+  },
+  "tz_Goose_Bay": {
+    "message": "हंस बे"
+  },
+  "tz_Barbados": {
+    "message": "बार्बाडोस"
+  },
+  "tz_Manaus": {
+    "message": "मानॉस"
+  },
+  "tz_Boa_Vista": {
+    "message": "बोआ विस्टा"
+  },
+  "tz_St_Lucia": {
+    "message": "सेंट लूसिया"
+  },
+  "tz_Glace_Bay": {
+    "message": "Glace बे"
+  },
+  "tz_Martinique": {
+    "message": "मार्टीन्क"
+  },
+  "tz_St_Vincent": {
+    "message": "सेंट विन्सेंट"
+  },
+  "tz_Dominica": {
+    "message": "डॉमिनिका"
+  },
+  "tz_Port_of_Spain": {
+    "message": "पोर्ट ऑफ स्पेन"
+  },
+  "tz_Antigua": {
+    "message": "अँटिग्वा"
+  },
+  "tz_Guadeloupe": {
+    "message": "ग्वाडेलोप"
+  },
+  "tz_Grenada": {
+    "message": "ग्रेनेडा"
+  },
+  "tz_St_Barthelemy": {
+    "message": "सेंट बार्थेलेमी"
+  },
+  "tz_Montserrat": {
+    "message": "मॉन्स्टेराट"
+  },
+  "tz_Halifax": {
+    "message": "हॉलिफॅक्स"
+  },
+  "tz_St_Kitts": {
+    "message": "सेंट किट्स"
+  },
+  "tz_Lower_Princes": {
+    "message": "खाली राजपुत्र"
+  },
+  "tz_Anguilla": {
+    "message": "एंजिला"
+  },
+  "tz_Marigot": {
+    "message": "Marigot"
+  },
+  "tz_Porto_Velho": {
+    "message": "पोर्टो वेल्हो"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "अर्जेंटिना / कॉर्डोबा"
+  },
+  "tz_St_Thomas": {
+    "message": "स्ट्रीट थॉमस"
+  },
+  "tz_Tortola": {
+    "message": "टोर्टोला"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "अर्जेंटिना / Tucuman"
+  },
+  "tz_Moncton": {
+    "message": "मोंक्टोन"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "अर्जेंटिना / Jujuy"
+  },
+  "tz_Argentina___Salta": {
+    "message": "अर्जेंटिना / Salta"
+  },
+  "tz_Rio_Branco": {
+    "message": "रिओ ब्रांको"
+  },
+  "tz_Pangnirtung": {
+    "message": "Pangnirtung"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "अर्जेटिना / सॅन लुईस"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "अर्जेंटिना / कटामर्का"
+  },
+  "tz_Puerto_Rico": {
+    "message": "पोर्टो रीको"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "अर्जेटिना / ला राइयजा"
+  },
+  "tz_Caracas": {
+    "message": "कराकस"
+  },
+  "tz_La_Paz": {
+    "message": "ला पाझ"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "अर्जेंटिना / उशुऐया"
+  },
+  "tz_Kralendijk": {
+    "message": "Kralendijk"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "अर्जेटिना / सण जुआन"
+  },
+  "tz_Eirunepe": {
+    "message": "Eirunepe"
+  },
+  "tz_Iqaluit": {
+    "message": "इकालुत"
+  },
+  "tz_Thule": {
+    "message": "थुली"
+  },
+  "tz_Curacao": {
+    "message": "कुरकओ"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "अर्जेंटिना / मेंडोज़ा"
+  },
+  "tz_Santo_Domingo": {
+    "message": "सांतो दॉमिंगो"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "अर्जेटिना / रिओ Gallegos"
+  },
+  "tz_Aruba": {
+    "message": "अरुबा"
+  },
+  "tz_Grand_Turk": {
+    "message": "ग्रँड टर्क"
+  },
+  "tz_Bogota": {
+    "message": "बोगोटा"
+  },
+  "tz_Nassau": {
+    "message": "नॅसॅया"
+  },
+  "tz_New_York": {
+    "message": "न्यू यॉर्क"
+  },
+  "tz_Santiago": {
+    "message": "सॅंटियागो"
+  },
+  "tz_Port__au__Prince": {
+    "message": "पोर्ट-ओ-प्रिन्स"
+  },
+  "tz_Jamaica": {
+    "message": "जमैका"
+  },
+  "tz_Cayman": {
+    "message": "केमन"
+  },
+  "tz_Lima": {
+    "message": "लिमा"
+  },
+  "tz_Toronto": {
+    "message": "टोरोंटो"
+  },
+  "tz_Havana": {
+    "message": "हवाना"
+  },
+  "tz_Panama": {
+    "message": "पनामा"
+  },
+  "tz_Detroit": {
+    "message": "डेट्रॉइसट"
+  },
+  "tz_Guayaquil": {
+    "message": "गॉयक्युल"
+  },
+  "tz_Managua": {
+    "message": "मानगया"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "केंटकी / लुईसव्हिल"
+  },
+  "tz_Costa_Rica": {
+    "message": "कोस्टा रिका"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "केंटकी / मॉन्टीसेलो"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "इंडियाना / Vevay"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "इंडियाना / इनडियनॅपलिस"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "इंडियाना / Winamac"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "इंडियाना / मारेंगो"
+  },
+  "tz_Indiana___Knox": {
+    "message": "इंडियाना / नॉक्स"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "इंडियाना / शहर सांगा"
+  },
+  "tz_Cancun": {
+    "message": "कॅंकून"
+  },
+  "tz_Belize": {
+    "message": "बेलीझ"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "इंडियाना / पीटर्सबर्ग"
+  },
+  "tz_Tegucigalpa": {
+    "message": "टेग्यूसिगॅल्पा"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "इंडियाना / Vincennes"
+  },
+  "tz_Menominee": {
+    "message": "मेनोमिनी"
+  },
+  "tz_Chicago": {
+    "message": "शिकागो"
+  },
+  "tz_Nipigon": {
+    "message": "Nipigon"
+  },
+  "tz_El_Salvador": {
+    "message": "अल साल्वाडोर"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan"
+  },
+  "tz_Merida": {
+    "message": "मेरिडा"
+  },
+  "tz_Thunder_Bay": {
+    "message": "थंडर बाय"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "रँकिनचा लहान खाडी"
+  },
+  "tz_Resolute": {
+    "message": "करारी"
+  },
+  "tz_Guatemala": {
+    "message": "ग्वाटेमाला"
+  },
+  "tz_Rainy_River": {
+    "message": "पावसाळी नदी"
+  },
+  "tz_Matamoros": {
+    "message": "मातामोरॉस"
+  },
+  "tz_Mexico_City": {
+    "message": "मेक्सिको सिटी"
+  },
+  "tz_Winnipeg": {
+    "message": "विनिपेग"
+  },
+  "tz_Monterrey": {
+    "message": "मोंटरी"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "नॉर्थ डकोटा / केंद्र"
+  },
+  "tz_Denver": {
+    "message": "डेन्वर"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_Regina": {
+    "message": "राज्यकर्ती राणी (आता फक्त कागदीपत्री उल्लेख)"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "नॉर्थ डकोटा / नवीन सालेम"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "नॉर्थ डकोटा / Beulah"
+  },
+  "tz_Chihuahua": {
+    "message": "चिहुअहुआ"
+  },
+  "tz_Mazatlan": {
+    "message": "माझतान"
+  },
+  "tz_Swift_Current": {
+    "message": "स्विफ्ट वर्तमान"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "बाहीया Banderas"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "केंब्रिड्ज बाय"
+  },
+  "tz_Phoenix": {
+    "message": "उत्कृष्ट नमुना"
+  },
+  "tz_Hermosillo": {
+    "message": "हर्मोसिल्लो"
+  },
+  "tz_Edmonton": {
+    "message": "एड्मंनटोन"
+  },
+  "tz_Santa_Isabel": {
+    "message": "सांता Isabel"
+  },
+  "tz_Yellowknife": {
+    "message": "एललओवक्णीफे"
+  },
+  "tz_Tijuana": {
+    "message": "तिजुआना"
+  },
+  "tz_Boise": {
+    "message": "बोइसे"
+  },
+  "tz_Creston": {
+    "message": "क्रेस्टोन"
+  },
+  "tz_Juneau": {
+    "message": "जुनेआ"
+  },
+  "tz_Los_Angeles": {
+    "message": "लॉस एंजेल्स"
+  },
+  "tz_Dawson_Creek": {
+    "message": "डॉसन क्रीक"
+  },
+  "tz_Vancouver": {
+    "message": "व्हँकुव्हर"
+  },
+  "tz_Whitehorse": {
+    "message": "वाइटहॉरस"
+  },
+  "tz_Metlakatla": {
+    "message": "Metlakatla"
+  },
+  "tz_Inuvik": {
+    "message": "Inuvik"
+  },
+  "tz_Sitka": {
+    "message": "Sitka"
+  },
+  "tz_Dawson": {
+    "message": "डॉसन"
+  },
+  "tz_Yakutat": {
+    "message": "Yakutat"
+  },
+  "tz_Djibouti": {
+    "message": "जिबूती"
+  },
+  "tz_Anchorage": {
+    "message": "ओखा"
+  },
+  "tz_Nome": {
+    "message": "Nome"
+  },
+  "tz_Adak": {
+    "message": "Adak"
+  },
+  "tz_America": {
+    "message": "अमेरिका"
+  },
+  "tz_Mogadishu": {
+    "message": "मोगादीशु"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "डर एस सल्लाम"
+  },
+  "tz_Asmara": {
+    "message": "अस्मारा"
+  },
+  "tz_Addis_Ababa": {
+    "message": "आदीसअबाबा"
+  },
+  "tz_Nairobi": {
+    "message": "नैरोबी"
+  },
+  "tz_Blantyre": {
+    "message": "ब्लँटायरे"
+  },
+  "tz_Khartoum": {
+    "message": "खारटॉम"
+  },
+  "tz_Maputo": {
+    "message": "मॅपुटो"
+  },
+  "tz_Cairo": {
+    "message": "कॅरो"
+  },
+  "tz_Kampala": {
+    "message": "कॅम्पाला"
+  },
+  "tz_Juba": {
+    "message": "जुबा"
+  },
+  "tz_Mbabane": {
+    "message": "मबाबने"
+  },
+  "tz_Kigali": {
+    "message": "किगली"
+  },
+  "tz_Harare": {
+    "message": "हरारे"
+  },
+  "tz_Johannesburg": {
+    "message": "जोहांसबर्ग"
+  },
+  "tz_Maseru": {
+    "message": "मासेरू"
+  },
+  "tz_Bujumbura": {
+    "message": "बजुम्बरा"
+  },
+  "tz_Lusaka": {
+    "message": "लुसाका"
+  },
+  "tz_Kinshasa": {
+    "message": "किनशसा"
+  },
+  "tz_Brazzaville": {
+    "message": "ब्राझाविले"
+  },
+  "tz_Lubumbashi": {
+    "message": "लुबुमबाशी"
+  },
+  "tz_Bangui": {
+    "message": "बांगुइ"
+  },
+  "tz_Gaborone": {
+    "message": "गॅबोरान"
+  },
+  "tz_Windhoek": {
+    "message": "विनढोक"
+  },
+  "tz_Tripoli": {
+    "message": "ट्रिपोली"
+  },
+  "tz_Ndjamena": {
+    "message": "एनजामेना"
+  },
+  "tz_Luanda": {
+    "message": "लुआंडा"
+  },
+  "tz_Tunis": {
+    "message": "ट्यूनिस"
+  },
+  "tz_Douala": {
+    "message": "दौउला"
+  },
+  "tz_Libreville": {
+    "message": "लिब्रेविले"
+  },
+  "tz_Malabo": {
+    "message": "मालबो"
+  },
+  "tz_Algiers": {
+    "message": "अल्जीयर्स"
+  },
+  "tz_Sao_Tome": {
+    "message": "साओ टोमे"
+  },
+  "tz_Lagos": {
+    "message": "लॅगॉस"
+  },
+  "tz_Niamey": {
+    "message": "नॅय्मे"
+  },
+  "tz_Lome": {
+    "message": "लोम"
+  },
+  "tz_Accra": {
+    "message": "अक्रा"
+  },
+  "tz_Porto__Novo": {
+    "message": "पोर्तो-नोव्हो"
+  },
+  "tz_Bamako": {
+    "message": "बामाको"
+  },
+  "tz_Ouagadougou": {
+    "message": "ओउगाडोउगोउ"
+  },
+  "tz_Ceuta": {
+    "message": "क्यूटा"
+  },
+  "tz_Abidjan": {
+    "message": "आबीदजान"
+  },
+  "tz_Casablanca": {
+    "message": "केसब्लांका"
+  },
+  "tz_El_Aaiun": {
+    "message": "अल आयून"
+  },
+  "tz_Monrovia": {
+    "message": "मोंरोविया"
+  },
+  "tz_Banjul": {
+    "message": "बंजुल"
+  },
+  "tz_Freetown": {
+    "message": "फ्रीटाउन"
+  },
+  "tz_Dakar": {
+    "message": "डाकर"
+  },
+  "tz_Conakry": {
+    "message": "कॉनक्राय"
+  },
+  "tz_Bissau": {
+    "message": "बिसाउ"
+  },
+  "tz_Nouakchott": {
+    "message": "नॉकचोट"
+  },
+  "tz_Africa": {
+    "message": "आफ्रिका"
+  },
+  "ui_addTimezone": {
+    "message": "जोडा"
+  },
+  "ui_extraTimezones": {
+    "message": "अतिरिक्त टाइम झोन"
+  },
+  "ui_autoHide": {
+    "message": "आपोआप लपवा"
+  },
+  "manifest_description": {
+    "message": "एक सोयिस्कर कॅलेंडर आणि घड्याळ विजेट."
+  },
+  "manifest_name": {
+    "message": "दिनदर्शिका घड्याळ"
+  },
+  "ui_alwaysOnTop": {
+    "message": "नेहेमी शीर्षावर ठेवा"
+  }
+}

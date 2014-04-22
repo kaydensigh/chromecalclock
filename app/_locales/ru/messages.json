@@ -1,0 +1,1301 @@
+{
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Funafuti": {
+    "message": "Фунафути"
+  },
+  "tz_Fiji": {
+    "message": "Фиджи"
+  },
+  "tz_Auckland": {
+    "message": "Окленд"
+  },
+  "tz_Majuro": {
+    "message": "Маджуро"
+  },
+  "tz_Tarawa": {
+    "message": "Тарава"
+  },
+  "tz_Efate": {
+    "message": "Эфате"
+  },
+  "tz_Norfolk": {
+    "message": "Норфолк"
+  },
+  "tz_Kwajalein": {
+    "message": "Кваджалейн"
+  },
+  "tz_Nauru": {
+    "message": "Науру"
+  },
+  "tz_Wake": {
+    "message": "Услуга"
+  },
+  "tz_Noumea": {
+    "message": "Нумеа"
+  },
+  "tz_Kosrae": {
+    "message": "Косрае"
+  },
+  "tz_Guadalcanal": {
+    "message": "Гуадалканал"
+  },
+  "tz_Pohnpei": {
+    "message": "Понпеи"
+  },
+  "tz_Chuuk": {
+    "message": "Чуук"
+  },
+  "tz_Saipan": {
+    "message": "Сайпан"
+  },
+  "tz_Port_Moresby": {
+    "message": "Порт-Морсби"
+  },
+  "tz_Guam": {
+    "message": "Гуам"
+  },
+  "tz_Palau": {
+    "message": "Палау"
+  },
+  "tz_Galapagos": {
+    "message": "Галапагосские"
+  },
+  "tz_Easter": {
+    "message": "пасхальный"
+  },
+  "tz_Pitcairn": {
+    "message": "Питкэрн"
+  },
+  "tz_Gambier": {
+    "message": "Гамбиер"
+  },
+  "tz_Marquesas": {
+    "message": "Маркизские"
+  },
+  "tz_Kiritimati": {
+    "message": "Kiritimati"
+  },
+  "tz_Tahiti": {
+    "message": "Таити"
+  },
+  "tz_Honolulu": {
+    "message": "Гонолулу"
+  },
+  "tz_Rarotonga": {
+    "message": "Раротонга"
+  },
+  "tz_Johnston": {
+    "message": "Джонстон"
+  },
+  "tz_Niue": {
+    "message": "Ниуэ"
+  },
+  "tz_Pago_Pago": {
+    "message": "Паго-Паго"
+  },
+  "tz_Enderbury": {
+    "message": "Эндербери"
+  },
+  "tz_Fakaofo": {
+    "message": "Факаофо"
+  },
+  "tz_Apia": {
+    "message": "Апиа"
+  },
+  "tz_Tongatapu": {
+    "message": "Тонгатапу"
+  },
+  "tz_Wallis": {
+    "message": "Уоллис"
+  },
+  "tz_Chatham": {
+    "message": "Чатем"
+  },
+  "tz_Midway": {
+    "message": "на полпути"
+  },
+  "tz_Pacific": {
+    "message": "тихий океан"
+  },
+  "tz_Christmas": {
+    "message": "рождество"
+  },
+  "tz_Cocos": {
+    "message": "Кокосовые"
+  },
+  "tz_Maldives": {
+    "message": "Мальдивы"
+  },
+  "tz_Chagos": {
+    "message": "Чагос"
+  },
+  "tz_Kerguelen": {
+    "message": "Кергелен"
+  },
+  "tz_Mahe": {
+    "message": "Маэ"
+  },
+  "tz_Mauritius": {
+    "message": "Маврикий"
+  },
+  "tz_Reunion": {
+    "message": "воссоединение"
+  },
+  "tz_Antananarivo": {
+    "message": "Антананариву"
+  },
+  "tz_Comoro": {
+    "message": "Коморские"
+  },
+  "tz_Mayotte": {
+    "message": "Майотта"
+  },
+  "tz_Indian": {
+    "message": "индийский"
+  },
+  "tz_Samara": {
+    "message": "крылатка"
+  },
+  "tz_Volgograd": {
+    "message": "Волгоград"
+  },
+  "tz_Moscow": {
+    "message": "Москва"
+  },
+  "tz_Zaporozhye": {
+    "message": "Запорожье"
+  },
+  "tz_Simferopol": {
+    "message": "Симферополь"
+  },
+  "tz_Kiev": {
+    "message": "Киев"
+  },
+  "tz_Istanbul": {
+    "message": "Стамбул"
+  },
+  "tz_Chisinau": {
+    "message": "Кишинев"
+  },
+  "tz_Minsk": {
+    "message": "Минск"
+  },
+  "tz_Vilnius": {
+    "message": "Вильнюс"
+  },
+  "tz_Bucharest": {
+    "message": "Бухарест"
+  },
+  "tz_Tallinn": {
+    "message": "Таллин"
+  },
+  "tz_Helsinki": {
+    "message": "Хельсинки"
+  },
+  "tz_Riga": {
+    "message": "Рига"
+  },
+  "tz_Athens": {
+    "message": "Афины"
+  },
+  "tz_Sofia": {
+    "message": "София"
+  },
+  "tz_Uzhgorod": {
+    "message": "Ужгород"
+  },
+  "tz_Skopje": {
+    "message": "Скопье"
+  },
+  "tz_Warsaw": {
+    "message": "Варшава"
+  },
+  "tz_Belgrade": {
+    "message": "Белград"
+  },
+  "tz_Kaliningrad": {
+    "message": "Калининград"
+  },
+  "tz_Mariehamn": {
+    "message": "Мариехамн"
+  },
+  "tz_Tirane": {
+    "message": "Тирана"
+  },
+  "tz_Budapest": {
+    "message": "Будапешт"
+  },
+  "tz_Podgorica": {
+    "message": "Подгорица"
+  },
+  "tz_Stockholm": {
+    "message": "Стокгольм"
+  },
+  "tz_Sarajevo": {
+    "message": "Сараево"
+  },
+  "tz_Bratislava": {
+    "message": "Братислава"
+  },
+  "tz_Vienna": {
+    "message": "Вена"
+  },
+  "tz_Zagreb": {
+    "message": "Загреб"
+  },
+  "tz_Ljubljana": {
+    "message": "Любляна"
+  },
+  "tz_Malta": {
+    "message": "Мальта"
+  },
+  "tz_Prague": {
+    "message": "Прага"
+  },
+  "tz_Berlin": {
+    "message": "Берлин"
+  },
+  "tz_Copenhagen": {
+    "message": "Копенгаген"
+  },
+  "tz_Rome": {
+    "message": "Рим"
+  },
+  "tz_San_Marino": {
+    "message": "Сан - Марино"
+  },
+  "tz_Vatican": {
+    "message": "Ватикан"
+  },
+  "tz_Vaduz": {
+    "message": "Вадуц"
+  },
+  "tz_Oslo": {
+    "message": "Осло"
+  },
+  "tz_Busingen": {
+    "message": "Busingen"
+  },
+  "tz_Zurich": {
+    "message": "Цюрих"
+  },
+  "tz_Monaco": {
+    "message": "Монако"
+  },
+  "tz_Luxembourg": {
+    "message": "Люксембург"
+  },
+  "tz_Amsterdam": {
+    "message": "Амстердам"
+  },
+  "tz_Brussels": {
+    "message": "Брюссель"
+  },
+  "tz_Paris": {
+    "message": "Париж"
+  },
+  "tz_London": {
+    "message": "Лондон"
+  },
+  "tz_Andorra": {
+    "message": "андорра"
+  },
+  "tz_Guernsey": {
+    "message": "шерстяная фуфайка"
+  },
+  "tz_Jersey": {
+    "message": "Джерси"
+  },
+  "tz_Madrid": {
+    "message": "Мадрид"
+  },
+  "tz_Isle_of_Man": {
+    "message": "Остров Мэн"
+  },
+  "tz_Gibraltar": {
+    "message": "Гибралтар"
+  },
+  "tz_Dublin": {
+    "message": "Дублин"
+  },
+  "tz_Lisbon": {
+    "message": "Лиссабон"
+  },
+  "tz_Europe": {
+    "message": "Европа"
+  },
+  "tz_Lord_Howe": {
+    "message": "Лорд-Хау"
+  },
+  "tz_Sydney": {
+    "message": "Сидней"
+  },
+  "tz_Brisbane": {
+    "message": "Брисбен"
+  },
+  "tz_Hobart": {
+    "message": "Хобарт"
+  },
+  "tz_Lindeman": {
+    "message": "Линдеман"
+  },
+  "tz_Melbourne": {
+    "message": "Мельбурн"
+  },
+  "tz_Currie": {
+    "message": "Карри"
+  },
+  "tz_Broken_Hill": {
+    "message": "Брокен-Хилл"
+  },
+  "tz_Adelaide": {
+    "message": "Аделаида"
+  },
+  "tz_Darwin": {
+    "message": "Дарвин"
+  },
+  "tz_Eucla": {
+    "message": "Eucla"
+  },
+  "tz_Perth": {
+    "message": "Перт"
+  },
+  "tz_Australia": {
+    "message": "Австралия"
+  },
+  "tz_St_Helena": {
+    "message": "Святой Елены"
+  },
+  "tz_Faroe": {
+    "message": "Фарерские"
+  },
+  "tz_Canary": {
+    "message": "канарейка"
+  },
+  "tz_Reykjavik": {
+    "message": "Рейкьявик"
+  },
+  "tz_Madeira": {
+    "message": "мадера"
+  },
+  "tz_Azores": {
+    "message": "Азорские острова"
+  },
+  "tz_Cape_Verde": {
+    "message": "Кабо-Верде"
+  },
+  "tz_South_Georgia": {
+    "message": "Южная Георгия"
+  },
+  "tz_Stanley": {
+    "message": "Стэнли"
+  },
+  "tz_Bermuda": {
+    "message": "Бермудские острова"
+  },
+  "tz_Atlantic": {
+    "message": "Атлантика"
+  },
+  "tz_Kamchatka": {
+    "message": "Камчатка"
+  },
+  "tz_Anadyr": {
+    "message": "Анадырь"
+  },
+  "tz_Magadan": {
+    "message": "Магадан"
+  },
+  "tz_Ust__Nera": {
+    "message": "Усть-Нера"
+  },
+  "tz_Sakhalin": {
+    "message": "Сахалин"
+  },
+  "tz_Jayapura": {
+    "message": "Джаяпура"
+  },
+  "tz_Khandyga": {
+    "message": "Хандыга"
+  },
+  "tz_Tokyo": {
+    "message": "Токио"
+  },
+  "tz_Vladivostok": {
+    "message": "Владивосток"
+  },
+  "tz_Yakutsk": {
+    "message": "Якутск"
+  },
+  "tz_Seoul": {
+    "message": "Сеул"
+  },
+  "tz_Harbin": {
+    "message": "Харбин"
+  },
+  "tz_Pyongyang": {
+    "message": "Пхеньян"
+  },
+  "tz_Dili": {
+    "message": "Дили"
+  },
+  "tz_Taipei": {
+    "message": "Тайбэй"
+  },
+  "tz_Shanghai": {
+    "message": "Шанхай"
+  },
+  "tz_Manila": {
+    "message": "Манила"
+  },
+  "tz_Makassar": {
+    "message": "Макассар"
+  },
+  "tz_Choibalsan": {
+    "message": "Чойбалсан"
+  },
+  "tz_Brunei": {
+    "message": "Бруней"
+  },
+  "tz_Hong_Kong": {
+    "message": "Гонконг"
+  },
+  "tz_Macau": {
+    "message": "Макао"
+  },
+  "tz_Kuching": {
+    "message": "Кучинг"
+  },
+  "tz_Pontianak": {
+    "message": "Понтианак"
+  },
+  "tz_Jakarta": {
+    "message": "Джакарта"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "Улан-Батор"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "Хо Ши Мин"
+  },
+  "tz_Chongqing": {
+    "message": "Чунцин"
+  },
+  "tz_Phnom_Penh": {
+    "message": "Пномпень"
+  },
+  "tz_Irkutsk": {
+    "message": "Иркутск"
+  },
+  "tz_Singapore": {
+    "message": "Сингапур"
+  },
+  "tz_Vientiane": {
+    "message": "Вьентьян"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "Куала-Лумпур"
+  },
+  "tz_Bangkok": {
+    "message": "Бангкок"
+  },
+  "tz_Rangoon": {
+    "message": "Рангун"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "Красноярск"
+  },
+  "tz_Hovd": {
+    "message": "Ховд"
+  },
+  "tz_Dhaka": {
+    "message": "Дакка"
+  },
+  "tz_Thimphu": {
+    "message": "Тхимпху"
+  },
+  "tz_Kolkata": {
+    "message": "Калькутта"
+  },
+  "tz_Urumqi": {
+    "message": "Урумчи"
+  },
+  "tz_Novokuznetsk": {
+    "message": "Новокузнецк"
+  },
+  "tz_Kathmandu": {
+    "message": "Катманду"
+  },
+  "tz_Novosibirsk": {
+    "message": "Новосибирск"
+  },
+  "tz_Colombo": {
+    "message": "Коломбо"
+  },
+  "tz_Almaty": {
+    "message": "Алматы"
+  },
+  "tz_Kashgar": {
+    "message": "Кашгар"
+  },
+  "tz_Bishkek": {
+    "message": "Бишкек"
+  },
+  "tz_Tashkent": {
+    "message": "Ташкент"
+  },
+  "tz_Omsk": {
+    "message": "Омск"
+  },
+  "tz_Kabul": {
+    "message": "Кабул"
+  },
+  "tz_Dushanbe": {
+    "message": "Душанбе"
+  },
+  "tz_Karachi": {
+    "message": "Карачи"
+  },
+  "tz_Samarkand": {
+    "message": "Самарканд"
+  },
+  "tz_Yekaterinburg": {
+    "message": "Екатеринбург"
+  },
+  "tz_Qyzylorda": {
+    "message": "Кызылординская"
+  },
+  "tz_Muscat": {
+    "message": "мускатный"
+  },
+  "tz_Ashgabat": {
+    "message": "Ашхабад"
+  },
+  "tz_Aqtobe": {
+    "message": "Актюбинская"
+  },
+  "tz_Dubai": {
+    "message": "Дубай"
+  },
+  "tz_Qatar": {
+    "message": "Катар"
+  },
+  "tz_Tehran": {
+    "message": "Тегеран"
+  },
+  "tz_Oral": {
+    "message": "оральный"
+  },
+  "tz_Bahrain": {
+    "message": "Бахрейн"
+  },
+  "tz_Aqtau": {
+    "message": "Актау"
+  },
+  "tz_Baku": {
+    "message": "Баку"
+  },
+  "tz_Kuwait": {
+    "message": "Кувейт"
+  },
+  "tz_Aden": {
+    "message": "Аден"
+  },
+  "tz_Riyadh": {
+    "message": "Рияд"
+  },
+  "tz_Yerevan": {
+    "message": "Ереван"
+  },
+  "tz_Tbilisi": {
+    "message": "Тбилиси"
+  },
+  "tz_Baghdad": {
+    "message": "Багдад"
+  },
+  "tz_Damascus": {
+    "message": "Дамаск"
+  },
+  "tz_Amman": {
+    "message": "Амман"
+  },
+  "tz_Beirut": {
+    "message": "Бейрут"
+  },
+  "tz_Jerusalem": {
+    "message": "Иерусалим"
+  },
+  "tz_Hebron": {
+    "message": "Хеврон"
+  },
+  "tz_Gaza": {
+    "message": "сектор Газа"
+  },
+  "tz_Nicosia": {
+    "message": "Никосия"
+  },
+  "tz_Asia": {
+    "message": "Азия"
+  },
+  "tz_Longyearbyen": {
+    "message": "Лонгйир"
+  },
+  "tz_McMurdo": {
+    "message": "Мак-Мердо"
+  },
+  "tz_Arctic": {
+    "message": "Арктика"
+  },
+  "tz_Macquarie": {
+    "message": "Macquarie"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Casey": {
+    "message": "Кейси"
+  },
+  "tz_Vostok": {
+    "message": "Восток"
+  },
+  "tz_Davis": {
+    "message": "Дэвис"
+  },
+  "tz_Mawson": {
+    "message": "Моусон"
+  },
+  "tz_Troll": {
+    "message": "тролль"
+  },
+  "tz_Syowa": {
+    "message": "Сева"
+  },
+  "tz_Palmer": {
+    "message": "паломник"
+  },
+  "tz_Rothera": {
+    "message": "Ротера"
+  },
+  "tz_Antarctica": {
+    "message": "Антарктида"
+  },
+  "tz_Danmarkshavn": {
+    "message": "Данмарксхавн"
+  },
+  "tz_Scoresbysund": {
+    "message": "Скорсбисунн"
+  },
+  "tz_Noronha": {
+    "message": "Норонья"
+  },
+  "tz_Recife": {
+    "message": "Ресифи"
+  },
+  "tz_Maceio": {
+    "message": "Масейо"
+  },
+  "tz_Fortaleza": {
+    "message": "Форталеза"
+  },
+  "tz_Bahia": {
+    "message": "Bahia"
+  },
+  "tz_Sao_Paulo": {
+    "message": "Сан-Паулу"
+  },
+  "tz_Araguaina": {
+    "message": "Araguaina"
+  },
+  "tz_Belem": {
+    "message": "Белем"
+  },
+  "tz_Godthab": {
+    "message": "Нук"
+  },
+  "tz_Cayenne": {
+    "message": "кайенский перец"
+  },
+  "tz_St_Johns": {
+    "message": "Сент-Джонс"
+  },
+  "tz_Santarem": {
+    "message": "Сантарен"
+  },
+  "tz_Campo_Grande": {
+    "message": "Campo Grande"
+  },
+  "tz_Paramaribo": {
+    "message": "Парамарибо"
+  },
+  "tz_Cuiaba": {
+    "message": "Куяба"
+  },
+  "tz_Montevideo": {
+    "message": "Монтевидео"
+  },
+  "tz_Miquelon": {
+    "message": "Микелон"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "Блан-Саблон"
+  },
+  "tz_Asuncion": {
+    "message": "Асунсьон"
+  },
+  "tz_Guyana": {
+    "message": "Гайана"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "Аргентина / Буэнос-Айрес"
+  },
+  "tz_Glace_Bay": {
+    "message": "Glace Bay"
+  },
+  "tz_Barbados": {
+    "message": "Барбадос"
+  },
+  "tz_Manaus": {
+    "message": "Манаус"
+  },
+  "tz_Goose_Bay": {
+    "message": "Гус Бей"
+  },
+  "tz_Boa_Vista": {
+    "message": "Боа-Виста"
+  },
+  "tz_St_Lucia": {
+    "message": "Сент-Люсия"
+  },
+  "tz_Martinique": {
+    "message": "Мартиника"
+  },
+  "tz_St_Vincent": {
+    "message": "Сент-Винсент"
+  },
+  "tz_Dominica": {
+    "message": "Доминика"
+  },
+  "tz_Port_of_Spain": {
+    "message": "Порт-оф-Спейн"
+  },
+  "tz_Guadeloupe": {
+    "message": "Гваделупа"
+  },
+  "tz_Grenada": {
+    "message": "Гренада"
+  },
+  "tz_Antigua": {
+    "message": "Антигуа"
+  },
+  "tz_Montserrat": {
+    "message": "Монтсеррат"
+  },
+  "tz_St_Kitts": {
+    "message": "Сент-Китс"
+  },
+  "tz_St_Barthelemy": {
+    "message": "Санкт-Бартелеми"
+  },
+  "tz_Lower_Princes": {
+    "message": "Нижние Князья"
+  },
+  "tz_Anguilla": {
+    "message": "Ангилья"
+  },
+  "tz_Marigot": {
+    "message": "Маригот"
+  },
+  "tz_Halifax": {
+    "message": "Галифакс"
+  },
+  "tz_Porto_Velho": {
+    "message": "Порту-Велью"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "Аргентина / Cordoba"
+  },
+  "tz_Tortola": {
+    "message": "Тортола"
+  },
+  "tz_Moncton": {
+    "message": "Монктон"
+  },
+  "tz_St_Thomas": {
+    "message": "Сент-Томас"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "Аргентина / Тукуман"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "Аргентина / Жужуй"
+  },
+  "tz_Argentina___Salta": {
+    "message": "Аргентина / Сальта"
+  },
+  "tz_Pangnirtung": {
+    "message": "Пангниртунг"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "Аргентина / Катамарка"
+  },
+  "tz_Puerto_Rico": {
+    "message": "Пуэрто-Рико"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "Аргентина / Сан-Луис-"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "Аргентина / Ла-Риоха"
+  },
+  "tz_Caracas": {
+    "message": "Каракас"
+  },
+  "tz_Rio_Branco": {
+    "message": "Риу-Бранку"
+  },
+  "tz_La_Paz": {
+    "message": "Ла-Пас"
+  },
+  "tz_Kralendijk": {
+    "message": "Кралендийк"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "Аргентина / Ушуайя"
+  },
+  "tz_Iqaluit": {
+    "message": "Икалуит"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "Аргентина / Сан-Хуан"
+  },
+  "tz_Thule": {
+    "message": "Туле"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "Аргентина / Мендоса"
+  },
+  "tz_Curacao": {
+    "message": "ликер кюрасо"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "Аргентина / Рио-Гальегос"
+  },
+  "tz_Eirunepe": {
+    "message": "Эиранеп"
+  },
+  "tz_Santo_Domingo": {
+    "message": "Санто-Доминго"
+  },
+  "tz_Aruba": {
+    "message": "Аруба"
+  },
+  "tz_Santiago": {
+    "message": "Сантьяго"
+  },
+  "tz_Grand_Turk": {
+    "message": "Гранд-Терк"
+  },
+  "tz_Port__au__Prince": {
+    "message": "Порт-о-Пренс"
+  },
+  "tz_New_York": {
+    "message": "Нью-Йорк"
+  },
+  "tz_Bogota": {
+    "message": "Богота"
+  },
+  "tz_Jamaica": {
+    "message": "Ямайка"
+  },
+  "tz_Lima": {
+    "message": "Лима"
+  },
+  "tz_Nassau": {
+    "message": "Нассау"
+  },
+  "tz_Toronto": {
+    "message": "Торонто"
+  },
+  "tz_Panama": {
+    "message": "Панама"
+  },
+  "tz_Guayaquil": {
+    "message": "Гуаякиль"
+  },
+  "tz_Cayman": {
+    "message": "кайман"
+  },
+  "tz_Havana": {
+    "message": "Гавана"
+  },
+  "tz_Detroit": {
+    "message": "Детройт"
+  },
+  "tz_Costa_Rica": {
+    "message": "Коста-Рика"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "Кентукки / Монтичелло"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "Индиана / Вевей"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "Кентукки / Луисвилл"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "Индиана / Индианаполис"
+  },
+  "tz_Managua": {
+    "message": "Манагуа"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "Индиана / Маренго"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "Индиана / Winamac"
+  },
+  "tz_Indiana___Knox": {
+    "message": "Индиана / Нокс"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "Индиана / Tell City"
+  },
+  "tz_Cancun": {
+    "message": "Канкун"
+  },
+  "tz_Tegucigalpa": {
+    "message": "Тегусигальпа"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "Индиана / Петербург"
+  },
+  "tz_Menominee": {
+    "message": "меномини"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "Индиана / Венсен"
+  },
+  "tz_Chicago": {
+    "message": "Чикаго"
+  },
+  "tz_Belize": {
+    "message": "Белиз"
+  },
+  "tz_Nipigon": {
+    "message": "Nipigon"
+  },
+  "tz_El_Salvador": {
+    "message": "Сальвадор"
+  },
+  "tz_Thunder_Bay": {
+    "message": "Тандер-Бей"
+  },
+  "tz_Merida": {
+    "message": "Мерида"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan"
+  },
+  "tz_Guatemala": {
+    "message": "Гватемала"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "Ранкин Инлет"
+  },
+  "tz_Rainy_River": {
+    "message": "Дождливый реки"
+  },
+  "tz_Resolute": {
+    "message": "решительный"
+  },
+  "tz_Winnipeg": {
+    "message": "Виннипег"
+  },
+  "tz_Matamoros": {
+    "message": "Матаморос"
+  },
+  "tz_Mexico_City": {
+    "message": "Мехико"
+  },
+  "tz_Monterrey": {
+    "message": "Монтеррей"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "Северная Дакота / Центр"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "Северная Дакота / Новый Салем"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "Северная Дакота / Бойла"
+  },
+  "tz_Denver": {
+    "message": "Денвер"
+  },
+  "tz_Regina": {
+    "message": "реджайна"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "Кембридж-Бей"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "Bahia Бандерас"
+  },
+  "tz_Chihuahua": {
+    "message": "чихуахуа"
+  },
+  "tz_Mazatlan": {
+    "message": "Масатлан"
+  },
+  "tz_Swift_Current": {
+    "message": "Swift Current"
+  },
+  "tz_Hermosillo": {
+    "message": "Эрмосильо"
+  },
+  "tz_Phoenix": {
+    "message": "Финикс"
+  },
+  "tz_Edmonton": {
+    "message": "Эдмонтон"
+  },
+  "tz_Yellowknife": {
+    "message": "йеллоунайф"
+  },
+  "tz_Santa_Isabel": {
+    "message": "Санта-Исабель"
+  },
+  "tz_Creston": {
+    "message": "Creston"
+  },
+  "tz_Boise": {
+    "message": "Бойсе"
+  },
+  "tz_Tijuana": {
+    "message": "Тихуана"
+  },
+  "tz_Los_Angeles": {
+    "message": "Лос-Анджелес"
+  },
+  "tz_Dawson_Creek": {
+    "message": "Доусон-Крик"
+  },
+  "tz_Vancouver": {
+    "message": "Ванкувер"
+  },
+  "tz_Metlakatla": {
+    "message": "Metlakatla"
+  },
+  "tz_Inuvik": {
+    "message": "Инувик"
+  },
+  "tz_Whitehorse": {
+    "message": "Уайтхорс"
+  },
+  "tz_Juneau": {
+    "message": "Джуно"
+  },
+  "tz_Sitka": {
+    "message": "Ситка"
+  },
+  "tz_Dawson": {
+    "message": "Доусон"
+  },
+  "tz_Yakutat": {
+    "message": "Якутат"
+  },
+  "tz_Anchorage": {
+    "message": "якорная стоянка"
+  },
+  "tz_Nome": {
+    "message": "Ном"
+  },
+  "tz_Adak": {
+    "message": "Адак"
+  },
+  "tz_America": {
+    "message": "Америка"
+  },
+  "tz_Mogadishu": {
+    "message": "Могадишо"
+  },
+  "tz_Djibouti": {
+    "message": "Джибути"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "Дар-эс-Салам"
+  },
+  "tz_Asmara": {
+    "message": "Асмара"
+  },
+  "tz_Addis_Ababa": {
+    "message": "Аддис-Абеба"
+  },
+  "tz_Nairobi": {
+    "message": "Найроби"
+  },
+  "tz_Blantyre": {
+    "message": "Блантайр"
+  },
+  "tz_Maputo": {
+    "message": "Мапуту"
+  },
+  "tz_Khartoum": {
+    "message": "Хартум"
+  },
+  "tz_Kampala": {
+    "message": "Кампала"
+  },
+  "tz_Juba": {
+    "message": "Джуба"
+  },
+  "tz_Cairo": {
+    "message": "Каир"
+  },
+  "tz_Harare": {
+    "message": "Хараре"
+  },
+  "tz_Mbabane": {
+    "message": "Мбабане"
+  },
+  "tz_Kigali": {
+    "message": "Кигали"
+  },
+  "tz_Bujumbura": {
+    "message": "Бужумбура"
+  },
+  "tz_Lusaka": {
+    "message": "Лусака"
+  },
+  "tz_Johannesburg": {
+    "message": "Йоханнесбург"
+  },
+  "tz_Maseru": {
+    "message": "Масеру"
+  },
+  "tz_Lubumbashi": {
+    "message": "Лубумбаши"
+  },
+  "tz_Gaborone": {
+    "message": "Габороне"
+  },
+  "tz_Bangui": {
+    "message": "Банги"
+  },
+  "tz_Windhoek": {
+    "message": "Виндхук"
+  },
+  "tz_Kinshasa": {
+    "message": "Киншаса"
+  },
+  "tz_Brazzaville": {
+    "message": "Браззавиль"
+  },
+  "tz_Ndjamena": {
+    "message": "Нджамена"
+  },
+  "tz_Luanda": {
+    "message": "Луанда"
+  },
+  "tz_Tripoli": {
+    "message": "Триполи"
+  },
+  "tz_Tunis": {
+    "message": "Тунис"
+  },
+  "tz_Libreville": {
+    "message": "Либревилль"
+  },
+  "tz_Douala": {
+    "message": "Дуала"
+  },
+  "tz_Malabo": {
+    "message": "Малабо"
+  },
+  "tz_Sao_Tome": {
+    "message": "Сан-Томе"
+  },
+  "tz_Lagos": {
+    "message": "Лагос"
+  },
+  "tz_Algiers": {
+    "message": "Алжир"
+  },
+  "tz_Porto__Novo": {
+    "message": "Порто-Ново"
+  },
+  "tz_Niamey": {
+    "message": "Ниамей"
+  },
+  "tz_Accra": {
+    "message": "Аккра"
+  },
+  "tz_Lome": {
+    "message": "Ломе"
+  },
+  "tz_Ouagadougou": {
+    "message": "Уагадугу"
+  },
+  "tz_Abidjan": {
+    "message": "Абиджан"
+  },
+  "tz_Ceuta": {
+    "message": "Сеута"
+  },
+  "tz_Casablanca": {
+    "message": "Касабланка"
+  },
+  "tz_Bamako": {
+    "message": "Бамако"
+  },
+  "tz_Monrovia": {
+    "message": "Монровия"
+  },
+  "tz_El_Aaiun": {
+    "message": "Эль-Аюн"
+  },
+  "tz_Freetown": {
+    "message": "Фритаун"
+  },
+  "tz_Conakry": {
+    "message": "Конакри"
+  },
+  "tz_Bissau": {
+    "message": "Бисау"
+  },
+  "tz_Nouakchott": {
+    "message": "Нуакшот"
+  },
+  "tz_Banjul": {
+    "message": "Банжул"
+  },
+  "tz_Dakar": {
+    "message": "Дакар"
+  },
+  "tz_Africa": {
+    "message": "Африка"
+  },
+  "ui_addTimezone": {
+    "message": "добавлять"
+  },
+  "ui_extraTimezones": {
+    "message": "Дополнительные часовые пояса"
+  },
+  "ui_autoHide": {
+    "message": "Скрыть автоматически"
+  },
+  "ui_alwaysOnTop": {
+    "message": "Всегда на вершине"
+  },
+  "manifest_description": {
+    "message": "Удобный календарь и часы виджет."
+  },
+  "manifest_name": {
+    "message": "Календарь Часы"
+  }
+}

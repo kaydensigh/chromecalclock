@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script type="text/javascript" src="mootools-1.2.6-core-nc.js"></script>
+    <script type="text/javascript" src="datepicker.js"></script>
+    <script type="text/javascript" src="timezones.js"></script>
+  </head>
+  <body>
+    <div class="draggable">
+      <div class="calendarDiv">
+        <input type="text" id="input" value="" class="date calendar" />
+      </div>
+      <div id="clock0" class="clockDiv clock_large">
+        <label class="city"></label>
+        <svg viewBox="-50 -50 100 100">
+          <g class="pointers" transform="rotate(180, 0, 0)">
+            <line class="hour_hand" x1="0" y1="0" x2="0" y2="20" />
+            <line class="minute_hand" x1="0" y1="0" x2="0" y2="30" />
+            <line class="second_hand" x1="0" y1="-7" x2="0" y2="35" />
+            <line class="hub" x1="0" y1="0" x2="0" y2="0" />
+          </g>
+          <g class="hour_ticks">
+          </g>
+          <g class="minute_ticks">
+          </g>
+        </svg>
+        <label class="time"></label>
+        <label class="date"></label>
+      </div>
+    </div>
+    <img id="settingsCog" src="cog.png">
+    <div id="settingsOverlay">
+      <div id="settingsDiv">
+        <div class="settingsItem">
+          <span class="__MSG">ui_autoHide</span>
+          <input type="checkbox" id="autoHide">
+        </div>
+        <div class="settingsSpacer"></div>
+        <div class="settingsItem">
+          <span class="__MSG">ui_alwaysOnTop</span>
+          <input type="checkbox" id="alwaysOnTop">
+        </div>
+        <div class="settingsSpacer"></div>
+        <div class="settingsItem">
+          <span class="__MSG">ui_extraTimezones</span>
+        </div>
+        <div class="settingsItem">
+          <select id="timezoneRegions"></select>
+          <span id="timezoneRegionCities">
+          </span>
+          <button id="addTimezone" class="__MSG">ui_addTimezone</button>
+        </div>
+      </div>
+    </div>
+    <div id="removeTimezoneTemplate" class="removeTimezoneDiv">
+      <img src="cross.png" class="removeTimezone">
+    </div>
+    
+    <script type="text/javascript" src="main.js"></script>
+  </body>
+</html>

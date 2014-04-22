@@ -1,0 +1,1301 @@
+{
+  "tz_Funafuti": {
+    "message": "푸나 푸티"
+  },
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Fiji": {
+    "message": "피지"
+  },
+  "tz_Auckland": {
+    "message": "오클랜드"
+  },
+  "tz_Tarawa": {
+    "message": "타라"
+  },
+  "tz_Majuro": {
+    "message": "마주로"
+  },
+  "tz_Wake": {
+    "message": "모닝콜"
+  },
+  "tz_Kosrae": {
+    "message": "코스 라에"
+  },
+  "tz_Efate": {
+    "message": "에 파테"
+  },
+  "tz_Kwajalein": {
+    "message": "콰 잘렌"
+  },
+  "tz_Norfolk": {
+    "message": "노퍽"
+  },
+  "tz_Nauru": {
+    "message": "나우루어"
+  },
+  "tz_Noumea": {
+    "message": "누메아"
+  },
+  "tz_Chuuk": {
+    "message": "Chuuk의"
+  },
+  "tz_Port_Moresby": {
+    "message": "포트 모르즈비"
+  },
+  "tz_Saipan": {
+    "message": "사이판"
+  },
+  "tz_Guadalcanal": {
+    "message": "과달카날"
+  },
+  "tz_Guam": {
+    "message": "괌"
+  },
+  "tz_Palau": {
+    "message": "팔라우"
+  },
+  "tz_Pohnpei": {
+    "message": "폰 페이"
+  },
+  "tz_Galapagos": {
+    "message": "갈라파고스"
+  },
+  "tz_Easter": {
+    "message": "부활절"
+  },
+  "tz_Gambier": {
+    "message": "갬 비어"
+  },
+  "tz_Marquesas": {
+    "message": "마르"
+  },
+  "tz_Pitcairn": {
+    "message": "핏 케언 제도"
+  },
+  "tz_Tahiti": {
+    "message": "타히티"
+  },
+  "tz_Kiritimati": {
+    "message": "키리 티 마티"
+  },
+  "tz_Honolulu": {
+    "message": "호놀룰루"
+  },
+  "tz_Rarotonga": {
+    "message": "라로 통가"
+  },
+  "tz_Pago_Pago": {
+    "message": "파고 파고"
+  },
+  "tz_Niue": {
+    "message": "니우에"
+  },
+  "tz_Johnston": {
+    "message": "존스턴"
+  },
+  "tz_Enderbury": {
+    "message": "엔더"
+  },
+  "tz_Fakaofo": {
+    "message": "파카 오포"
+  },
+  "tz_Apia": {
+    "message": "아피아"
+  },
+  "tz_Pacific": {
+    "message": "태평양"
+  },
+  "tz_Tongatapu": {
+    "message": "통가 타푸"
+  },
+  "tz_Wallis": {
+    "message": "월리스"
+  },
+  "tz_Chagos": {
+    "message": "차고 스"
+  },
+  "tz_Chatham": {
+    "message": "채텀"
+  },
+  "tz_Midway": {
+    "message": "중도에"
+  },
+  "tz_Christmas": {
+    "message": "크리스마스"
+  },
+  "tz_Cocos": {
+    "message": "코코스"
+  },
+  "tz_Mahe": {
+    "message": "마헤"
+  },
+  "tz_Maldives": {
+    "message": "몰디브"
+  },
+  "tz_Kerguelen": {
+    "message": "케르 켈렌"
+  },
+  "tz_Mauritius": {
+    "message": "모리셔스"
+  },
+  "tz_Reunion": {
+    "message": "재결합"
+  },
+  "tz_Antananarivo": {
+    "message": "안타나나리보"
+  },
+  "tz_Mayotte": {
+    "message": "마 요트"
+  },
+  "tz_Comoro": {
+    "message": "코모로"
+  },
+  "tz_Indian": {
+    "message": "인도의"
+  },
+  "tz_Samara": {
+    "message": "익과"
+  },
+  "tz_Volgograd": {
+    "message": "볼고그라드"
+  },
+  "tz_Simferopol": {
+    "message": "심 페로 폴"
+  },
+  "tz_Moscow": {
+    "message": "모스크바"
+  },
+  "tz_Kiev": {
+    "message": "키에프"
+  },
+  "tz_Zaporozhye": {
+    "message": "자포"
+  },
+  "tz_Minsk": {
+    "message": "미느 스크"
+  },
+  "tz_Istanbul": {
+    "message": "이스탄불"
+  },
+  "tz_Chisinau": {
+    "message": "키시 나우"
+  },
+  "tz_Bucharest": {
+    "message": "부카레스트"
+  },
+  "tz_Vilnius": {
+    "message": "빌 뉴스"
+  },
+  "tz_Helsinki": {
+    "message": "헬싱키"
+  },
+  "tz_Tallinn": {
+    "message": "탈린"
+  },
+  "tz_Riga": {
+    "message": "리가"
+  },
+  "tz_Sofia": {
+    "message": "소피아"
+  },
+  "tz_Athens": {
+    "message": "아테네"
+  },
+  "tz_Uzhgorod": {
+    "message": "우주로 고트"
+  },
+  "tz_Skopje": {
+    "message": "스코 페"
+  },
+  "tz_Warsaw": {
+    "message": "바르샤바"
+  },
+  "tz_Podgorica": {
+    "message": "포드 고리 차"
+  },
+  "tz_Kaliningrad": {
+    "message": "칼리닌그라드"
+  },
+  "tz_Belgrade": {
+    "message": "벨 그라드"
+  },
+  "tz_Mariehamn": {
+    "message": "마리"
+  },
+  "tz_Sarajevo": {
+    "message": "사라예보"
+  },
+  "tz_Tirane": {
+    "message": "티라나"
+  },
+  "tz_Budapest": {
+    "message": "부다페스트"
+  },
+  "tz_Bratislava": {
+    "message": "브라 티 슬라바"
+  },
+  "tz_Stockholm": {
+    "message": "스톡홀름"
+  },
+  "tz_Vienna": {
+    "message": "비엔나"
+  },
+  "tz_Zagreb": {
+    "message": "자그레브"
+  },
+  "tz_Ljubljana": {
+    "message": "류블 랴나"
+  },
+  "tz_Malta": {
+    "message": "몰타"
+  },
+  "tz_Prague": {
+    "message": "프라하"
+  },
+  "tz_Berlin": {
+    "message": "베를린"
+  },
+  "tz_San_Marino": {
+    "message": "산 마리노"
+  },
+  "tz_Copenhagen": {
+    "message": "코펜하겐"
+  },
+  "tz_Rome": {
+    "message": "로마"
+  },
+  "tz_Vatican": {
+    "message": "바티칸"
+  },
+  "tz_Oslo": {
+    "message": "오슬로"
+  },
+  "tz_Vaduz": {
+    "message": "파두 츠"
+  },
+  "tz_Busingen": {
+    "message": "Busingen"
+  },
+  "tz_Zurich": {
+    "message": "취리히"
+  },
+  "tz_Paris": {
+    "message": "파리"
+  },
+  "tz_Monaco": {
+    "message": "모나코"
+  },
+  "tz_Luxembourg": {
+    "message": "룩셈부르크"
+  },
+  "tz_Amsterdam": {
+    "message": "암스테르담"
+  },
+  "tz_Brussels": {
+    "message": "브뤼셀"
+  },
+  "tz_Madrid": {
+    "message": "마드리드"
+  },
+  "tz_Andorra": {
+    "message": "안도라"
+  },
+  "tz_London": {
+    "message": "런던"
+  },
+  "tz_Jersey": {
+    "message": "저지"
+  },
+  "tz_Guernsey": {
+    "message": "영국 해협에있는 작은 섬"
+  },
+  "tz_Isle_of_Man": {
+    "message": "맨 섬"
+  },
+  "tz_Gibraltar": {
+    "message": "지브롤터"
+  },
+  "tz_Dublin": {
+    "message": "더블린"
+  },
+  "tz_Lisbon": {
+    "message": "리스본"
+  },
+  "tz_Lord_Howe": {
+    "message": "로드 하우"
+  },
+  "tz_Europe": {
+    "message": "유럽"
+  },
+  "tz_Brisbane": {
+    "message": "브리즈번"
+  },
+  "tz_Sydney": {
+    "message": "시드니"
+  },
+  "tz_Lindeman": {
+    "message": "린드"
+  },
+  "tz_Hobart": {
+    "message": "호바트"
+  },
+  "tz_Melbourne": {
+    "message": "멜버른"
+  },
+  "tz_Currie": {
+    "message": "커리"
+  },
+  "tz_Broken_Hill": {
+    "message": "브로큰 힐 (Broken Hill)"
+  },
+  "tz_Adelaide": {
+    "message": "애들레이드"
+  },
+  "tz_Eucla": {
+    "message": "유 클라"
+  },
+  "tz_Darwin": {
+    "message": "다윈"
+  },
+  "tz_Perth": {
+    "message": "퍼스"
+  },
+  "tz_Australia": {
+    "message": "호주"
+  },
+  "tz_St_Helena": {
+    "message": "세인트 헬레나"
+  },
+  "tz_Faroe": {
+    "message": "페로"
+  },
+  "tz_Canary": {
+    "message": "카나리아"
+  },
+  "tz_Madeira": {
+    "message": "마데이라"
+  },
+  "tz_Reykjavik": {
+    "message": "레이캬비크"
+  },
+  "tz_Cape_Verde": {
+    "message": "카보 베르데"
+  },
+  "tz_Azores": {
+    "message": "아 조레스"
+  },
+  "tz_South_Georgia": {
+    "message": "사우스 조지아"
+  },
+  "tz_Kamchatka": {
+    "message": "캄차카"
+  },
+  "tz_Stanley": {
+    "message": "스탠리"
+  },
+  "tz_Bermuda": {
+    "message": "버뮤다"
+  },
+  "tz_Anadyr": {
+    "message": "아나 디르"
+  },
+  "tz_Atlantic": {
+    "message": "대서양의"
+  },
+  "tz_Magadan": {
+    "message": "마가 단"
+  },
+  "tz_Sakhalin": {
+    "message": "사할린"
+  },
+  "tz_Khandyga": {
+    "message": "Khandyga"
+  },
+  "tz_Ust__Nera": {
+    "message": "우스 네라"
+  },
+  "tz_Vladivostok": {
+    "message": "블라디보스토크"
+  },
+  "tz_Jayapura": {
+    "message": "자야 푸라"
+  },
+  "tz_Tokyo": {
+    "message": "도쿄"
+  },
+  "tz_Yakutsk": {
+    "message": "야쿠 츠크"
+  },
+  "tz_Seoul": {
+    "message": "서울"
+  },
+  "tz_Harbin": {
+    "message": "하얼빈"
+  },
+  "tz_Dili": {
+    "message": "딜리"
+  },
+  "tz_Taipei": {
+    "message": "타이베이"
+  },
+  "tz_Pyongyang": {
+    "message": "평양"
+  },
+  "tz_Shanghai": {
+    "message": "상하이"
+  },
+  "tz_Manila": {
+    "message": "마닐라"
+  },
+  "tz_Makassar": {
+    "message": "마카 사르"
+  },
+  "tz_Pontianak": {
+    "message": "폰티 아낙"
+  },
+  "tz_Brunei": {
+    "message": "브루나이"
+  },
+  "tz_Kuching": {
+    "message": "쿠칭"
+  },
+  "tz_Choibalsan": {
+    "message": "초이 발산"
+  },
+  "tz_Hong_Kong": {
+    "message": "홍콩"
+  },
+  "tz_Macau": {
+    "message": "마카오"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "울란바토르"
+  },
+  "tz_Phnom_Penh": {
+    "message": "프놈펜"
+  },
+  "tz_Jakarta": {
+    "message": "자카르타"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "호치민"
+  },
+  "tz_Chongqing": {
+    "message": "충칭"
+  },
+  "tz_Irkutsk": {
+    "message": "이르쿠츠크"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "크라스 노야 르 스크"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "쿠알라 룸푸르"
+  },
+  "tz_Singapore": {
+    "message": "싱가포르"
+  },
+  "tz_Vientiane": {
+    "message": "비엔티안"
+  },
+  "tz_Bangkok": {
+    "message": "방콕"
+  },
+  "tz_Rangoon": {
+    "message": "랑군"
+  },
+  "tz_Hovd": {
+    "message": "호브 드"
+  },
+  "tz_Thimphu": {
+    "message": "팀푸"
+  },
+  "tz_Dhaka": {
+    "message": "다카"
+  },
+  "tz_Kolkata": {
+    "message": "콜카타"
+  },
+  "tz_Urumqi": {
+    "message": "우루무치"
+  },
+  "tz_Novokuznetsk": {
+    "message": "노보 쿠즈네츠 크"
+  },
+  "tz_Kathmandu": {
+    "message": "카트만두"
+  },
+  "tz_Novosibirsk": {
+    "message": "노보시비르스크"
+  },
+  "tz_Colombo": {
+    "message": "콜롬보"
+  },
+  "tz_Almaty": {
+    "message": "알마티"
+  },
+  "tz_Kashgar": {
+    "message": "카슈가르"
+  },
+  "tz_Bishkek": {
+    "message": "비슈 케크"
+  },
+  "tz_Omsk": {
+    "message": "옴 스크"
+  },
+  "tz_Tashkent": {
+    "message": "타슈켄트"
+  },
+  "tz_Kabul": {
+    "message": "카불"
+  },
+  "tz_Qyzylorda": {
+    "message": "Qyzylorda"
+  },
+  "tz_Dushanbe": {
+    "message": "두샨베"
+  },
+  "tz_Samarkand": {
+    "message": "사마르 칸트"
+  },
+  "tz_Karachi": {
+    "message": "카라치"
+  },
+  "tz_Yekaterinburg": {
+    "message": "예 카테 린 부르크"
+  },
+  "tz_Muscat": {
+    "message": "무스카트 포도"
+  },
+  "tz_Aqtobe": {
+    "message": "악 토브"
+  },
+  "tz_Dubai": {
+    "message": "두바이"
+  },
+  "tz_Ashgabat": {
+    "message": "아시가 바트"
+  },
+  "tz_Qatar": {
+    "message": "카타르"
+  },
+  "tz_Tehran": {
+    "message": "테헤란"
+  },
+  "tz_Aqtau": {
+    "message": "아크 타우"
+  },
+  "tz_Oral": {
+    "message": "구두의"
+  },
+  "tz_Bahrain": {
+    "message": "바레인"
+  },
+  "tz_Kuwait": {
+    "message": "쿠웨이트"
+  },
+  "tz_Baku": {
+    "message": "바쿠"
+  },
+  "tz_Riyadh": {
+    "message": "리야드"
+  },
+  "tz_Aden": {
+    "message": "아덴"
+  },
+  "tz_Tbilisi": {
+    "message": "트빌리시"
+  },
+  "tz_Yerevan": {
+    "message": "예 레반"
+  },
+  "tz_Damascus": {
+    "message": "다마스쿠스"
+  },
+  "tz_Baghdad": {
+    "message": "바그다드"
+  },
+  "tz_Amman": {
+    "message": "암만"
+  },
+  "tz_Beirut": {
+    "message": "베이루트"
+  },
+  "tz_Asia": {
+    "message": "아시아"
+  },
+  "tz_Jerusalem": {
+    "message": "예루살렘"
+  },
+  "tz_Hebron": {
+    "message": "헤브론"
+  },
+  "tz_Gaza": {
+    "message": "가자"
+  },
+  "tz_Longyearbyen": {
+    "message": "롱 위에 아르 뷔 엔"
+  },
+  "tz_Nicosia": {
+    "message": "니코 시아"
+  },
+  "tz_Casey": {
+    "message": "케이시"
+  },
+  "tz_McMurdo": {
+    "message": "맥머"
+  },
+  "tz_Macquarie": {
+    "message": "맥쿼리"
+  },
+  "tz_Arctic": {
+    "message": "북극의"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Palmer": {
+    "message": "성지 순례자"
+  },
+  "tz_Vostok": {
+    "message": "보스 토크"
+  },
+  "tz_Rothera": {
+    "message": "데라"
+  },
+  "tz_Davis": {
+    "message": "데이비스"
+  },
+  "tz_Mawson": {
+    "message": "모슨"
+  },
+  "tz_Syowa": {
+    "message": "쇼와"
+  },
+  "tz_Troll": {
+    "message": "트롤"
+  },
+  "tz_Noronha": {
+    "message": "노 로냐"
+  },
+  "tz_Maceio": {
+    "message": "마세 이오"
+  },
+  "tz_Danmarkshavn": {
+    "message": "덴마크 샤븐"
+  },
+  "tz_Antarctica": {
+    "message": "남극 대륙"
+  },
+  "tz_Scoresbysund": {
+    "message": "선드"
+  },
+  "tz_Recife": {
+    "message": "레시 페"
+  },
+  "tz_Fortaleza": {
+    "message": "포르 탈 레자"
+  },
+  "tz_Bahia": {
+    "message": "바이아"
+  },
+  "tz_Sao_Paulo": {
+    "message": "상파울루"
+  },
+  "tz_Araguaina": {
+    "message": "Araguaina 발"
+  },
+  "tz_Belem": {
+    "message": "벨렘"
+  },
+  "tz_Godthab": {
+    "message": "고드 호프"
+  },
+  "tz_Cuiaba": {
+    "message": "쿠이 아바"
+  },
+  "tz_Cayenne": {
+    "message": "고추"
+  },
+  "tz_St_Johns": {
+    "message": "세인트 존스"
+  },
+  "tz_Campo_Grande": {
+    "message": "캄포 그란데"
+  },
+  "tz_Paramaribo": {
+    "message": "파라 마리 보"
+  },
+  "tz_Santarem": {
+    "message": "산타 렘"
+  },
+  "tz_Montevideo": {
+    "message": "몬테비데오"
+  },
+  "tz_Guyana": {
+    "message": "가이아나"
+  },
+  "tz_Miquelon": {
+    "message": "미 클롱"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "아르헨티나 / 부에노스 아이레스"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "블랑 사블 론"
+  },
+  "tz_Asuncion": {
+    "message": "아순시온"
+  },
+  "tz_Barbados": {
+    "message": "바베이도스"
+  },
+  "tz_Manaus": {
+    "message": "마나우스"
+  },
+  "tz_Glace_Bay": {
+    "message": "글 레이스 베이"
+  },
+  "tz_Boa_Vista": {
+    "message": "보아 비스타"
+  },
+  "tz_Goose_Bay": {
+    "message": "구스 베이"
+  },
+  "tz_St_Lucia": {
+    "message": "세인트 루시아"
+  },
+  "tz_Grenada": {
+    "message": "그레나다"
+  },
+  "tz_Dominica": {
+    "message": "도미니카"
+  },
+  "tz_Port_of_Spain": {
+    "message": "포트 오브 스페인"
+  },
+  "tz_Martinique": {
+    "message": "마르티니크"
+  },
+  "tz_Antigua": {
+    "message": "앤티가"
+  },
+  "tz_St_Vincent": {
+    "message": "세인트 빈센트"
+  },
+  "tz_Guadeloupe": {
+    "message": "과들루프"
+  },
+  "tz_St_Barthelemy": {
+    "message": "생 바르 텔레 미"
+  },
+  "tz_St_Kitts": {
+    "message": "세인트 키츠"
+  },
+  "tz_Montserrat": {
+    "message": "몬트 세 라트"
+  },
+  "tz_Halifax": {
+    "message": "핼리팩스"
+  },
+  "tz_Lower_Princes": {
+    "message": "낮은 왕자"
+  },
+  "tz_Anguilla": {
+    "message": "앵 귈라"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "아르헨티나 / 코르도바"
+  },
+  "tz_Marigot": {
+    "message": "마리"
+  },
+  "tz_Porto_Velho": {
+    "message": "포르토 벨로"
+  },
+  "tz_Tortola": {
+    "message": "토 톨라"
+  },
+  "tz_Moncton": {
+    "message": "멍크 턴"
+  },
+  "tz_Pangnirtung": {
+    "message": "팽너"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "아르헨티나 / 카타 마르카"
+  },
+  "tz_Argentina___Salta": {
+    "message": "아르헨티나 / 살타"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "아르헨티나 / 투쿠 만"
+  },
+  "tz_Puerto_Rico": {
+    "message": "푸에르토 리코"
+  },
+  "tz_St_Thomas": {
+    "message": "세인트 토마스"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "아르헨티나 / 후후이"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "아르헨티나 / 산 루이스"
+  },
+  "tz_Caracas": {
+    "message": "카라카스"
+  },
+  "tz_Rio_Branco": {
+    "message": "리오 브랑코"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "아르헨티나 / 라 리오하"
+  },
+  "tz_La_Paz": {
+    "message": "라 파스"
+  },
+  "tz_Kralendijk": {
+    "message": "크 랄렌 디크"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "아르헨티나 / 우수 아이 아"
+  },
+  "tz_Iqaluit": {
+    "message": "이 칼루이 트"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "아르헨티나 / 산 후안"
+  },
+  "tz_Thule": {
+    "message": "툴레"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "아르헨티나 / 멘도사"
+  },
+  "tz_Curacao": {
+    "message": "쿠라 카오"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "아르헨티나 / 리오 갈레 고스"
+  },
+  "tz_Eirunepe": {
+    "message": "Eirunepe 발"
+  },
+  "tz_Santo_Domingo": {
+    "message": "산토 도밍고"
+  },
+  "tz_Aruba": {
+    "message": "아루바"
+  },
+  "tz_Grand_Turk": {
+    "message": "그랜드 터크"
+  },
+  "tz_Port__au__Prince": {
+    "message": "포르토 프랭스"
+  },
+  "tz_New_York": {
+    "message": "뉴욕"
+  },
+  "tz_Bogota": {
+    "message": "보고타"
+  },
+  "tz_Santiago": {
+    "message": "산티아고"
+  },
+  "tz_Jamaica": {
+    "message": "자메이카"
+  },
+  "tz_Lima": {
+    "message": "리마"
+  },
+  "tz_Nassau": {
+    "message": "나소"
+  },
+  "tz_Panama": {
+    "message": "파나마"
+  },
+  "tz_Toronto": {
+    "message": "토론토"
+  },
+  "tz_Cayman": {
+    "message": "카이만"
+  },
+  "tz_Guayaquil": {
+    "message": "과야 킬"
+  },
+  "tz_Havana": {
+    "message": "아바나"
+  },
+  "tz_Detroit": {
+    "message": "디트로이트"
+  },
+  "tz_Costa_Rica": {
+    "message": "코스타리카"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "켄터키 / 몬티 첼로"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "켄터키 / 루이스 빌"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "인디애나 / 인디애나 폴리스"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "인디애나 / 베베이"
+  },
+  "tz_Managua": {
+    "message": "마나과"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "인디애나 / Winamac"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "인디애나 / 마렌"
+  },
+  "tz_Tegucigalpa": {
+    "message": "테 구시 갈파"
+  },
+  "tz_Indiana___Knox": {
+    "message": "인디애나 / 녹스"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "인디애나 / 도시를 말하십시오"
+  },
+  "tz_Cancun": {
+    "message": "칸쿤"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "인디애나 / 피터스 버그"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "인디애나 / 뱅센"
+  },
+  "tz_Chicago": {
+    "message": "시카고"
+  },
+  "tz_Menominee": {
+    "message": "메노 미니"
+  },
+  "tz_Belize": {
+    "message": "벨리즈"
+  },
+  "tz_Nipigon": {
+    "message": "Nipigon에서"
+  },
+  "tz_El_Salvador": {
+    "message": "엘살바도르"
+  },
+  "tz_Thunder_Bay": {
+    "message": "선더 베이"
+  },
+  "tz_Merida": {
+    "message": "메리다"
+  },
+  "tz_Guatemala": {
+    "message": "과테말라"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan에"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "순위 입구"
+  },
+  "tz_Winnipeg": {
+    "message": "위니펙"
+  },
+  "tz_Rainy_River": {
+    "message": "비오는 강"
+  },
+  "tz_Resolute": {
+    "message": "굳게 결심 한"
+  },
+  "tz_Mexico_City": {
+    "message": "멕시코 시티"
+  },
+  "tz_Matamoros": {
+    "message": "마타 모로스"
+  },
+  "tz_Monterrey": {
+    "message": "몬테레이"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "노스 다코타 / 센터"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "노스 다코타 / 울라"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "노스 다코타 / 뉴 세일럼"
+  },
+  "tz_Regina": {
+    "message": "레지나"
+  },
+  "tz_Denver": {
+    "message": "덴버"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "캠브리지 베이"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "바이아 반데라스"
+  },
+  "tz_Mazatlan": {
+    "message": "마사 틀란"
+  },
+  "tz_Chihuahua": {
+    "message": "치와와"
+  },
+  "tz_Swift_Current": {
+    "message": "스위프트 커런트"
+  },
+  "tz_Yellowknife": {
+    "message": "옐로 나이프 족"
+  },
+  "tz_Hermosillo": {
+    "message": "에르 모시 요"
+  },
+  "tz_Phoenix": {
+    "message": "피닉스"
+  },
+  "tz_Edmonton": {
+    "message": "에드먼턴"
+  },
+  "tz_Santa_Isabel": {
+    "message": "산타 이사벨"
+  },
+  "tz_Boise": {
+    "message": "보이즈"
+  },
+  "tz_Tijuana": {
+    "message": "티후아나"
+  },
+  "tz_Creston": {
+    "message": "크레 스톤"
+  },
+  "tz_Vancouver": {
+    "message": "밴쿠버"
+  },
+  "tz_Los_Angeles": {
+    "message": "로스 앤젤레스"
+  },
+  "tz_Dawson_Creek": {
+    "message": "도손 크릭"
+  },
+  "tz_Metlakatla": {
+    "message": "메트 라카 트라"
+  },
+  "tz_Inuvik": {
+    "message": "이 누빅"
+  },
+  "tz_Juneau": {
+    "message": "주노"
+  },
+  "tz_Yakutat": {
+    "message": "야 쿠타"
+  },
+  "tz_Whitehorse": {
+    "message": "화이트 호스"
+  },
+  "tz_Sitka": {
+    "message": "싯카"
+  },
+  "tz_Dawson": {
+    "message": "도슨"
+  },
+  "tz_Mogadishu": {
+    "message": "모가디슈"
+  },
+  "tz_Djibouti": {
+    "message": "지부티"
+  },
+  "tz_Anchorage": {
+    "message": "앵커리지"
+  },
+  "tz_Nome": {
+    "message": "남자 이름"
+  },
+  "tz_Adak": {
+    "message": "아닥"
+  },
+  "tz_America": {
+    "message": "미국"
+  },
+  "tz_Blantyre": {
+    "message": "블랜 타이어"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "다르 에스 살람"
+  },
+  "tz_Asmara": {
+    "message": "아스 마라"
+  },
+  "tz_Addis_Ababa": {
+    "message": "아디스 아바바"
+  },
+  "tz_Nairobi": {
+    "message": "나이로비"
+  },
+  "tz_Maputo": {
+    "message": "마푸토"
+  },
+  "tz_Juba": {
+    "message": "주바"
+  },
+  "tz_Harare": {
+    "message": "하라레"
+  },
+  "tz_Khartoum": {
+    "message": "카르 툼"
+  },
+  "tz_Kampala": {
+    "message": "캄팔라"
+  },
+  "tz_Cairo": {
+    "message": "카이로"
+  },
+  "tz_Mbabane": {
+    "message": "음 바바 네"
+  },
+  "tz_Kigali": {
+    "message": "키 갈리"
+  },
+  "tz_Bujumbura": {
+    "message": "부줌 부라"
+  },
+  "tz_Lusaka": {
+    "message": "루사카"
+  },
+  "tz_Johannesburg": {
+    "message": "요하네스 버그"
+  },
+  "tz_Lubumbashi": {
+    "message": "루 붐바시"
+  },
+  "tz_Maseru": {
+    "message": "마세 루"
+  },
+  "tz_Gaborone": {
+    "message": "가보 로네"
+  },
+  "tz_Bangui": {
+    "message": "방기"
+  },
+  "tz_Kinshasa": {
+    "message": "자이레 공화국의 수도"
+  },
+  "tz_Windhoek": {
+    "message": "빈트 후크"
+  },
+  "tz_Brazzaville": {
+    "message": "브라자빌"
+  },
+  "tz_Ndjamena": {
+    "message": "엔자 메나"
+  },
+  "tz_Luanda": {
+    "message": "루안다"
+  },
+  "tz_Malabo": {
+    "message": "말라 보"
+  },
+  "tz_Tripoli": {
+    "message": "트리폴리"
+  },
+  "tz_Tunis": {
+    "message": "튀니스"
+  },
+  "tz_Porto__Novo": {
+    "message": "포르토 노보"
+  },
+  "tz_Sao_Tome": {
+    "message": "상투 메"
+  },
+  "tz_Douala": {
+    "message": "두 알라"
+  },
+  "tz_Libreville": {
+    "message": "리브르 빌"
+  },
+  "tz_Accra": {
+    "message": "아크라"
+  },
+  "tz_Lagos": {
+    "message": "라고스"
+  },
+  "tz_Ouagadougou": {
+    "message": "와가 두구"
+  },
+  "tz_Algiers": {
+    "message": "알제"
+  },
+  "tz_Abidjan": {
+    "message": "코트 디부 아르"
+  },
+  "tz_Niamey": {
+    "message": "니아 메"
+  },
+  "tz_Ceuta": {
+    "message": "세 우타"
+  },
+  "tz_Lome": {
+    "message": "로메"
+  },
+  "tz_Casablanca": {
+    "message": "카사 블랑카"
+  },
+  "tz_Freetown": {
+    "message": "프리 타운"
+  },
+  "tz_El_Aaiun": {
+    "message": "엘 아이 운"
+  },
+  "tz_Bissau": {
+    "message": "비사우"
+  },
+  "tz_Monrovia": {
+    "message": "몬로 비아"
+  },
+  "tz_Banjul": {
+    "message": "반줄"
+  },
+  "tz_Africa": {
+    "message": "아프리카"
+  },
+  "tz_Conakry": {
+    "message": "코나 크리"
+  },
+  "tz_Nouakchott": {
+    "message": "누악 쇼트"
+  },
+  "tz_Bamako": {
+    "message": "바마코"
+  },
+  "tz_Dakar": {
+    "message": "다카르"
+  },
+  "ui_extraTimezones": {
+    "message": "추가 시간대"
+  },
+  "manifest_name": {
+    "message": "달력 시계"
+  },
+  "ui_addTimezone": {
+    "message": "추가"
+  },
+  "ui_autoHide": {
+    "message": "자동 숨기기"
+  },
+  "ui_alwaysOnTop": {
+    "message": "항상 위"
+  },
+  "manifest_description": {
+    "message": "편리한 달력 및 시계 위젯."
+  }
+}

@@ -1,0 +1,1301 @@
+{
+  "json_end": {
+    "message": "json_end"
+  },
+  "tz_Funafuti": {
+    "message": "Funafuti"
+  },
+  "tz_Fiji": {
+    "message": "Fidži"
+  },
+  "tz_Auckland": {
+    "message": "auckland"
+  },
+  "tz_Tarawa": {
+    "message": "Tarawa"
+  },
+  "tz_Majuro": {
+    "message": "Majuro"
+  },
+  "tz_Efate": {
+    "message": "efate"
+  },
+  "tz_Norfolk": {
+    "message": "norfolk"
+  },
+  "tz_Kwajalein": {
+    "message": "Kwajalein"
+  },
+  "tz_Nauru": {
+    "message": "Nauru"
+  },
+  "tz_Wake": {
+    "message": "wake"
+  },
+  "tz_Noumea": {
+    "message": "Noumea"
+  },
+  "tz_Kosrae": {
+    "message": "Kosrae"
+  },
+  "tz_Guadalcanal": {
+    "message": "Guadalcanal"
+  },
+  "tz_Pohnpei": {
+    "message": "Pohnpei"
+  },
+  "tz_Chuuk": {
+    "message": "Chunk"
+  },
+  "tz_Port_Moresby": {
+    "message": "Port Moresby"
+  },
+  "tz_Saipan": {
+    "message": "Saipan"
+  },
+  "tz_Guam": {
+    "message": "Guam"
+  },
+  "tz_Palau": {
+    "message": "Palau"
+  },
+  "tz_Galapagos": {
+    "message": "Galapágy"
+  },
+  "tz_Easter": {
+    "message": "Veľká noc"
+  },
+  "tz_Pitcairn": {
+    "message": "Pitcairn"
+  },
+  "tz_Gambier": {
+    "message": "Gambier"
+  },
+  "tz_Marquesas": {
+    "message": "Markézy"
+  },
+  "tz_Tahiti": {
+    "message": "tahiti"
+  },
+  "tz_Kiritimati": {
+    "message": "Kiritimati"
+  },
+  "tz_Rarotonga": {
+    "message": "Rarotonga"
+  },
+  "tz_Honolulu": {
+    "message": "Honolulu"
+  },
+  "tz_Johnston": {
+    "message": "Johnston"
+  },
+  "tz_Niue": {
+    "message": "Niue"
+  },
+  "tz_Pago_Pago": {
+    "message": "Pago Pago"
+  },
+  "tz_Enderbury": {
+    "message": "Enderbury"
+  },
+  "tz_Fakaofo": {
+    "message": "Fakaofo"
+  },
+  "tz_Apia": {
+    "message": "Apia"
+  },
+  "tz_Tongatapu": {
+    "message": "Tongatapu"
+  },
+  "tz_Wallis": {
+    "message": "Wallis"
+  },
+  "tz_Chatham": {
+    "message": "Chatham"
+  },
+  "tz_Midway": {
+    "message": "na pol cesty"
+  },
+  "tz_Pacific": {
+    "message": "pacifik"
+  },
+  "tz_Christmas": {
+    "message": "vianoce"
+  },
+  "tz_Cocos": {
+    "message": "Cocos"
+  },
+  "tz_Maldives": {
+    "message": "Maldivy"
+  },
+  "tz_Chagos": {
+    "message": "Chagos"
+  },
+  "tz_Kerguelen": {
+    "message": "Kerguelen"
+  },
+  "tz_Mauritius": {
+    "message": "mauritius"
+  },
+  "tz_Mahe": {
+    "message": "Mahe"
+  },
+  "tz_Reunion": {
+    "message": "shledání"
+  },
+  "tz_Antananarivo": {
+    "message": "Antananarivo"
+  },
+  "tz_Mayotte": {
+    "message": "Mayotte"
+  },
+  "tz_Comoro": {
+    "message": "komorský"
+  },
+  "tz_Indian": {
+    "message": "indický"
+  },
+  "tz_Samara": {
+    "message": "nažka krídlatá"
+  },
+  "tz_Volgograd": {
+    "message": "Volgograd"
+  },
+  "tz_Moscow": {
+    "message": "moskva"
+  },
+  "tz_Zaporozhye": {
+    "message": "Záporožie"
+  },
+  "tz_Simferopol": {
+    "message": "Simferopol"
+  },
+  "tz_Kiev": {
+    "message": "kyjev"
+  },
+  "tz_Istanbul": {
+    "message": "istanbul"
+  },
+  "tz_Chisinau": {
+    "message": "Chisinau"
+  },
+  "tz_Minsk": {
+    "message": "minsk"
+  },
+  "tz_Bucharest": {
+    "message": "Bukurešť"
+  },
+  "tz_Vilnius": {
+    "message": "vilnius"
+  },
+  "tz_Helsinki": {
+    "message": "helsinki"
+  },
+  "tz_Tallinn": {
+    "message": "Tallinn"
+  },
+  "tz_Riga": {
+    "message": "riga"
+  },
+  "tz_Athens": {
+    "message": "Atény"
+  },
+  "tz_Sofia": {
+    "message": "sofia"
+  },
+  "tz_Uzhgorod": {
+    "message": "Užhorod"
+  },
+  "tz_Skopje": {
+    "message": "Skopje"
+  },
+  "tz_Warsaw": {
+    "message": "Varšava"
+  },
+  "tz_Kaliningrad": {
+    "message": "Kaliningrad"
+  },
+  "tz_Belgrade": {
+    "message": "Belehrad"
+  },
+  "tz_Mariehamn": {
+    "message": "Mariehamn"
+  },
+  "tz_Tirane": {
+    "message": "Tirana"
+  },
+  "tz_Podgorica": {
+    "message": "Podgorica"
+  },
+  "tz_Budapest": {
+    "message": "Budapešť"
+  },
+  "tz_Sarajevo": {
+    "message": "Sarajevo"
+  },
+  "tz_Stockholm": {
+    "message": "Štokholm"
+  },
+  "tz_Bratislava": {
+    "message": "bratislava"
+  },
+  "tz_Vienna": {
+    "message": "Viedeň"
+  },
+  "tz_Zagreb": {
+    "message": "Záhreb"
+  },
+  "tz_Ljubljana": {
+    "message": "Ljubljana"
+  },
+  "tz_Malta": {
+    "message": "Malta"
+  },
+  "tz_Prague": {
+    "message": "praha"
+  },
+  "tz_Berlin": {
+    "message": "Berlín"
+  },
+  "tz_Copenhagen": {
+    "message": "Kodaň"
+  },
+  "tz_Rome": {
+    "message": "rím"
+  },
+  "tz_San_Marino": {
+    "message": "san Marino"
+  },
+  "tz_Vatican": {
+    "message": "Vatikán"
+  },
+  "tz_Vaduz": {
+    "message": "Vaduz"
+  },
+  "tz_Oslo": {
+    "message": "oslo"
+  },
+  "tz_Busingen": {
+    "message": "Busingen"
+  },
+  "tz_Zurich": {
+    "message": "Zürich"
+  },
+  "tz_Luxembourg": {
+    "message": "luxembursko"
+  },
+  "tz_Monaco": {
+    "message": "Monaco"
+  },
+  "tz_Amsterdam": {
+    "message": "Amsterdam"
+  },
+  "tz_Brussels": {
+    "message": "brusel"
+  },
+  "tz_Paris": {
+    "message": "Paríž"
+  },
+  "tz_Andorra": {
+    "message": "Andorra"
+  },
+  "tz_London": {
+    "message": "Londýn"
+  },
+  "tz_Jersey": {
+    "message": "trikot"
+  },
+  "tz_Guernsey": {
+    "message": "Guernsey"
+  },
+  "tz_Madrid": {
+    "message": "madrid"
+  },
+  "tz_Isle_of_Man": {
+    "message": "Isle of Man"
+  },
+  "tz_Gibraltar": {
+    "message": "gibraltar"
+  },
+  "tz_Dublin": {
+    "message": "Dublin"
+  },
+  "tz_Lisbon": {
+    "message": "Lisabon"
+  },
+  "tz_Europe": {
+    "message": "Európa"
+  },
+  "tz_Lord_Howe": {
+    "message": "Lord Howe"
+  },
+  "tz_Sydney": {
+    "message": "sydney"
+  },
+  "tz_Brisbane": {
+    "message": "brisbane"
+  },
+  "tz_Lindeman": {
+    "message": "Lindeman"
+  },
+  "tz_Hobart": {
+    "message": "Hobart"
+  },
+  "tz_Melbourne": {
+    "message": "melbourne"
+  },
+  "tz_Currie": {
+    "message": "Currie"
+  },
+  "tz_Broken_Hill": {
+    "message": "Broken Hill"
+  },
+  "tz_Adelaide": {
+    "message": "adelaide"
+  },
+  "tz_Darwin": {
+    "message": "darwin"
+  },
+  "tz_Eucla": {
+    "message": "Eucla"
+  },
+  "tz_Perth": {
+    "message": "Perth"
+  },
+  "tz_Australia": {
+    "message": "Austrália"
+  },
+  "tz_St_Helena": {
+    "message": "st Helena"
+  },
+  "tz_Faroe": {
+    "message": "Faerské"
+  },
+  "tz_Canary": {
+    "message": "kanárik"
+  },
+  "tz_Madeira": {
+    "message": "madeira"
+  },
+  "tz_Reykjavik": {
+    "message": "Reykjavik"
+  },
+  "tz_Cape_Verde": {
+    "message": "Cape Verde"
+  },
+  "tz_Azores": {
+    "message": "Azory"
+  },
+  "tz_South_Georgia": {
+    "message": "južná Georgia"
+  },
+  "tz_Stanley": {
+    "message": "stanley"
+  },
+  "tz_Bermuda": {
+    "message": "bermudy"
+  },
+  "tz_Atlantic": {
+    "message": "atlantický"
+  },
+  "tz_Anadyr": {
+    "message": "Anadyr"
+  },
+  "tz_Magadan": {
+    "message": "Magadan"
+  },
+  "tz_Kamchatka": {
+    "message": "Kamčatka"
+  },
+  "tz_Ust__Nera": {
+    "message": "Ust-Nera"
+  },
+  "tz_Sakhalin": {
+    "message": "Sachalin"
+  },
+  "tz_Jayapura": {
+    "message": "Jayapura"
+  },
+  "tz_Tokyo": {
+    "message": "tokio"
+  },
+  "tz_Khandyga": {
+    "message": "Khandyga"
+  },
+  "tz_Vladivostok": {
+    "message": "Vladivostok"
+  },
+  "tz_Yakutsk": {
+    "message": "Jakutsk"
+  },
+  "tz_Seoul": {
+    "message": "soul"
+  },
+  "tz_Harbin": {
+    "message": "Harbin"
+  },
+  "tz_Pyongyang": {
+    "message": "Pchjongjang"
+  },
+  "tz_Dili": {
+    "message": "Dili"
+  },
+  "tz_Taipei": {
+    "message": "Taipei"
+  },
+  "tz_Shanghai": {
+    "message": "shanghai"
+  },
+  "tz_Manila": {
+    "message": "manila"
+  },
+  "tz_Makassar": {
+    "message": "Makassar"
+  },
+  "tz_Choibalsan": {
+    "message": "Choibalsan"
+  },
+  "tz_Brunei": {
+    "message": "Brunej"
+  },
+  "tz_Hong_Kong": {
+    "message": "hongkong"
+  },
+  "tz_Macau": {
+    "message": "macau"
+  },
+  "tz_Kuching": {
+    "message": "Kuching"
+  },
+  "tz_Pontianak": {
+    "message": "Pontianak"
+  },
+  "tz_Ulaanbaatar": {
+    "message": "Ulánbátar"
+  },
+  "tz_Jakarta": {
+    "message": "Jakarta"
+  },
+  "tz_Ho_Chi_Minh": {
+    "message": "Ho Chi Minh"
+  },
+  "tz_Chongqing": {
+    "message": "Chongqing"
+  },
+  "tz_Phnom_Penh": {
+    "message": "Phnom Penh"
+  },
+  "tz_Irkutsk": {
+    "message": "Irkutsk"
+  },
+  "tz_Singapore": {
+    "message": "singapur"
+  },
+  "tz_Vientiane": {
+    "message": "vientiane"
+  },
+  "tz_Kuala_Lumpur": {
+    "message": "Kuala Lumpur"
+  },
+  "tz_Bangkok": {
+    "message": "bangkok"
+  },
+  "tz_Rangoon": {
+    "message": "Rangún"
+  },
+  "tz_Hovd": {
+    "message": "Hovd"
+  },
+  "tz_Krasnoyarsk": {
+    "message": "Krasnojarsk"
+  },
+  "tz_Thimphu": {
+    "message": "Thimphu"
+  },
+  "tz_Dhaka": {
+    "message": "Dhaka"
+  },
+  "tz_Kolkata": {
+    "message": "Kolkata"
+  },
+  "tz_Urumqi": {
+    "message": "Urumči"
+  },
+  "tz_Kathmandu": {
+    "message": "Kathmandu"
+  },
+  "tz_Novokuznetsk": {
+    "message": "Novokuzneck"
+  },
+  "tz_Novosibirsk": {
+    "message": "novosibirsk"
+  },
+  "tz_Colombo": {
+    "message": "Colombo"
+  },
+  "tz_Kashgar": {
+    "message": "Kašgar"
+  },
+  "tz_Almaty": {
+    "message": "Almaty"
+  },
+  "tz_Omsk": {
+    "message": "Omsk"
+  },
+  "tz_Bishkek": {
+    "message": "Biškek"
+  },
+  "tz_Tashkent": {
+    "message": "Taškent"
+  },
+  "tz_Kabul": {
+    "message": "Kábul"
+  },
+  "tz_Dushanbe": {
+    "message": "Dušanbe"
+  },
+  "tz_Karachi": {
+    "message": "Karachi"
+  },
+  "tz_Samarkand": {
+    "message": "Samarkand"
+  },
+  "tz_Yekaterinburg": {
+    "message": "Jekaterinburg"
+  },
+  "tz_Qyzylorda": {
+    "message": "Qyzylorda"
+  },
+  "tz_Muscat": {
+    "message": "muscat"
+  },
+  "tz_Ashgabat": {
+    "message": "Ashgabat"
+  },
+  "tz_Aqtobe": {
+    "message": "Aqtobe"
+  },
+  "tz_Dubai": {
+    "message": "dubaj"
+  },
+  "tz_Qatar": {
+    "message": "katar"
+  },
+  "tz_Tehran": {
+    "message": "Teherán"
+  },
+  "tz_Bahrain": {
+    "message": "Bahrajn"
+  },
+  "tz_Oral": {
+    "message": "ústne"
+  },
+  "tz_Aqtau": {
+    "message": "Aqtau"
+  },
+  "tz_Baku": {
+    "message": "baku"
+  },
+  "tz_Kuwait": {
+    "message": "Kuvajt"
+  },
+  "tz_Riyadh": {
+    "message": "Rijád"
+  },
+  "tz_Aden": {
+    "message": "aden"
+  },
+  "tz_Tbilisi": {
+    "message": "Tbilisi"
+  },
+  "tz_Yerevan": {
+    "message": "Yerevan"
+  },
+  "tz_Baghdad": {
+    "message": "Bagdad"
+  },
+  "tz_Damascus": {
+    "message": "Damask"
+  },
+  "tz_Amman": {
+    "message": "Amman"
+  },
+  "tz_Beirut": {
+    "message": "Bejrút"
+  },
+  "tz_Jerusalem": {
+    "message": "jeruzalem"
+  },
+  "tz_Hebron": {
+    "message": "Hebron"
+  },
+  "tz_Gaza": {
+    "message": "Gaza"
+  },
+  "tz_Nicosia": {
+    "message": "Nicosia"
+  },
+  "tz_Asia": {
+    "message": "Ázie"
+  },
+  "tz_Longyearbyen": {
+    "message": "Longyearbyen"
+  },
+  "tz_Arctic": {
+    "message": "arktický"
+  },
+  "tz_McMurdo": {
+    "message": "McMurdo"
+  },
+  "tz_Macquarie": {
+    "message": "Macquarie"
+  },
+  "tz_DumontDUrville": {
+    "message": "DumontDUrville"
+  },
+  "tz_Casey": {
+    "message": "casey"
+  },
+  "tz_Vostok": {
+    "message": "Vostok"
+  },
+  "tz_Davis": {
+    "message": "davis"
+  },
+  "tz_Mawson": {
+    "message": "Mawson"
+  },
+  "tz_Syowa": {
+    "message": "Syowa"
+  },
+  "tz_Troll": {
+    "message": "trol"
+  },
+  "tz_Palmer": {
+    "message": "palmer"
+  },
+  "tz_Rothera": {
+    "message": "Rothera"
+  },
+  "tz_Danmarkshavn": {
+    "message": "Danmarkshavn"
+  },
+  "tz_Antarctica": {
+    "message": "antarktida"
+  },
+  "tz_Noronha": {
+    "message": "Noronha"
+  },
+  "tz_Scoresbysund": {
+    "message": "Scoresbysund"
+  },
+  "tz_Recife": {
+    "message": "Recife"
+  },
+  "tz_Maceio": {
+    "message": "Maceio"
+  },
+  "tz_Fortaleza": {
+    "message": "fortaleza"
+  },
+  "tz_Bahia": {
+    "message": "bahia"
+  },
+  "tz_Sao_Paulo": {
+    "message": "sao Paulo"
+  },
+  "tz_Araguaina": {
+    "message": "Araguaina"
+  },
+  "tz_Belem": {
+    "message": "Belem"
+  },
+  "tz_Godthab": {
+    "message": "Godthab"
+  },
+  "tz_Cayenne": {
+    "message": "paprika"
+  },
+  "tz_St_Johns": {
+    "message": "st Johns"
+  },
+  "tz_Campo_Grande": {
+    "message": "Campo Grande"
+  },
+  "tz_Santarem": {
+    "message": "Santarem"
+  },
+  "tz_Paramaribo": {
+    "message": "Paramaribo"
+  },
+  "tz_Cuiaba": {
+    "message": "cuiaba"
+  },
+  "tz_Montevideo": {
+    "message": "Montevideo"
+  },
+  "tz_Miquelon": {
+    "message": "Miquelon"
+  },
+  "tz_Blanc__Sablon": {
+    "message": "Blanc-Sablon"
+  },
+  "tz_Asuncion": {
+    "message": "Asuncion"
+  },
+  "tz_Guyana": {
+    "message": "Guyana"
+  },
+  "tz_Argentina___Buenos_Aires": {
+    "message": "Argentína / Buenos Aires"
+  },
+  "tz_Barbados": {
+    "message": "barbados"
+  },
+  "tz_Glace_Bay": {
+    "message": "glace Bay"
+  },
+  "tz_Manaus": {
+    "message": "Manaus"
+  },
+  "tz_Goose_Bay": {
+    "message": "Goose Bay"
+  },
+  "tz_Boa_Vista": {
+    "message": "boa Vista"
+  },
+  "tz_St_Lucia": {
+    "message": "St Lucia"
+  },
+  "tz_Martinique": {
+    "message": "Martinik"
+  },
+  "tz_St_Vincent": {
+    "message": "st Vincent"
+  },
+  "tz_Dominica": {
+    "message": "dominika"
+  },
+  "tz_Port_of_Spain": {
+    "message": "Port of Spain"
+  },
+  "tz_Guadeloupe": {
+    "message": "Guadeloupe"
+  },
+  "tz_Antigua": {
+    "message": "antigua"
+  },
+  "tz_Grenada": {
+    "message": "Grenada"
+  },
+  "tz_Montserrat": {
+    "message": "Montserrat"
+  },
+  "tz_St_Kitts": {
+    "message": "st Kitts"
+  },
+  "tz_St_Barthelemy": {
+    "message": "st Barthelemy"
+  },
+  "tz_Lower_Princes": {
+    "message": "nižšia Princes"
+  },
+  "tz_Anguilla": {
+    "message": "anguilla"
+  },
+  "tz_Marigot": {
+    "message": "Marigot"
+  },
+  "tz_Halifax": {
+    "message": "Halifax"
+  },
+  "tz_Porto_Velho": {
+    "message": "porto Velho"
+  },
+  "tz_Tortola": {
+    "message": "Tortola"
+  },
+  "tz_Argentina___Cordoba": {
+    "message": "Argentina / Cordoba"
+  },
+  "tz_Moncton": {
+    "message": "Moncton"
+  },
+  "tz_St_Thomas": {
+    "message": "st Thomas"
+  },
+  "tz_Argentina___Tucuman": {
+    "message": "Argentina / Tucuman"
+  },
+  "tz_Argentina___Jujuy": {
+    "message": "Argentina / Jujuy"
+  },
+  "tz_Argentina___Salta": {
+    "message": "Argentina / Salta"
+  },
+  "tz_Pangnirtung": {
+    "message": "Pangnirtung"
+  },
+  "tz_Puerto_Rico": {
+    "message": "portoriko"
+  },
+  "tz_Argentina___Catamarca": {
+    "message": "Argentina / Catamarca"
+  },
+  "tz_Argentina___San_Luis": {
+    "message": "Argentína / San Luis"
+  },
+  "tz_Argentina___La_Rioja": {
+    "message": "Argentina / La Rioja"
+  },
+  "tz_Rio_Branco": {
+    "message": "Rio Branco"
+  },
+  "tz_Caracas": {
+    "message": "caracas"
+  },
+  "tz_La_Paz": {
+    "message": "la Paz"
+  },
+  "tz_Kralendijk": {
+    "message": "Kralendijk"
+  },
+  "tz_Argentina___Ushuaia": {
+    "message": "Argentina / Ushuaia"
+  },
+  "tz_Iqaluit": {
+    "message": "Iqaluit"
+  },
+  "tz_Argentina___San_Juan": {
+    "message": "Argentína / San Juan"
+  },
+  "tz_Thule": {
+    "message": "Thule"
+  },
+  "tz_Argentina___Mendoza": {
+    "message": "Argentina / Mendoza"
+  },
+  "tz_Curacao": {
+    "message": "curacao"
+  },
+  "tz_Argentina___Rio_Gallegos": {
+    "message": "Argentina / Rio Gallegos"
+  },
+  "tz_Eirunepe": {
+    "message": "Eirunepe"
+  },
+  "tz_Santo_Domingo": {
+    "message": "Santo Domingo"
+  },
+  "tz_Aruba": {
+    "message": "Aruba"
+  },
+  "tz_Santiago": {
+    "message": "santiago"
+  },
+  "tz_Grand_Turk": {
+    "message": "grand Turk"
+  },
+  "tz_Port__au__Prince": {
+    "message": "Port-au-Prince"
+  },
+  "tz_New_York": {
+    "message": "New York"
+  },
+  "tz_Bogota": {
+    "message": "Bogota"
+  },
+  "tz_Jamaica": {
+    "message": "jamaica"
+  },
+  "tz_Lima": {
+    "message": "lima"
+  },
+  "tz_Nassau": {
+    "message": "Nassau"
+  },
+  "tz_Toronto": {
+    "message": "Toronto"
+  },
+  "tz_Panama": {
+    "message": "panama"
+  },
+  "tz_Guayaquil": {
+    "message": "Guayaquil"
+  },
+  "tz_Cayman": {
+    "message": "kajman"
+  },
+  "tz_Havana": {
+    "message": "Havana"
+  },
+  "tz_Detroit": {
+    "message": "detroit"
+  },
+  "tz_Costa_Rica": {
+    "message": "Kostarika"
+  },
+  "tz_Indiana___Vevay": {
+    "message": "Indiana / Vevay"
+  },
+  "tz_Kentucky___Louisville": {
+    "message": "Kentucky / Louisville"
+  },
+  "tz_Kentucky___Monticello": {
+    "message": "Kentucky / Monticello"
+  },
+  "tz_Managua": {
+    "message": "Managua"
+  },
+  "tz_Indiana___Marengo": {
+    "message": "Indiana / Marengo"
+  },
+  "tz_Indiana___Indianapolis": {
+    "message": "Indiana / Indianapolis"
+  },
+  "tz_Indiana___Knox": {
+    "message": "Indiana / Knox"
+  },
+  "tz_Indiana___Winamac": {
+    "message": "Indiana / Winamac"
+  },
+  "tz_Indiana___Tell_City": {
+    "message": "Indiana / Tell City"
+  },
+  "tz_Cancun": {
+    "message": "Cancun"
+  },
+  "tz_Tegucigalpa": {
+    "message": "Tegucigalpa"
+  },
+  "tz_Indiana___Petersburg": {
+    "message": "Indiana / Petersburg"
+  },
+  "tz_Indiana___Vincennes": {
+    "message": "Indiana / Vincennes"
+  },
+  "tz_Menominee": {
+    "message": "Menominee"
+  },
+  "tz_Chicago": {
+    "message": "Chicago"
+  },
+  "tz_Belize": {
+    "message": "belize"
+  },
+  "tz_Nipigon": {
+    "message": "Nipigon"
+  },
+  "tz_El_Salvador": {
+    "message": "el Salvador"
+  },
+  "tz_Thunder_Bay": {
+    "message": "Thunder Bay"
+  },
+  "tz_Merida": {
+    "message": "Merida"
+  },
+  "tz_Guatemala": {
+    "message": "guatemala"
+  },
+  "tz_Atikokan": {
+    "message": "Atikokan"
+  },
+  "tz_Rankin_Inlet": {
+    "message": "Rankin Inlet"
+  },
+  "tz_Rainy_River": {
+    "message": "Rainy River"
+  },
+  "tz_Resolute": {
+    "message": "rezolútne"
+  },
+  "tz_Winnipeg": {
+    "message": "Winnipeg"
+  },
+  "tz_Matamoros": {
+    "message": "Matamoros"
+  },
+  "tz_Mexico_City": {
+    "message": "Mexico City"
+  },
+  "tz_Monterrey": {
+    "message": "Monterrey"
+  },
+  "tz_North_Dakota___Center": {
+    "message": "North Dakota / Center"
+  },
+  "tz_North_Dakota___New_Salem": {
+    "message": "North Dakota / New Salem"
+  },
+  "tz_North_Dakota___Beulah": {
+    "message": "North Dakota / Beulah"
+  },
+  "tz_Ojinaga": {
+    "message": "Ojinaga"
+  },
+  "tz_Regina": {
+    "message": "regina"
+  },
+  "tz_Denver": {
+    "message": "denver"
+  },
+  "tz_Cambridge_Bay": {
+    "message": "cambridge Bay"
+  },
+  "tz_Bahia_Banderas": {
+    "message": "bahia Banderas"
+  },
+  "tz_Chihuahua": {
+    "message": "čivava"
+  },
+  "tz_Mazatlan": {
+    "message": "Mazatlan"
+  },
+  "tz_Swift_Current": {
+    "message": "swift Current"
+  },
+  "tz_Hermosillo": {
+    "message": "Hermosillo"
+  },
+  "tz_Phoenix": {
+    "message": "fénix"
+  },
+  "tz_Edmonton": {
+    "message": "Edmonton"
+  },
+  "tz_Yellowknife": {
+    "message": "Yellowknife"
+  },
+  "tz_Santa_Isabel": {
+    "message": "Santa Isabel"
+  },
+  "tz_Boise": {
+    "message": "Boise"
+  },
+  "tz_Creston": {
+    "message": "Creston"
+  },
+  "tz_Tijuana": {
+    "message": "Tijuana"
+  },
+  "tz_Los_Angeles": {
+    "message": "los Angeles"
+  },
+  "tz_Dawson_Creek": {
+    "message": "Dawson Creek"
+  },
+  "tz_Vancouver": {
+    "message": "vancouver"
+  },
+  "tz_Metlakatla": {
+    "message": "Metlakatla"
+  },
+  "tz_Inuvik": {
+    "message": "Inuvik"
+  },
+  "tz_Juneau": {
+    "message": "Juneau"
+  },
+  "tz_Whitehorse": {
+    "message": "Whitehorse"
+  },
+  "tz_Sitka": {
+    "message": "Sitka"
+  },
+  "tz_Yakutat": {
+    "message": "Yakutat"
+  },
+  "tz_Dawson": {
+    "message": "Dawson"
+  },
+  "tz_Anchorage": {
+    "message": "kotvisko"
+  },
+  "tz_Nome": {
+    "message": "nome"
+  },
+  "tz_Adak": {
+    "message": "Adak"
+  },
+  "tz_America": {
+    "message": "amerika"
+  },
+  "tz_Mogadishu": {
+    "message": "Mogadishu"
+  },
+  "tz_Djibouti": {
+    "message": "Džibuti"
+  },
+  "tz_Dar_es_Salaam": {
+    "message": "Dar es Salaam"
+  },
+  "tz_Asmara": {
+    "message": "Asmara"
+  },
+  "tz_Addis_Ababa": {
+    "message": "Addis Ababa"
+  },
+  "tz_Nairobi": {
+    "message": "Nairobi"
+  },
+  "tz_Blantyre": {
+    "message": "Blantyre"
+  },
+  "tz_Khartoum": {
+    "message": "Chartúm"
+  },
+  "tz_Maputo": {
+    "message": "Maputo"
+  },
+  "tz_Kampala": {
+    "message": "Kampala"
+  },
+  "tz_Juba": {
+    "message": "Juba"
+  },
+  "tz_Cairo": {
+    "message": "Káhira"
+  },
+  "tz_Mbabane": {
+    "message": "Mbabane"
+  },
+  "tz_Harare": {
+    "message": "Harare"
+  },
+  "tz_Kigali": {
+    "message": "Kigali"
+  },
+  "tz_Bujumbura": {
+    "message": "Bujumbura"
+  },
+  "tz_Lusaka": {
+    "message": "Lusaka"
+  },
+  "tz_Johannesburg": {
+    "message": "Johannesburg"
+  },
+  "tz_Maseru": {
+    "message": "Maseru"
+  },
+  "tz_Lubumbashi": {
+    "message": "Lubumbashi"
+  },
+  "tz_Gaborone": {
+    "message": "Gaborone"
+  },
+  "tz_Bangui": {
+    "message": "Bangui"
+  },
+  "tz_Windhoek": {
+    "message": "Windhoek"
+  },
+  "tz_Kinshasa": {
+    "message": "Kinshasa"
+  },
+  "tz_Brazzaville": {
+    "message": "Brazzaville"
+  },
+  "tz_Ndjamena": {
+    "message": "Ndjamena"
+  },
+  "tz_Luanda": {
+    "message": "Luanda"
+  },
+  "tz_Tripoli": {
+    "message": "Tripoli"
+  },
+  "tz_Tunis": {
+    "message": "tunis"
+  },
+  "tz_Douala": {
+    "message": "Douala"
+  },
+  "tz_Libreville": {
+    "message": "Libreville"
+  },
+  "tz_Malabo": {
+    "message": "Malabo"
+  },
+  "tz_Sao_Tome": {
+    "message": "sao Tome"
+  },
+  "tz_Lagos": {
+    "message": "Lagos"
+  },
+  "tz_Algiers": {
+    "message": "Alžír"
+  },
+  "tz_Porto__Novo": {
+    "message": "Porto-Novo"
+  },
+  "tz_Niamey": {
+    "message": "Niamey"
+  },
+  "tz_Lome": {
+    "message": "Lome"
+  },
+  "tz_Accra": {
+    "message": "Accra"
+  },
+  "tz_Ouagadougou": {
+    "message": "Ouagadougou"
+  },
+  "tz_Abidjan": {
+    "message": "abidjan"
+  },
+  "tz_Ceuta": {
+    "message": "ceuta"
+  },
+  "tz_Casablanca": {
+    "message": "casablanca"
+  },
+  "tz_Bamako": {
+    "message": "Bamako"
+  },
+  "tz_Monrovia": {
+    "message": "Monrovia"
+  },
+  "tz_El_Aaiun": {
+    "message": "el Aaiun"
+  },
+  "tz_Freetown": {
+    "message": "Freetown"
+  },
+  "tz_Conakry": {
+    "message": "Konakry"
+  },
+  "tz_Bissau": {
+    "message": "bissau"
+  },
+  "tz_Nouakchott": {
+    "message": "Nouakchott"
+  },
+  "tz_Banjul": {
+    "message": "Banjul"
+  },
+  "tz_Dakar": {
+    "message": "Dakar"
+  },
+  "tz_Africa": {
+    "message": "afrika"
+  },
+  "ui_addTimezone": {
+    "message": "Pridať"
+  },
+  "ui_extraTimezones": {
+    "message": "Ďalšie časové pásma"
+  },
+  "ui_autoHide": {
+    "message": "Skryť automaticky"
+  },
+  "ui_alwaysOnTop": {
+    "message": "Vždy na vrchole"
+  },
+  "manifest_description": {
+    "message": "Pohodlný kalendár a hodiny widget."
+  },
+  "manifest_name": {
+    "message": "kalendár Hodiny"
+  }
+}
