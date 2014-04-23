@@ -56,7 +56,7 @@ img:active {
   z-index: 1002;
   background-color: white;
   opacity: 1.0;
-  
+
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -193,25 +193,23 @@ svg {
   -webkit-app-region: no-drag;
 	position: absolute;
 	cursor: pointer;
-	text-indent: -40px;
 	overflow: hidden;
-	top: 2px;
-	
-	width: 0;
-	height: 0;
-	border-top: 5px solid transparent;
-	border-bottom: 5px solid transparent;
+  top: 2px;
+  height: 12px;
+  width: 12px;
 }
 .datepicker_calendar .header .previous {
 	left: 4px;
-	border-right: 5px solid black;
+  background-image: url("left.png");
+  background-size: 100%;
 }
 .datepicker_calendar .header .next {
 	right: 4px;
-	border-left: 5px solid black;
+  background-image: url("right.png");
+  background-size: 100%;
 }
 .datepicker_calendar .header .closeButton {
-	display: none;
+  display: none;
 }
 
 /* body

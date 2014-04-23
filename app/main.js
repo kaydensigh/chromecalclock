@@ -54,7 +54,7 @@ function rebuildClocks() {
   [].forEach.call(document.querySelectorAll('#settingsOverlay .removeTimezoneDiv'), function (element) {
     element.parentNode.removeChild(element);
   });
-  
+
   timezones = settings.timezones.slice(0);
   var clock0 = document.getElementById('clock0');
   clock0.className = timezones.length ? 'clockDiv clockSmall' : 'clockDiv clockLarge';
@@ -71,7 +71,7 @@ function rebuildClocks() {
   });
   // Push local time zone to front;
   timezones.unshift(undefined);
-  
+
   var date = new Date();
   timezones.forEach(function (timezone, i) {
     var dateFormat = NewDateTimeFormat({ timeZone: timezone });
@@ -80,7 +80,7 @@ function rebuildClocks() {
     var dateAndTimeZoneString = timeZoneFormat.format(date);
     var timeZoneString = dateAndTimeZoneString.replace(dateString, '').trim();
     document.querySelector('#clock' + i + ' .time').title = timeZoneString;
-    
+
     // Get the city name.
     // Use the canonical time zone, if it's undefined (for the local clock), use the resolved time zone.
     var timezoneName = timezone || dateFormat.resolvedOptions().timeZone;
@@ -92,7 +92,7 @@ function rebuildClocks() {
     var cityString = cityStrings[cityStrings.length - 1] || city;
     document.querySelector('#clock' + i + ' .city').textContent = cityString;
   });
-  
+
   var bounds = appWindow.getBounds();
   bounds.width = 400 + 160 * settings.timezones.length;
   appWindow.setBounds(bounds);
@@ -109,7 +109,7 @@ function makeCalendar() {
   var daysShort = [];
   var months = [];
   var monthsShort = [];
-  
+
   var date = new Date();
   for (var d = 1; d <= 7; d++) {
     date.setFullYear(2012, 1, d);
@@ -122,17 +122,17 @@ function makeCalendar() {
     months.push(NewDateTimeFormat({ month: 'long' }).format(date));
     monthsShort.push(NewDateTimeFormat({ month: 'short' }).format(date));
   }
-  
+
   calendar = new DatePicker('.calendar', {
 	  pickerClass: 'datepicker_calendar',
 	  persistent: true,
     useFadeInOut: false,
-    
+
 		days: days,
 		daysShort: daysShort,
 		months: months,
     monthsShort: monthsShort,
-    
+
   });
   calendar.show({ left: 0, top: 0 });
 }
@@ -150,7 +150,7 @@ function showCitiesByRegion() {
 }
 
 function hide() {
-  appWindow.hide();
+  appWindow.close();
 }
 
 function applySettings() {
@@ -190,15 +190,19 @@ function setupSettings() {
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   alwaysOnTopCheckbox.checked = settings.alwaysOnTop;
   alwaysOnTopCheckbox.addEventListener('change', applySettings);
-  
-  var timezoneRegions = document.getElementById('timezoneRegions');
-  var timezoneRegionCities = document.getElementById('timezoneRegionCities');
+
   var currentTimezone = new Intl.DateTimeFormat().resolvedOptions().timeZone;
   // Some time zones have multiple '/', so take the first part as region and the rest as city.
   var splitIndex = currentTimezone.indexOf('/');
   var currentRegion = currentTimezone.substring(0, splitIndex);
   var currentCity = currentTimezone.substring(splitIndex + 1);
-  
+
+  var timezoneRegions = document.getElementById('timezoneRegions');
+  var timezoneRegionCities = document.getElementById('timezoneRegionCities');
+  var regionsArray = [];
+
+  var compare = new Intl.Collator().compare;
+
   availableRegions.forEach(function (region) {
     var regionOption = document.createElement('option');
     regionOption.value = region;
@@ -206,13 +210,14 @@ function setupSettings() {
     if (region == currentRegion) {
       regionOption.selected = true;
     }
-    timezoneRegions.appendChild(regionOption);
-    
+    regionsArray.push(regionOption);
+
     var cities = availableTimezones[region];
     var citySelect = document.createElement('select');
     citySelect.id = region;
     citySelect.className = 'timezoneCities';
     citySelect.style.display = 'none';
+    var citiesArray = [];
     if (cities) {
       cities.forEach(function (city) {
         var cityOption = document.createElement('option');
@@ -221,14 +226,26 @@ function setupSettings() {
         if (city == currentCity) {
           cityOption.selected = true;
         }
-        citySelect.appendChild(cityOption);
+        citiesArray.push(cityOption);
       });
     } else {
       citySelect.disabled = true;
     }
+    citiesArray.sort(function (a, b) {
+      return compare(a.textContent, b.textContent);
+    });
+    citiesArray.forEach(function (cityOption) {
+      citySelect.appendChild(cityOption);
+    });
     timezoneRegionCities.appendChild(citySelect);
-  });;
-  
+  });
+  regionsArray.sort(function (a, b) {
+    return compare(a.textContent, b.textContent);
+  });
+  regionsArray.forEach(function (regionOption) {
+    timezoneRegions.appendChild(regionOption);
+  });
+
   timezoneRegions.addEventListener('change', showCitiesByRegion);
   showCitiesByRegion();
 
@@ -251,7 +268,7 @@ function timerTick() {
     var hours = NewDateTimeFormat({ hour: '2-digit', hour12: false, timeZone: timezone }).format(now);
     var minutes = now.getMinutes();
     var seconds = now.getSeconds();
-    
+
     var h = 30 * ((hours % 12) + minutes / 60 + seconds / 360);
     var m = 6 * (minutes + seconds / 60);
     var s = 6 * seconds;
@@ -259,17 +276,17 @@ function timerTick() {
     document.querySelector('#clock' + i + ' .hour_hand').setAttribute('transform', 'rotate(' + h + ', 0, 0)');
     document.querySelector('#clock' + i + ' .minute_hand').setAttribute('transform', 'rotate(' + m + ', 0, 0)');
     document.querySelector('#clock' + i + ' .second_hand').setAttribute('transform', 'rotate(' + s + ', 0, 0)');
-    
+
     document.querySelector('#clock' + i + ' .time').textContent =
         now.toLocaleTimeString(undefined, { timeZone: getChromeTimeZone(timezone) });
     document.querySelector('#clock' + i + ' .date').textContent =
         now.toLocaleDateString(undefined, { timeZone: getChromeTimeZone(timezone), weekday: 'long', month: 'long', day: 'numeric'  });
   });
-  
+
   if (calendar.today.getDate() != now.getDate()) {
     calendar.show({ left: 0, top: 0 });
   }
-  
+
   setTimeout(timerTick, 1000);
 }
 
