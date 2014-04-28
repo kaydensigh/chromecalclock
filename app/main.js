@@ -266,7 +266,7 @@ function timerTick() {
   var now = new Date();
   timezones.forEach(function (timezone, i) {
     var hours = NewDateTimeFormat({ hour: '2-digit', hour12: false, timeZone: timezone }).format(now);
-    var minutes = now.getMinutes();
+    var minutes = Number.parseInt(NewDateTimeFormat({ minute: '2-digit', timeZone: timezone }).format(now));
     var seconds = now.getSeconds();
 
     var h = 30 * ((hours % 12) + minutes / 60 + seconds / 360);

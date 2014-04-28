@@ -3,7 +3,7 @@
 html, body {
   height: 100%;
   margin: 0;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .draggable {
   -webkit-app-region: drag;
