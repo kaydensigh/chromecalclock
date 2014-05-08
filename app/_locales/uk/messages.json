@@ -1281,19 +1281,19 @@
     "message": "Африка"
   },
   "ui_addTimezone": {
-    "message": "додавати"
+    "message": "додати"
   },
   "ui_extraTimezones": {
     "message": "Додаткові часові пояси"
   },
   "ui_autoHide": {
-    "message": "приховати автоматично"
+    "message": "Автоматично приховувати"
   },
   "ui_alwaysOnTop": {
     "message": "Завжди на вершині"
   },
   "manifest_description": {
-    "message": "Зручний календар і годинник віджет."
+    "message": "Зручний віджет календаря та годинника."
   },
   "manifest_name": {
     "message": "Календар Годинник"
