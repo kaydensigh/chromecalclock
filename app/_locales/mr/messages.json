@@ -1297,5 +1297,8 @@
   },
   "ui_alwaysOnTop": {
     "message": "नेहेमी शीर्षावर ठेवा"
+  },
+  "ui_weekStartSunday": {
+    "message": "आठवडा रविवारी सुरू होते"
   }
 }

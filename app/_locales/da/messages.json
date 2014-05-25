@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalender og ur"
+  },
+  "ui_weekStartSunday": {
+    "message": "Ugen starter på søndag"
   }
 }

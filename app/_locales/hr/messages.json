@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalendar sat"
+  },
+  "ui_weekStartSunday": {
+    "message": "Tjedan počinje u nedjelju"
   }
 }

@@ -1297,5 +1297,8 @@
   },
   "tz_Banjul": {
     "message": "Banjul"
+  },
+  "ui_weekStartSunday": {
+    "message": "La settimana inizia la Domenica"
   }
 }

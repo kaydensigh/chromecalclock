@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalendář Hodiny"
+  },
+  "ui_weekStartSunday": {
+    "message": "Týden začíná v neděli"
   }
 }

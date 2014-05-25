@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalender Kell"
+  },
+  "ui_weekStartSunday": {
+    "message": "Nädal algab pühapäeval"
   }
 }

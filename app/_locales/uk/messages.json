@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Календар Годинник"
+  },
+  "ui_weekStartSunday": {
+    "message": "Тиждень починається в неділю"
   }
 }

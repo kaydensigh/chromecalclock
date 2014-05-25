@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "カレンダー時計"
+  },
+  "ui_weekStartSunday": {
+    "message": "週は日曜日に始まり"
   }
 }

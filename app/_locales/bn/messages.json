@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "ক্যালেন্ডার ক্লক"
+  },
+  "ui_weekStartSunday": {
+    "message": "সপ্তাহের রোববার শুরু"
   }
 }

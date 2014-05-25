@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "นาฬิกาปฏิทิน"
+  },
+  "ui_weekStartSunday": {
+    "message": "สัปดาห์จะเริ่มต้นในวันอาทิตย์ที่"
   }
 }

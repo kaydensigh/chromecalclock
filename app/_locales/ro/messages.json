@@ -1297,5 +1297,8 @@
   },
   "ui_alwaysOnTop": {
     "message": "Întotdeauna pe partea de sus"
+  },
+  "ui_weekStartSunday": {
+    "message": "Săptămâna începe duminica"
   }
 }

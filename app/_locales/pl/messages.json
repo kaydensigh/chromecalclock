@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalendarz Zegar"
+  },
+  "ui_weekStartSunday": {
+    "message": "Tydzień rozpoczyna się w niedzielę"
   }
 }

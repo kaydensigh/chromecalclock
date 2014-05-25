@@ -1297,5 +1297,8 @@
   },
   "manifest_description": {
     "message": "ఒక అనుకూలమైన క్యాలెండర్ మరియు గడియారం విడ్జెట్."
+  },
+  "ui_weekStartSunday": {
+    "message": "వారం ఆదివారం మొదలవుతుంది"
   }
 }

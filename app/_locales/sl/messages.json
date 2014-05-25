@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Koledar Clock"
+  },
+  "ui_weekStartSunday": {
+    "message": "Teden se začne v nedeljo"
   }
 }

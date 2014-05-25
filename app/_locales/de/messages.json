@@ -1297,5 +1297,8 @@
   },
   "manifest_description": {
     "message": "Eine praktische Kalender-und Uhr-Widget."
+  },
+  "ui_weekStartSunday": {
+    "message": "Woche beginnt am Sonntag"
   }
 }

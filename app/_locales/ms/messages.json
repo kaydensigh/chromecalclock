@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalendar Jam"
+  },
+  "ui_weekStartSunday": {
+    "message": "Minggu bermula pada hari Ahad"
   }
 }

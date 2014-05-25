@@ -1297,5 +1297,8 @@
   },
   "tz_Majuro": {
     "message": "馬朱羅"
+  },
+  "ui_weekStartSunday": {
+    "message": "星期從星期天開始"
   }
 }

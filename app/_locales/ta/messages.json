@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "நாள்காட்டி கடிகாரம்"
+  },
+  "ui_weekStartSunday": {
+    "message": "வாரம் ஞாயிறு அன்று தொடங்குகிறது"
   }
 }

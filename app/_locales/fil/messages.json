@@ -1297,5 +1297,8 @@
   },
   "tz_Thule": {
     "message": "Thule"
+  },
+  "ui_weekStartSunday": {
+    "message": "Linggo ay nagsisimula sa Linggo"
   }
 }

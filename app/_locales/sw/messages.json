@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "kalenda Clock"
+  },
+  "ui_weekStartSunday": {
+    "message": "Wiki kuanza siku ya Jumapili"
   }
 }

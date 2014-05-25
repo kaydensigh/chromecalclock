@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalendorius Laikrodis"
+  },
+  "ui_weekStartSunday": {
+    "message": "Savaitė prasideda sekmadienį"
   }
 }

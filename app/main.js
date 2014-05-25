@@ -1,6 +1,6 @@
 // Injected by background.js:
-// var settings = { timezone: [], alwaysOnTop: false, autoHide: false };
-// var updateSettings = function (settings) {};  // Closes this window.
+// var settings = { timezone: [], alwaysOnTop: false, autoHide: false, weekStartSunday: false };
+// var updateSettings = function (settings, reload) {};
 
 var calendar = null;
 var timezones = [];
@@ -133,6 +133,7 @@ function makeCalendar() {
 		months: months,
     monthsShort: monthsShort,
 
+    startDay: settings.weekStartSunday ? 0 : 1,
   });
   calendar.show({ left: 0, top: 0 });
 }
@@ -164,7 +165,10 @@ function applySettings() {
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   settings.alwaysOnTop = alwaysOnTopCheckbox.checked;
   appWindow.setAlwaysOnTop(settings.alwaysOnTop);
-  updateSettings(settings);
+  var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
+  var weekStartChanged = settings.weekStartSunday != weekStartSundayCheckbox.checked;
+  settings.weekStartSunday = weekStartSundayCheckbox.checked;
+  updateSettings(settings, weekStartChanged);
 }
 
 function addTimezone() {
@@ -190,6 +194,9 @@ function setupSettings() {
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   alwaysOnTopCheckbox.checked = settings.alwaysOnTop;
   alwaysOnTopCheckbox.addEventListener('change', applySettings);
+  var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
+  weekStartSundayCheckbox.checked = settings.weekStartSunday;
+  weekStartSundayCheckbox.addEventListener('change', applySettings);
 
   var currentTimezone = new Intl.DateTimeFormat().resolvedOptions().timeZone;
   // Some time zones have multiple '/', so take the first part as region and the rest as city.

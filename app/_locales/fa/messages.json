@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "تقویم ساعت"
+  },
+  "ui_weekStartSunday": {
+    "message": "هفته شروع می شود در روز یکشنبه"
   }
 }

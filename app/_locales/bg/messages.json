@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Календар Clock"
+  },
+  "ui_weekStartSunday": {
+    "message": "Седмицата започва в неделя"
   }
 }

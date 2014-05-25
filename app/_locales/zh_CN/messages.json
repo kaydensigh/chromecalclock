@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "日历时钟"
+  },
+  "ui_weekStartSunday": {
+    "message": "星期从星期天开始"
   }
 }

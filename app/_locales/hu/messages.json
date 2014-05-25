@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Naptár Óra"
+  },
+  "ui_weekStartSunday": {
+    "message": "Hét kezdődik vasárnap"
   }
 }

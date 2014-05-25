@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Takvim Saat"
+  },
+  "ui_weekStartSunday": {
+    "message": "Hafta Pazar günü başlar"
   }
 }

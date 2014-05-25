@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "કેલેન્ડર ઘડિયાળ"
+  },
+  "ui_weekStartSunday": {
+    "message": "અઠવાડિયું રવિવારે શરૂ થાય છે"
   }
 }

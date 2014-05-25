@@ -4,6 +4,7 @@ function defaultSettings(settings) {
     timezones: Array.isArray(settings.timezones) ? settings.timezones : [],
     alwaysOnTop: typeof settings.alwaysOnTop == 'boolean' ? settings.alwaysOnTop : true,
     autoHide: typeof settings.autoHide == 'boolean' ? settings.autoHide : true,
+    weekStartSunday: typeof settings.weekStartSunday == 'boolean' ? settings.weekStartSunday : false,
   };
 }
 
@@ -31,10 +32,15 @@ function getSetupWindowCallback(settings) {
     win.onBoundsChanged.addListener(function () {
       chrome.storage.local.set({ 'bounds': win.getBounds() }, function() {});
     });
-    
+
     win.contentWindow.settings = settings;
-    win.contentWindow.updateSettings = function (settings) {
-      chrome.storage.local.set({ 'settings': settings }, function() {});
+    win.contentWindow.updateSettings = function (settings, reload) {
+      chrome.storage.local.set({ 'settings': settings }, function() {
+        if (reload) {
+          win.close();
+          onLaunched();
+        }
+      });
     };
   };
 }

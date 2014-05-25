@@ -1297,5 +1297,8 @@
   },
   "tz_Copenhagen": {
     "message": "קופנהגן"
+  },
+  "ui_weekStartSunday": {
+    "message": "שבוע מתחיל ביום ראשון"
   }
 }

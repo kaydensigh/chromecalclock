@@ -1297,5 +1297,8 @@
   },
   "manifest_description": {
     "message": "एक सुविधाजनक कैलेंडर और घड़ी विजेट."
+  },
+  "ui_weekStartSunday": {
+    "message": "सप्ताह रविवार को शुरू होता है"
   }
 }

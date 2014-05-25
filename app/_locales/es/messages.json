@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Calendario Reloj"
+  },
+  "ui_weekStartSunday": {
+    "message": "La semana empieza el domingo"
   }
 }

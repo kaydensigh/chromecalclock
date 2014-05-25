@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "Kalender Klok"
+  },
+  "ui_weekStartSunday": {
+    "message": "Week begint op zondag"
   }
 }

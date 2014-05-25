@@ -11,6 +11,9 @@
   "ui_autoHide": {
     "message": "Hide automatically"
   },
+  "ui_weekStartSunday": {
+    "message": "Week starts on Sunday"
+  },
   "ui_extraTimezones": {
     "message": "Extra time zones"
   },

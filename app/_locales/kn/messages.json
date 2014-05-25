@@ -1297,5 +1297,8 @@
   },
   "manifest_name": {
     "message": "ಕ್ಯಾಲೆಂಡರ್ ಗಡಿಯಾರ"
+  },
+  "ui_weekStartSunday": {
+    "message": "ವಾರ ಭಾನುವಾರ ಆರಂಭವಾಗುತ್ತದೆ"
   }
 }

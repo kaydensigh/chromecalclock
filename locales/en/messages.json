@@ -5,12 +5,15 @@
   "manifest_description": {
     "message": "A convenient calendar and clock widget."
   },
-  
+
   "ui_alwaysOnTop": {
     "message": "Always on top"
   },
   "ui_autoHide": {
     "message": "Hide automatically"
+  },
+  "ui_weekStartSunday": {
+    "message": "Week starts on Sunday"
   },
   "ui_extraTimezones": {
     "message": "Extra time zones"

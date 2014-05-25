@@ -1297,5 +1297,8 @@
   },
   "tz_St_Kitts": {
     "message": "St Kitts"
+  },
+  "ui_weekStartSunday": {
+    "message": "Tuần bắt đầu vào ngày Chủ nhật"
   }
 }

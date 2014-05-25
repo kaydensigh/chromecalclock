@@ -1297,5 +1297,8 @@
   },
   "manifest_description": {
     "message": "Un calendari i el rellotge convenient widgets."
+  },
+  "ui_weekStartSunday": {
+    "message": "La setmana comença diumenge"
   }
 }
