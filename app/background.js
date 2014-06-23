@@ -9,7 +9,7 @@ function defaultSettings(settings) {
 }
 
 function onLaunched() {
-  chrome.storage.local.get(null, function(fromStorage) {
+  chrome.storage.sync.get(null, function(fromStorage) {
     var lastBounds = fromStorage['bounds'];
     var settings = defaultSettings(fromStorage['settings']);
     var options = {
@@ -30,12 +30,12 @@ function onLaunched() {
 function getSetupWindowCallback(settings) {
   return function (win) {
     win.onBoundsChanged.addListener(function () {
-      chrome.storage.local.set({ 'bounds': win.getBounds() }, function() {});
+      chrome.storage.sync.set({ 'bounds': win.getBounds() }, function() {});
     });
 
     win.contentWindow.settings = settings;
     win.contentWindow.updateSettings = function (settings, reload) {
-      chrome.storage.local.set({ 'settings': settings }, function() {
+      chrome.storage.sync.set({ 'settings': settings }, function() {
         if (reload) {
           win.close();
           onLaunched();
