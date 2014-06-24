@@ -1,17 +1,54 @@
-function defaultSettings(settings) {
-  settings = typeof settings == 'object' ? settings : {};
-  return {
-    timezones: Array.isArray(settings.timezones) ? settings.timezones : [],
-    alwaysOnTop: typeof settings.alwaysOnTop == 'boolean' ? settings.alwaysOnTop : true,
-    autoHide: typeof settings.autoHide == 'boolean' ? settings.autoHide : true,
-    weekStartSunday: typeof settings.weekStartSunday == 'boolean' ? settings.weekStartSunday : false,
+var defaultSettings = {
+  timezones: [],
+  alwaysOnTop: true,
+  autoHide: true,
+  weekStartSunday: false,
+}
+
+function applySettings(settings, baseSettings) {
+  if (typeof settings != 'object') {
+    return baseSettings;
+  }
+  var newSettings = {
+    timezones: baseSettings.timezones,
+    alwaysOnTop: typeof settings.alwaysOnTop == 'boolean' ? settings.alwaysOnTop : baseSettings.alwaysOnTop,
+    autoHide: typeof settings.autoHide == 'boolean' ? settings.autoHide : baseSettings.autoHide,
+    weekStartSunday: typeof settings.weekStartSunday == 'boolean' ? settings.weekStartSunday : baseSettings.weekStartSunday,
   };
+  if (Array.isArray(settings.timezones)) {
+    newSettings.timezones = settings.timezones.concat(
+        baseSettings.timezones.filter(function (timezone) {
+          return settings.timezones.indexOf(timezone) == -1;
+        }));
+  }
+  return newSettings;
+}
+
+function readFromStorage(callback) {
+  var localStorage = null;
+  var syncStorage = null;
+
+  var loadComplete = function () {
+    if (!localStorage || !syncStorage) {
+      return;
+    }
+    var lastBounds = localStorage['bounds'];
+    var settings = applySettings(localStorage['settings'], applySettings(syncStorage['settings'], defaultSettings));
+    callback(lastBounds, settings);
+  };
+
+  chrome.storage.local.get(null, function (fromStorage) {
+    localStorage = fromStorage;
+    loadComplete();
+  });
+  chrome.storage.sync.get(null, function (fromStorage) {
+    syncStorage = fromStorage;
+    loadComplete();
+  });
 }
 
 function onLaunched() {
-  chrome.storage.local.get(null, function(fromStorage) {
-    var lastBounds = fromStorage['bounds'];
-    var settings = defaultSettings(fromStorage['settings']);
+  readFromStorage(function(lastBounds, settings) {
     var options = {
       frame: 'none',
       width: 400 + 160 * settings.timezones.length,
@@ -35,11 +72,21 @@ function getSetupWindowCallback(settings) {
 
     win.contentWindow.settings = settings;
     win.contentWindow.updateSettings = function (settings, reload) {
-      chrome.storage.local.set({ 'settings': settings }, function() {
-        if (reload) {
-          win.close();
-          onLaunched();
-        }
+      var localSettings = {
+        alwaysOnTop: settings.alwaysOnTop,
+        autoHide: settings.autoHide,
+      };
+      var syncSettings = {
+        timezones: settings.timezones,
+        weekStartSunday: settings.weekStartSunday,
+      };
+      chrome.storage.local.set({ 'settings': localSettings }, function() {
+        chrome.storage.sync.set({ 'settings': syncSettings }, function () {
+          if (reload) {
+            win.close();
+            onLaunched();
+          }
+        });
       });
     };
   };

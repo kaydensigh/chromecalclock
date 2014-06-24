@@ -166,9 +166,14 @@ function applySettings() {
   settings.alwaysOnTop = alwaysOnTopCheckbox.checked;
   appWindow.setAlwaysOnTop(settings.alwaysOnTop);
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
-  var weekStartChanged = settings.weekStartSunday != weekStartSundayCheckbox.checked;
   settings.weekStartSunday = weekStartSundayCheckbox.checked;
+}
+
+function saveAndApplySettings() {
+  var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
+  var weekStartChanged = settings.weekStartSunday != weekStartSundayCheckbox.checked;
   updateSettings(settings, weekStartChanged);
+  applySettings();
 }
 
 function addTimezone() {
@@ -190,13 +195,13 @@ function removeTimezone(index) {
 function setupSettings() {
   var autoHideCheckbox = document.getElementById('autoHide');
   autoHideCheckbox.checked = settings.autoHide;
-  autoHideCheckbox.addEventListener('change', applySettings);
+  autoHideCheckbox.addEventListener('change', saveAndApplySettings);
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   alwaysOnTopCheckbox.checked = settings.alwaysOnTop;
-  alwaysOnTopCheckbox.addEventListener('change', applySettings);
+  alwaysOnTopCheckbox.addEventListener('change', saveAndApplySettings);
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   weekStartSundayCheckbox.checked = settings.weekStartSunday;
-  weekStartSundayCheckbox.addEventListener('change', applySettings);
+  weekStartSundayCheckbox.addEventListener('change', saveAndApplySettings);
 
   var currentTimezone = new Intl.DateTimeFormat().resolvedOptions().timeZone;
   // Some time zones have multiple '/', so take the first part as region and the rest as city.
