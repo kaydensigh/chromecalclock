@@ -169,11 +169,11 @@ function applySettings() {
   settings.weekStartSunday = weekStartSundayCheckbox.checked;
 }
 
-function saveAndApplySettings() {
+function applyAndSaveSettings() {
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   var weekStartChanged = settings.weekStartSunday != weekStartSundayCheckbox.checked;
-  updateSettings(settings, weekStartChanged);
   applySettings();
+  updateSettings(settings, weekStartChanged);
 }
 
 function addTimezone() {
@@ -195,13 +195,13 @@ function removeTimezone(index) {
 function setupSettings() {
   var autoHideCheckbox = document.getElementById('autoHide');
   autoHideCheckbox.checked = settings.autoHide;
-  autoHideCheckbox.addEventListener('change', saveAndApplySettings);
+  autoHideCheckbox.addEventListener('change', applyAndSaveSettings);
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   alwaysOnTopCheckbox.checked = settings.alwaysOnTop;
-  alwaysOnTopCheckbox.addEventListener('change', saveAndApplySettings);
+  alwaysOnTopCheckbox.addEventListener('change', applyAndSaveSettings);
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   weekStartSundayCheckbox.checked = settings.weekStartSunday;
-  weekStartSundayCheckbox.addEventListener('change', saveAndApplySettings);
+  weekStartSundayCheckbox.addEventListener('change', applyAndSaveSettings);
 
   var currentTimezone = new Intl.DateTimeFormat().resolvedOptions().timeZone;
   // Some time zones have multiple '/', so take the first part as region and the rest as city.
