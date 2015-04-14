@@ -60,6 +60,13 @@ function onLaunched() {
       options.left = lastBounds.left;
       options.top = lastBounds.top;
     }
+    // Bug in Windows where minimized windows get their top/left set as below.
+    if (options.left == -32000) {
+      options.left = undefined;
+    }
+    if (options.top == -32000) {
+      options.top = undefined;
+    }
     chrome.app.window.create('main.html', options, getSetupWindowCallback(settings));
   });
 }
@@ -67,7 +74,9 @@ function onLaunched() {
 function getSetupWindowCallback(settings) {
   return function (win) {
     win.onBoundsChanged.addListener(function () {
-      chrome.storage.local.set({ 'bounds': win.getBounds() }, function() {});
+      if (!win.isMinimized()) {
+        chrome.storage.local.set({ 'bounds': win.getBounds() }, function() {});
+      }
     });
 
     win.contentWindow.settings = settings;
