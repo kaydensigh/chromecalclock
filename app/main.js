@@ -1,5 +1,5 @@
 // Injected by background.js:
-// var settings = { timezone: [], alwaysOnTop: false, autoHide: false, weekStartSunday: false };
+// var settings = { timezone: [], alwaysOnTop: false, autoHide: false, weekStartSunday: false, hour24: false};
 // var updateSettings = function (settings, reload) {};
 
 var calendar = null;
@@ -171,6 +171,8 @@ function applySettings() {
   appWindow.setAlwaysOnTop(settings.alwaysOnTop);
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   settings.weekStartSunday = weekStartSundayCheckbox.checked;
+  var hour24Checkbox = document.getElementById('hour24');
+  settings.hour24 = hour24Checkbox.checked;
 }
 
 function applyAndSaveSettings() {
@@ -206,6 +208,9 @@ function setupSettings() {
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   weekStartSundayCheckbox.checked = settings.weekStartSunday;
   weekStartSundayCheckbox.addEventListener('change', applyAndSaveSettings);
+  var hour24Checkbox = document.getElementById('hour24');
+  hour24Checkbox.checked = settings.hour24;
+  hour24Checkbox.addEventListener('change', applyAndSaveSettings);
 
   var currentTimezone = GetLocalTimezone();
   // Some time zones have multiple '/', so take the first part as region and the rest as city.
@@ -294,7 +299,7 @@ function timerTick() {
     document.querySelector('#clock' + i + ' .second_hand').setAttribute('transform', 'rotate(' + s + ', 0, 0)');
 
     document.querySelector('#clock' + i + ' .time').textContent =
-        now.toLocaleTimeString(undefined, { timeZone: getChromeTimeZone(timezone) });
+        now.toLocaleTimeString(undefined, { timeZone: getChromeTimeZone(timezone), hour12: !settings.hour24 });
     document.querySelector('#clock' + i + ' .date').textContent =
         now.toLocaleDateString(undefined, { timeZone: getChromeTimeZone(timezone), weekday: 'long', month: 'long', day: 'numeric'  });
   });
