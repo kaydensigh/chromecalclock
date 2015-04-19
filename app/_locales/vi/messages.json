@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Tuần bắt đầu vào ngày Chủ nhật"
+  },
+  "ui_hour24": {
+    "message": "24 giờ"
   }
 }

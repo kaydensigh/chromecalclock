@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Wiki kuanza siku ya Jumapili"
+  },
+  "ui_hour24": {
+    "message": "Saa ya masaa 24"
   }
 }

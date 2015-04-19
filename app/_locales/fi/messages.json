@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Viikko alkaa sunnuntaina"
+  },
+  "ui_hour24": {
+    "message": "24 tunnin kello"
   }
 }

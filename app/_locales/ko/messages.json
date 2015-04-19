@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "주 일요일에 시작"
+  },
+  "ui_hour24": {
+    "message": "24 시간"
   }
 }

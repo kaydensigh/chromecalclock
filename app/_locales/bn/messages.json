@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "সপ্তাহের রোববার শুরু"
+  },
+  "ui_hour24": {
+    "message": "24 ঘন্টা ঘড়ি"
   }
 }

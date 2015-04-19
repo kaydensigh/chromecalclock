@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Savaitė prasideda sekmadienį"
+  },
+  "ui_hour24": {
+    "message": "24 valandų laikrodis"
   }
 }

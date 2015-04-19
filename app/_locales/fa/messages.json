@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "هفته شروع می شود در روز یکشنبه"
+  },
+  "ui_hour24": {
+    "message": "ساعت 24 ساعته"
   }
 }

@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Ugen starter på søndag"
+  },
+  "ui_hour24": {
+    "message": "24-timers ur"
   }
 }

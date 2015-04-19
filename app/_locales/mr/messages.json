@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "आठवडा रविवारी सुरू होते"
+  },
+  "ui_hour24": {
+    "message": "24-तासांचे घड्याळ"
   }
 }

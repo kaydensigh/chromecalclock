@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Linggo ay nagsisimula sa Linggo"
+  },
+  "ui_hour24": {
+    "message": "24-oras na orasan"
   }
 }

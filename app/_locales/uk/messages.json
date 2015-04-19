@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Тиждень починається в неділю"
+  },
+  "ui_hour24": {
+    "message": "24-годинний"
   }
 }

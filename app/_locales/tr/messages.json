@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Hafta Pazar günü başlar"
+  },
+  "ui_hour24": {
+    "message": "24 saatlik"
   }
 }

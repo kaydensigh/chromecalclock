@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Nädal algab pühapäeval"
+  },
+  "ui_hour24": {
+    "message": "24-tunnine kell"
   }
 }

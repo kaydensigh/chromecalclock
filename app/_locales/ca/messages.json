@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "La setmana comença diumenge"
+  },
+  "ui_hour24": {
+    "message": "Rellotge de 24 hores"
   }
 }

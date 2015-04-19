@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Týždeň začína v nedeľu"
+  },
+  "ui_hour24": {
+    "message": "24 hodinový formát"
   }
 }

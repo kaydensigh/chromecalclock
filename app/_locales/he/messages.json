@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "שבוע מתחיל ביום ראשון"
+  },
+  "ui_hour24": {
+    "message": "שעון של 24 שעות"
   }
 }

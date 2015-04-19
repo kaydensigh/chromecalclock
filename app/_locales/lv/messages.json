@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Nedēļa sākas svētdienā"
+  },
+  "ui_hour24": {
+    "message": "24-stundu pulkstenis"
   }
 }

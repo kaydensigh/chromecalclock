@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Teden se začne v nedeljo"
+  },
+  "ui_hour24": {
+    "message": "24-urna ura"
   }
 }

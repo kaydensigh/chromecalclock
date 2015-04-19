@@ -16,7 +16,7 @@
     "message": "Week starts on Sunday"
   },
   "ui_hour24": {
-    "message": "24 hour clock"
+    "message": "24-hour clock"
   },
   "ui_extraTimezones": {
     "message": "Extra time zones"

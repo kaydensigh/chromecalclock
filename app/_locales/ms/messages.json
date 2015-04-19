@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Minggu bermula pada hari Ahad"
+  },
+  "ui_hour24": {
+    "message": "Jam 24 jam"
   }
 }

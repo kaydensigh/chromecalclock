@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Hét kezdődik vasárnap"
+  },
+  "ui_hour24": {
+    "message": "24 órás óra"
   }
 }

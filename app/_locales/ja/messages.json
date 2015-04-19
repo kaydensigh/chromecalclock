@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "週は日曜日に始まり"
+  },
+  "ui_hour24": {
+    "message": "24時間時計"
   }
 }

@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "వారం ఆదివారం మొదలవుతుంది"
+  },
+  "ui_hour24": {
+    "message": "24 గంటల గడియారం"
   }
 }

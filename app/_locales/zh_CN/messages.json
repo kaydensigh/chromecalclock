@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "星期从星期天开始"
+  },
+  "ui_hour24": {
+    "message": "24小时制"
   }
 }

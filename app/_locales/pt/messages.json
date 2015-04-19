@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Semana começa no domingo"
+  },
+  "ui_hour24": {
+    "message": "Relógio de 24 horas"
   }
 }

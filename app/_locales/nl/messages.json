@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Week begint op zondag"
+  },
+  "ui_hour24": {
+    "message": "24-uurs klok"
   }
 }

@@ -1300,5 +1300,8 @@
   },
   "ui_weekStartSunday": {
     "message": "Săptămâna începe duminica"
+  },
+  "ui_hour24": {
+    "message": "Ceas de 24 de ore"
   }
 }
