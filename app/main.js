@@ -46,6 +46,16 @@ function NewDateTimeFormat(options) {
   return new Intl.DateTimeFormat(undefined, options);
 }
 
+function IsTimezoneSupported(timezone) {
+  try {
+    NewDateTimeFormat({ timeZone: timezone });
+    return true;
+  } catch (e) {
+    console.log(e);
+    return false;
+  }
+}
+
 function GetLocalTimezoneName() {
   // Intl.DateTimeFormat.resolvedOptions().timeZone should provide the local
   // time zone but it doesn't always work. jstimezonedetect will try it first,
@@ -54,13 +64,23 @@ function GetLocalTimezoneName() {
 }
 
 function rebuildClocks() {
-  for (var i = 1; i < timezones.length; i++) {
-    var clock = document.getElementById('clock' + i);
-    clock.parentNode.removeChild(clock);
-  }
+  [].forEach.call(document.querySelectorAll('.clockDiv'), function (element) {
+    if (element.id != 'clock0') {
+      element.parentNode.removeChild(element);
+    }
+  });
   [].forEach.call(document.querySelectorAll('#settingsOverlay .removeTimezoneDiv'), function (element) {
     element.parentNode.removeChild(element);
   });
+
+  // Remove any time zones that Chrome won't handle.
+  for (var t in settings.timezones) {
+    if (!IsTimezoneSupported(settings.timezones[t])) {
+      // This recursively calls rebuildClocks, so return here.
+      removeTimezone(t);
+      return;
+    }
+  }
 
   timezones = settings.timezones.slice(0);
   var clock0 = document.getElementById('clock0');
@@ -131,13 +151,13 @@ function makeCalendar() {
   }
 
   calendar = new DatePicker('.calendar', {
-	  pickerClass: 'datepicker_calendar',
-	  persistent: true,
+    pickerClass: 'datepicker_calendar',
+    persistent: true,
     useFadeInOut: false,
 
-		days: days,
-		daysShort: daysShort,
-		months: months,
+    days: days,
+    daysShort: daysShort,
+    months: months,
     monthsShort: monthsShort,
 
     startDay: settings.weekStartSunday ? 0 : 1,
@@ -327,11 +347,7 @@ window.addEvent('load', function() {
 function checkTimezones() {
 availableRegions.forEach(function (region) {
   availableTimezones[region].forEach(function (city) {
-    try {
-      NewDateTimeFormat({ timeZone: region + '/' + city });
-    } catch (e) {
-      console.log(e);
-    }
+    IsTimezoneSupported(region + '/' + city);
   });
 });
 }
