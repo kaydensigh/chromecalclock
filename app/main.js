@@ -150,6 +150,9 @@ function makeCalendar() {
     monthsShort.push(NewDateTimeFormat({ month: 'short' }).format(date));
   }
 
+  if (calendar) {
+    calendar.destroy();
+  }
   calendar = new DatePicker('.calendar', {
     pickerClass: 'datepicker_calendar',
     persistent: true,
@@ -328,7 +331,7 @@ function timerTick() {
   });
 
   if (calendar.today.getDate() != now.getDate()) {
-    calendar.show({ left: 0, top: 0 });
+    makeCalendar();
   }
 
   setTimeout(timerTick, 1000);
