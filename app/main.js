@@ -46,10 +46,11 @@ function NewDateTimeFormat(options) {
   return new Intl.DateTimeFormat(undefined, options);
 }
 
-function GetLocalTimezone() {
-  // The resolved options should be able to provide the local time zone, but it
-  // may not work. In that case use jstimezonedetect instead.
-  return new Intl.DateTimeFormat().resolvedOptions().timeZone || jstz.determine().name();
+function GetLocalTimezoneName() {
+  // Intl.DateTimeFormat.resolvedOptions().timeZone should provide the local
+  // time zone but it doesn't always work. jstimezonedetect will try it first,
+  // then try to determine the local time zone.
+  return jstz.determine().name();
 }
 
 function rebuildClocks() {
@@ -76,7 +77,7 @@ function rebuildClocks() {
     settingsOverlay.appendChild(removeTimezoneButton);
   });
   // Push local time zone to front;
-  timezones.unshift(GetLocalTimezone());
+  timezones.unshift(undefined);
 
   var date = new Date();
   timezones.forEach(function (timezone, i) {
@@ -87,9 +88,11 @@ function rebuildClocks() {
     var timeZoneString = dateAndTimeZoneString.replace(dateString, '').trim();
     document.querySelector('#clock' + i + ' .time').title = timeZoneString;
 
+    // Use the canonical time zone, if it's undefined (for the local clock) use jstimezonedetect.
+    var timezoneName = timezone || GetLocalTimezoneName();
     // Get the city name using the canonical time zone.
     // Some time zones might have multiple '/', remove the first part (the region).
-    var city = timezone.split('/').slice(1).join('/');
+    var city = timezoneName.split('/').slice(1).join('/');
     // Get the localized string, then show the last part as the city name.
     // If there's no localized string, just use the city name from the time zone.
     var cityStrings = getTzMessage(city).split('/');
@@ -212,7 +215,7 @@ function setupSettings() {
   hour24Checkbox.checked = settings.hour24;
   hour24Checkbox.addEventListener('change', applyAndSaveSettings);
 
-  var currentTimezone = GetLocalTimezone();
+  var currentTimezone = GetLocalTimezoneName();
   // Some time zones have multiple '/', so take the first part as region and the rest as city.
   var splitIndex = currentTimezone.indexOf('/');
   var currentRegion = currentTimezone.substring(0, splitIndex);
