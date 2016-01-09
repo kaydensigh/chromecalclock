@@ -17,6 +17,12 @@
   "ui_hour24": {
     "message": "24-hour clock"
   },
+  "ui_defaultTimezones": {
+    "message": "Default time zone"
+  },
+  "ui_setTimezone": {
+    "message": "Set"
+  },
   "ui_extraTimezones": {
     "message": "Extra time zones"
   },
