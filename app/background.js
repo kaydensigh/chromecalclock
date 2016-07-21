@@ -1,22 +1,7 @@
-// Determine if the local locale uses a 24-hour clock. Since
-// DateTimeFormat.resolvedOptions().hour12 is not provided, look at
-// DateTimeFormat.resolved.pattern instead. The spec for the pattern is here:
-// http://unicode.org/reports/tr35/tr35-6.html#Date_Format_Patterns
+// Determine if the local locale uses a 24-hour clock.
 function localLocaleUsesHour24() {
   var dateFormat = new Intl.DateTimeFormat(undefined, { hour: 'numeric' });
-  var pattern = dateFormat.resolved.pattern;
-  // According to the spec, any occurrence of two adjacent single quotes (even
-  // within a quoted section) represent the single quote character.
-  pattern = pattern.replace("''", "");
-  // Now remove all quoted sections.
-  pattern = pattern.replace(/'[^']*'/, '');
-  // What remains is only the format pattern, in which the following represent
-  // digits of the hour:
-  // 'h': [1-12]
-  // 'H': [0-23]
-  // 'K': [0-11]
-  // 'k': [1-24]
-  return pattern.indexOf('H') != -1 || pattern.indexOf('k') != -1;
+  return !dateFormat.resolvedOptions().hour12;
 }
 
 var defaultSettings = {
