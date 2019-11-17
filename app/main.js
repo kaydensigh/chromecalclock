@@ -43,7 +43,7 @@ function NewDateTimeFormat(options) {
   if (options.timeZone) {
     options.timeZone = getChromeTimeZone(options.timeZone);
   }
-  return new Intl.DateTimeFormat(undefined, options);
+  return new Intl.DateTimeFormat('en-US', options);
 }
 
 function IsTimezoneSupported(timezone) {
