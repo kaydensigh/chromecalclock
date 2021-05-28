@@ -10,6 +10,3 @@ https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkf
 
 Calendar code from:
 http://www.monkeyphysics.com/mootools/script/2/datepicker
-
-Timezone detector from:
-http://bitbucket.org/pellepim/jstimezonedetect

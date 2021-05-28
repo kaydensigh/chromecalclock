@@ -25,6 +25,7 @@
     "message": "Add"
   },
 
+  "tz_Local_Time": { "message":  "Local Time" },
   "tz_Africa": { "message": "Africa" },
   "tz_Dakar": { "message": "Dakar" },
   "tz_Banjul": { "message": "Banjul" },

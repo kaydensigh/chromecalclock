@@ -5,6 +5,7 @@
 var calendar = null;
 var timezones = [];
 var appWindow = chrome.app.window.current();
+const localTimeName = 'Local_Time';
 
 function makeTicks() {
   [].forEach.call(document.getElementsByClassName('hour_ticks'), function (hourTicks) {
@@ -56,13 +57,6 @@ function IsTimezoneSupported(timezone) {
   }
 }
 
-function GetLocalTimezoneName() {
-  // Intl.DateTimeFormat.resolvedOptions().timeZone should provide the local
-  // time zone but it doesn't always work. jstimezonedetect will try it first,
-  // then try to determine the local time zone.
-  return jstz.determine().name();
-}
-
 function rebuildClocks() {
   [].forEach.call(document.querySelectorAll('.clockDiv'), function (element) {
     if (element.id != 'clock0') {
@@ -108,8 +102,8 @@ function rebuildClocks() {
     var timeZoneString = dateAndTimeZoneString.replace(dateString, '').trim();
     document.querySelector('#clock' + i + ' .time').title = timeZoneString;
 
-    // Use the canonical time zone, if it's undefined (for the local clock) use jstimezonedetect.
-    var timezoneName = timezone || GetLocalTimezoneName();
+    // Use the canonical time zone, if it's undefined (for the local clock) use special local time string.
+    var timezoneName = timezone || localTimeName + '/' + localTimeName;
     // Get the city name using the canonical time zone.
     // Some time zones might have multiple '/', remove the first part (the region).
     var city = timezoneName.split('/').slice(1).join('/');
@@ -238,57 +232,25 @@ function setupSettings() {
   hour24Checkbox.checked = settings.hour24;
   hour24Checkbox.addEventListener('change', applyAndSaveSettings);
 
-  var currentTimezone = GetLocalTimezoneName();
-  // Some time zones have multiple '/', so take the first part as region and the rest as city.
-  var splitIndex = currentTimezone.indexOf('/');
-  var currentRegion = currentTimezone.substring(0, splitIndex);
-  var currentCity = currentTimezone.substring(splitIndex + 1);
-
   var timezoneRegions = document.getElementById('timezoneRegions');
   var timezoneRegionCities = document.getElementById('timezoneRegionCities');
   var regionsArray = [];
 
+  for (const [region, cities] of Object.entries(availableTimezones)) {
+    regionsArray.push(createRegionOption(region));
+    timezoneRegionCities.appendChild(createCitiesSelect(region, cities));
+  }
+
   var compare = new Intl.Collator().compare;
-
-  availableRegions.forEach(function (region) {
-    var regionOption = document.createElement('option');
-    regionOption.value = region;
-    regionOption.textContent = getTzMessage(region);
-    if (region == currentRegion) {
-      regionOption.selected = true;
-    }
-    regionsArray.push(regionOption);
-
-    var cities = availableTimezones[region];
-    var citySelect = document.createElement('select');
-    citySelect.id = region;
-    citySelect.className = 'timezoneCities';
-    citySelect.style.display = 'none';
-    var citiesArray = [];
-    if (cities) {
-      cities.forEach(function (city) {
-        var cityOption = document.createElement('option');
-        cityOption.value = city;
-        cityOption.textContent = getTzMessage(city);
-        if (city == currentCity) {
-          cityOption.selected = true;
-        }
-        citiesArray.push(cityOption);
-      });
-    } else {
-      citySelect.disabled = true;
-    }
-    citiesArray.sort(function (a, b) {
-      return compare(a.textContent, b.textContent);
-    });
-    citiesArray.forEach(function (cityOption) {
-      citySelect.appendChild(cityOption);
-    });
-    timezoneRegionCities.appendChild(citySelect);
-  });
   regionsArray.sort(function (a, b) {
     return compare(a.textContent, b.textContent);
   });
+
+  // Preprend "Local Time" option.
+  regionsArray.unshift(createRegionOption(localTimeName));
+  regionsArray[0].selected = true;
+  timezoneRegionCities.appendChild(createCitiesSelect(localTimeName, null));
+
   regionsArray.forEach(function (regionOption) {
     timezoneRegions.appendChild(regionOption);
   });
@@ -307,6 +269,39 @@ function setupSettings() {
       overlay.style.top = '100%';
     }
   });
+}
+
+function createRegionOption(region) {
+  var regionOption = document.createElement('option');
+  regionOption.value = region;
+  regionOption.textContent = getTzMessage(region);
+  return regionOption;
+};
+
+function createCitiesSelect(region, cities) {
+  var citySelect = document.createElement('select');
+  citySelect.id = region;
+  citySelect.className = 'timezoneCities';
+  citySelect.style.display = 'none';
+  var citiesArray = [];
+  if (cities) {
+    cities.forEach(function (city) {
+      var cityOption = document.createElement('option');
+      cityOption.value = city;
+      cityOption.textContent = getTzMessage(city);
+      citiesArray.push(cityOption);
+    });
+  } else {
+    citySelect.disabled = true;
+  }
+  var compare = new Intl.Collator().compare;
+  citiesArray.sort(function (a, b) {
+    return compare(a.textContent, b.textContent);
+  });
+  citiesArray.forEach(function (cityOption) {
+    citySelect.appendChild(cityOption);
+  });
+  return citySelect;
 }
 
 function timerTick() {
