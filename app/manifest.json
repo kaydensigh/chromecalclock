@@ -7,12 +7,14 @@
   "app": {
     "background": {
       "scripts": [
+        "common/settings.js",
+        "common/chrome-storage.js",
         "background.js"
       ]
     }
   },
   "icons": {
-    "128": "icon-128.png"
+    "128": "common/icon-128.png"
   },
   "permissions": [
     "app.window.alwaysOnTop",
