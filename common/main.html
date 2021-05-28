@@ -32,16 +32,16 @@
     <img id="settingsCog" src="cog.png">
     <div id="settingsOverlay">
       <div id="settingsDiv">
-        <div class="settingsItem">
+        <div class="settingsItem hideInExtension">
           <span class="__MSG">ui_autoHide</span>
           <input type="checkbox" id="autoHide">
         </div>
-        <div class="settingsSpacer"></div>
-        <div class="settingsItem">
+        <div class="settingsSpacer hideInExtension"></div>
+        <div class="settingsItem hideInExtension">
           <span class="__MSG">ui_alwaysOnTop</span>
           <input type="checkbox" id="alwaysOnTop">
         </div>
-        <div class="settingsSpacer"></div>
+        <div class="settingsSpacer hideInExtension"></div>
         <div class="settingsItem">
           <span class="__MSG">ui_weekStartSunday</span>
           <input type="checkbox" id="weekStartSunday">
@@ -63,10 +63,12 @@
         </div>
       </div>
     </div>
-    <div id="removeTimezoneTemplate" class="removeTimezoneDiv">
+    <div id="removeTimezoneTemplate" class="removeTimezoneDiv" style="display:none">
       <img src="cross.png" class="removeTimezone">
     </div>
       
+    <script type="text/javascript" src="settings.js"></script>
+    <script type="text/javascript" src="chrome-intl.js"></script>
     <script type="text/javascript" src="ui.js"></script>
     <script type="text/javascript" src="../main.js"></script>
   </body>

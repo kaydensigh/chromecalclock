@@ -44,8 +44,8 @@ function rebuildClocks() {
   });
 
   // Remove any time zones that Chrome won't handle.
-  for (var t in settings.timezones) {
-    if (!IsTimezoneSupported(settings.timezones[t])) {
+  for (const [t, tz] in settings.timezones.entries()) {
+    if (!IsTimezoneSupported(tz)) {
       // This recursively calls rebuildClocks, so return here.
       removeTimezone(t);
       return;
@@ -62,6 +62,7 @@ function rebuildClocks() {
     extraClock.id = 'clock' + (index + 1);
     clock0.parentNode.appendChild(extraClock);
     var removeTimezoneButton = removeTimezoneTemplate.clone(true);
+    removeTimezoneButton.style.display = '';
     removeTimezoneButton.removeAttribute('id');
     removeTimezoneButton.addEventListener('click', function () { removeTimezone(index); });
     settingsOverlay.appendChild(removeTimezoneButton);
@@ -145,14 +146,10 @@ function showCitiesByRegion() {
 function applySettings() {
   var autoHideCheckbox = document.getElementById('autoHide');
   settings.autoHide = autoHideCheckbox.checked;
-  if (settings.autoHide) {
-    window.addEventListener('blur', hide);
-  } else {
-    window.removeEventListener('blur', hide);
-  }
+  enactAutoHide(settings.autoHide);
   var alwaysOnTopCheckbox = document.getElementById('alwaysOnTop');
   settings.alwaysOnTop = alwaysOnTopCheckbox.checked;
-  appWindow.setAlwaysOnTop(settings.alwaysOnTop);
+  enactAlwaysOnTop(settings.alwaysOnTop);
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   settings.weekStartSunday = weekStartSundayCheckbox.checked;
   var hour24Checkbox = document.getElementById('hour24');

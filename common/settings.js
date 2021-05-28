@@ -12,7 +12,7 @@ var defaultSettings = {
   hour24: localLocaleUsesHour24(),
 }
 
-function applySettings(settings, baseSettings) {
+function overlaySettings(settings, baseSettings) {
   if (typeof settings != 'object') {
     return baseSettings;
   }

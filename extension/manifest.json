@@ -2,21 +2,18 @@
   "name": "__MSG_manifest_name__",
   "description": "__MSG_manifest_description__",
   "version": "0.11",
-  "offline_enabled": true,
+  "manifest_version": 3,
   "default_locale": "en",
-  "app": {
-    "background": {
-      "scripts": [
-        "common/settings.js",
-        "background.js"
-      ]
-    }
-  },
   "icons": {
     "128": "common/icon-128.png"
   },
   "permissions": [
-    "app.window.alwaysOnTop",
     "storage"
-  ]
+  ],
+  "action": {
+    "default_popup": "common/main.html",
+    "default_icon": {
+      "128": "common/icon-128.png"
+    }
+  }
 }
