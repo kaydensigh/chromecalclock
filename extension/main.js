@@ -24,7 +24,9 @@ function updateSettings(settings) {
 //// App
 
 function resizeWindow(width) {
-  document.body.style.width = width + 'px';
+  let container = document.getElementById('container');
+  container.style.width = width + 'px';
+  container.style.height = '200px';
   document.body.style.height = '200px';
   document.body.parentElement.style.height = '200px';
 }

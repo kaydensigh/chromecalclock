@@ -5,6 +5,12 @@
 var appWindow = chrome.app.window.current();
 
 function resizeWindow(width) {
+  let container = document.getElementById('container');
+  container.style.width = width + 'px';
+  container.style.height = '200px';
+  document.body.style.height = '200px';
+  document.body.parentElement.style.height = '200px';
+
   var bounds = appWindow.getBounds();
   bounds.width = width;
   appWindow.setBounds(bounds);

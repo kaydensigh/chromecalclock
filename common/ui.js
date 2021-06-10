@@ -223,11 +223,11 @@ function setupSettings() {
 
   var overlay = document.getElementById('settingsOverlay');
   document.getElementById('settingsCog').addEventListener('click', function () {
-    overlay.style.top = '0';
+    overlay.style.display = 'block';
   });
   overlay.addEventListener('click', function (e) {
     if (e.target.id == 'settingsOverlay') {
-      overlay.style.top = '100%';
+      overlay.style.display = 'none';
     }
   });
 }
