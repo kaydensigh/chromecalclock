@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "Àfrica"
   },
+  "tz_Local_Time": {
+    "message": "Hora local"
+  },
   "ui_extraTimezones": {
     "message": "Zones de temps extra"
   },

@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "アフリカ"
   },
+  "tz_Local_Time": {
+    "message": "現地時間"
+  },
   "ui_addTimezone": {
     "message": "加える"
   },

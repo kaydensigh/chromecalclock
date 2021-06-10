@@ -1277,6 +1277,9 @@
   "tz_Dakar": {
     "message": "dakar"
   },
+  "tz_Local_Time": {
+    "message": "Lokale tijd"
+  },
   "ui_addTimezone": {
     "message": "toevoegen"
   },

@@ -1283,6 +1283,9 @@
   "tz_Africa": {
     "message": "આફ્રિકા"
   },
+  "tz_Local_Time": {
+    "message": "સ્થાનિક સમય"
+  },
   "ui_alwaysOnTop": {
     "message": "હંમેશા શીર્ષ પર"
   },

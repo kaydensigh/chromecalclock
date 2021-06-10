@@ -1229,6 +1229,9 @@
   "tz_Khartoum": {
     "message": "Khartoum"
   },
+  "tz_Local_Time": {
+    "message": "Ora locale"
+  },
   "ui_addTimezone": {
     "message": "aggiungere"
   },

@@ -1280,6 +1280,9 @@
   "tz_Dakar": {
     "message": "达喀尔"
   },
+  "tz_Local_Time": {
+    "message": "当地时间"
+  },
   "ui_addTimezone": {
     "message": "加"
   },

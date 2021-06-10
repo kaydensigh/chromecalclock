@@ -1280,6 +1280,9 @@
   "tz_Dakar": {
     "message": "Дакар"
   },
+  "tz_Local_Time": {
+    "message": "Локално време"
+  },
   "ui_addTimezone": {
     "message": "додати"
   },

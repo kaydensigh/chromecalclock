@@ -1280,6 +1280,9 @@
   "tz_Dakar": {
     "message": "다카르"
   },
+  "tz_Local_Time": {
+    "message": "현지 시각"
+  },
   "ui_extraTimezones": {
     "message": "추가 시간대"
   },

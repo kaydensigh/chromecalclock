@@ -1232,6 +1232,9 @@
   "tz_Africa": {
     "message": "Châu phi"
   },
+  "tz_Local_Time": {
+    "message": "Giờ địa phương"
+  },
   "ui_addTimezone": {
     "message": "thêm"
   },

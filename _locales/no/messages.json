@@ -1280,6 +1280,9 @@
   "tz_Conakry": {
     "message": "Conakry"
   },
+  "tz_Local_Time": {
+    "message": "Lokal tid"
+  },
   "ui_extraTimezones": {
     "message": "Ekstra tidssoner"
   },

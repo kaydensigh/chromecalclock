@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "Afrika"
   },
+  "tz_Local_Time": {
+    "message": "Masa tempatan"
+  },
   "ui_addTimezone": {
     "message": "Tambah"
   },

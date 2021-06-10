@@ -1274,6 +1274,9 @@
   "tz_Africa": {
     "message": "Aprika"
   },
+  "tz_Local_Time": {
+    "message": "Lokal na Oras"
+  },
   "ui_addTimezone": {
     "message": "magdagdag"
   },

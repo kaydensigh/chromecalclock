@@ -1280,6 +1280,9 @@
   "ui_addTimezone": {
     "message": "যোগ করা"
   },
+  "tz_Local_Time": {
+    "message": "স্থানীয় সময়"
+  },
   "tz_Africa": {
     "message": "আফ্রিকা"
   },

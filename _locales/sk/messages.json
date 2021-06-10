@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "afrika"
   },
+  "tz_Local_Time": {
+    "message": "Miestny čas"
+  },
   "ui_addTimezone": {
     "message": "Pridať"
   },

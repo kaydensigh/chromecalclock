@@ -1268,6 +1268,9 @@
   "tz_Bissau": {
     "message": "บิสเซา"
   },
+  "tz_Local_Time": {
+    "message": "เวลาท้องถิ่น"
+  },
   "ui_addTimezone": {
     "message": "เพิ่ม"
   },

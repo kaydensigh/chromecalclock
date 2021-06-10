@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "Αφρική"
   },
+  "tz_Local_Time": {
+    "message": "Τοπική ώρα"
+  },
   "ui_addTimezone": {
     "message": "Προσθήκη"
   },

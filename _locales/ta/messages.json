@@ -1280,6 +1280,9 @@
   "tz_Africa": {
     "message": "ஆப்ரிக்கா"
   },
+  "tz_Local_Time": {
+    "message": "உள்ளூர் நேரம்"
+  },
   "ui_addTimezone": {
     "message": "சேர்"
   },

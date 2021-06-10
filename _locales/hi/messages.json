@@ -1277,6 +1277,9 @@
   "tz_Dakar": {
     "message": "डकार"
   },
+  "tz_Local_Time": {
+    "message": "स्थानीय समय"
+  },
   "ui_addTimezone": {
     "message": "जोड़ना"
   },
