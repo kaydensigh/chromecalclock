@@ -160,7 +160,10 @@ function applyAndSaveSettings() {
   var weekStartSundayCheckbox = document.getElementById('weekStartSunday');
   var weekStartChanged = settings.weekStartSunday != weekStartSundayCheckbox.checked;
   applySettings();
-  updateSettings(settings, weekStartChanged);
+  updateSettings(settings);
+  if (weekStartChanged) {
+    makeCalendar();
+  }
 }
 
 function addTimezone() {

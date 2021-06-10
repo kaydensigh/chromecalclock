@@ -54,7 +54,7 @@ function getSetupWindowCallback(settings) {
     });
 
     win.contentWindow.settings = settings;
-    win.contentWindow.updateSettings = function (settings, reload) {
+    win.contentWindow.updateSettings = function (settings) {
       var localSettings = {
         alwaysOnTop: settings.alwaysOnTop,
         autoHide: settings.autoHide,
@@ -64,12 +64,12 @@ function getSetupWindowCallback(settings) {
         weekStartSunday: settings.weekStartSunday,
         hour24: settings.hour24,
       };
-      chrome.storage.local.set({ 'settings': localSettings }, function() {
+      chrome.storage.local.set({ 'settings': localSettings }, function () {
+        console.log('Updated local settings:');
+        console.log(localSettings);
         chrome.storage.sync.set({ 'settings': syncSettings }, function () {
-          if (reload) {
-            win.close();
-            onLaunched();
-          }
+          console.log('Updated sync settings:');
+          console.log(syncSettings);
         });
       });
     };
