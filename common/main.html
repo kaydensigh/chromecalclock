@@ -30,8 +30,8 @@
         <label class="date"></label>
       </div>
     </div>
-    <img id="settingsCog" src="cog.png">
-    <div id="settingsOverlay">
+    <img id="settingsCog" class="settingsIcon" src="cog.png">
+    <div id="settingsOverlay" class="settingsOverlay">
       <div id="settingsDiv">
         <div class="settingsItem hideInExtension">
           <span class="__MSG">ui_autoHide</span>
@@ -62,6 +62,14 @@
           </span>
           <button id="addTimezone" class="__MSG">ui_addTimezone</button>
         </div>
+      </div>
+    </div>
+    <img id="noticeIcon" class="settingsIcon" src="exclaim.png" style="display:none"/>
+    <div id="noticeOverlay" class="settingsOverlay">
+      <div id="noticeDiv">
+        <div>Google is <a href="https://blog.chromium.org/2020/08/changes-to-chrome-app-support-timeline.html" target="_blank">shutting down Chrome Apps</a> soon.</div>
+        <div>&nbsp;</div>
+        <div>Get <a href="https://chrome.google.com/webstore/detail/calendar-clock/abmmcineiaonblhmehimkeneglmcofge" target="_blank">this app as an extension here</a>.</div>
       </div>
     </div>
     <div id="removeTimezoneTemplate" class="removeTimezoneDiv" style="display:none">

@@ -40,4 +40,16 @@ window.addEvent('load', function() {
   setupSettings();
   applySettings();
   timerTick();
+
+  let noticeOverlay = document.getElementById('noticeOverlay');
+  let noticeIcon = document.getElementById('noticeIcon');
+  noticeIcon.style.display = 'block';
+  noticeIcon.addEventListener('click', function () {
+    noticeOverlay.style.display = 'flex';
+  });
+  noticeOverlay.addEventListener('click', function (e) {
+    if (e.target.id == 'noticeOverlay') {
+      noticeOverlay.style.display = 'none';
+    }
+  });
 });
